@@ -1,0 +1,637 @@
+[
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f3-1f1ec.svg",
+        "country": "Nigeria",
+        "code": "ng",
+        "meansOfIdentications": [
+            "National Identity Number"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e9-1f1ff.svg",
+        "country": "Algeria",
+        "code": "dz",
+        "meansOfIdentications": [
+            "Passport",
+            "بطاقة الهوية الوطنية/ Carte nationale d’identité (Algerian National Identity card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e6-1f1f4.svg",
+        "country": "Angola",
+        "code": "ad",
+        "meansOfIdentications": [
+            "Passport",
+            "Bilhete de identidade de cidadão nacional (national citizen identity card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1ef.svg",
+        "country": "Benin",
+        "code": "bj",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte Nationale d'identité (National Identity Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1fc.svg",
+        "country": "Botswana",
+        "code": "bw",
+        "meansOfIdentications": [
+            "Passport",
+            "Omang (National Identity Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1eb.svg",
+        "country": "Burkina Faso",
+        "code": "bf",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte d'Identité Nationale Burkinabè (CNIB) [Burkinabé National Identity Card]",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e7-1f1ee.svg",
+        "country": "Burundi",
+        "code": "bi",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte Nationale d'identité (National Identity Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1f2.svg",
+        "country": "Cameroon",
+        "code": "cm",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte Nationale d'identité (National Identity Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1fb.svg",
+        "country": "Cape Verde",
+        "code": "cv",
+        "meansOfIdentications": [
+            "Passport",
+            "Cartão Nacional de Identificação (CNI) [National Identity Card]",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1eb.svg",
+        "country": "Central African Republic",
+        "code": "cf",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte Nationale d'identité (National Identity Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f9-1f1e9.svg",
+        "country": "Chad",
+        "code": "td",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte Nationale d'identité (National Identity Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f0-1f1f2.svg",
+        "country": "Comoros",
+        "code": "km",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte Nationale d'identité (Comoros National Identity Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1e9.svg",
+        "country": "Democratic Republic of the Congo",
+        "code": "cg",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte Nationale d'identité (National Identity Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1ec.svg",
+        "country": "Republic of the Congo",
+        "code": "cd",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte Nationale d'identité (National Identity Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e8-1f1ee.svg",
+        "country": "Côte d’Ivoire",
+        "code": "ci",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte Nationale d'Identité (CNI) National Identity Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1e9-1f1ef.svg",
+        "country": "Djibouti",
+        "code": "dj",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte nationale d'identité/ بطاقة الهوية الوطنية (national identity card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ea-1f1ec.svg",
+        "country": "Egypt",
+        "code": "eg",
+        "meansOfIdentications": [
+            "Passport",
+            "بطاقة تحقيق الشخصية (Personality Verification Card)",
+            "Driving licence"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f6.svg",
+        "country": "Equatorial Guinea",
+        "code": "gq",
+        "meansOfIdentications": [
+            "Passport",
+            "Documento de Identidad Personal (Personal Identity Document)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ea-1f1f7.svg",
+        "country": "Eritrea",
+        "code": "er",
+        "meansOfIdentications": [
+            "Passport",
+            "ሃገራዊ ናይ መንነት ወረቀት (National identity card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1ff.svg",
+        "country": "Eswatini (Kingdom of Swaziland)",
+        "code": "sz",
+        "meansOfIdentications": [
+            "Passport",
+            "National Identity Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ea-1f1f9.svg",
+        "country": "Ethiopia",
+        "code": "et",
+        "meansOfIdentications": [
+            "Passport",
+            "Fayda Identification Number (Fayda ፋይዳ') ",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1e6.svg",
+        "country": "Gabon",
+        "code": "ga",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte Nationale d'identité (National Identity Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f2.svg",
+        "country": "Gambia",
+        "code": "gm",
+        "meansOfIdentications": [
+            "Passport",
+            "Gambian National Identity Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1ed.svg",
+        "country": "Ghana",
+        "code": "gh",
+        "meansOfIdentications": [
+            "Passport",
+            "Ghana Card (National Identity Card)",
+            "Driving licence",
+            "Voter's Card"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1f3.svg",
+        "country": "Guinea",
+        "code": "gn",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte Nationale d'identité (National Identity Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ec-1f1fc.svg",
+        "country": "Guinea-Bissau",
+        "code": "gw",
+        "meansOfIdentications": [
+            "Passport",
+            "Bilhete de identidade CEDEAO (CEDEAO National Identity Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f0-1f1ea.svg",
+        "country": "Kenya",
+        "code": "ke",
+        "meansOfIdentications": [
+            "Passport",
+            "National Identity Card (Kitambulisho)",
+            "Driving licence"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f1-1f1f8.svg",
+        "country": "Lesotho",
+        "code": "ls",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte Nationale d'identité (National Identity Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f1-1f1f7.svg",
+        "country": "Liberia",
+        "code": "lr",
+        "meansOfIdentications": [
+            "Passport",
+            "National Identity Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f1-1f1fe.svg",
+        "country": "Libya",
+        "code": "ly",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte Nationale d'identité (National Identity Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f2-1f1ec.svg",
+        "country": "Madagascar",
+        "code": "mg",
+        "meansOfIdentications": [
+            "Passport",
+            "Kara-panondrom-pirenena / Carte nationale d'identité de citoyen malagasy",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f2-1f1fc.svg",
+        "country": "Malawi",
+        "code": "mw",
+        "meansOfIdentications": [
+            "Passport",
+            "National Identity Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f2-1f1f1.svg",
+        "country": "Mali",
+        "code": "ml",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte Nationale d'identité NINA (NINA National Identity Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f2-1f1f7.svg",
+        "country": "Mauritania",
+        "code": "mr",
+        "meansOfIdentications": [
+            "Passport",
+            "بطاقة الهوية الوطنية / Carte Nationale d’identité (National Identity Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f2-1f1fa.svg",
+        "country": "Mauritius",
+        "code": "mu",
+        "meansOfIdentications": [
+            "Passport",
+            "National Identity Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1fe-1f1f9.svg",
+        "country": "Mayotte",
+        "code": "yt",
+        "meansOfIdentications": [
+            "Passport",
+            "National Identity Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f2-1f1e6.svg",
+        "country": "Morocco",
+        "code": "ma",
+        "meansOfIdentications": [
+            "Passport",
+            "البطاقة الوطنية للتعريف الإلكترونية / Carte nationale d'identité électronique (CNIE) / National electronic identity card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f2-1f1ff.svg",
+        "country": "Mozambique",
+        "code": "mz",
+        "meansOfIdentications": [
+            "Passport",
+            "Bilhete de identidade (Identity card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f3-1f1e6.svg",
+        "country": "Namibia",
+        "code": "na",
+        "meansOfIdentications": [
+            "Passport",
+            "National Identity Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f3-1f1ea.svg",
+        "country": "Niger",
+        "code": "ne",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte Nationale d'identité (National Identity Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f7-1f1ea.svg",
+        "country": "Réunion",
+        "code": "re",
+        "meansOfIdentications": [
+            "Passport",
+            "National Identity Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f7-1f1fc.svg",
+        "country": "Rwanda",
+        "code": "rw",
+        "meansOfIdentications": [
+            "Passport",
+            "Rwandan National Identity Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1ed.svg",
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "code": "sh",
+        "meansOfIdentications": [
+            "Passport",
+            "National Identity Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1f9.svg",
+        "country": "São Tomé & Príncipe",
+        "code": "st",
+        "meansOfIdentications": [
+            "Passport",
+            "Bilhete de identidade (identity card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1f3.svg",
+        "country": "Senegal",
+        "code": "sn",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte Nationale d'identité CEDEAO (CEDEAO National Identity Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1e8.svg",
+        "country": "Seychelles",
+        "code": "sc",
+        "meansOfIdentications": [
+            "Passport",
+            "National Identity Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1f1.svg",
+        "country": "Sierra Leone",
+        "code": "sl",
+        "meansOfIdentications": [
+            "Passport",
+            "Sierra Leone Identity Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1f4.svg",
+        "country": "Somalia",
+        "code": "so",
+        "meansOfIdentications": [
+            "Passport",
+            "Warqadda Aqoonsiga (identity card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ff-1f1e6.svg",
+        "country": "South Africa",
+        "code": "za",
+        "meansOfIdentications": [
+            "Passport",
+            "Smart ID Card",
+            "Driving licence",
+            "ID Book"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1f8.svg",
+        "country": "South Sudan",
+        "code": "ss",
+        "meansOfIdentications": [
+            "Passport",
+            "National Identity Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f8-1f1e9.svg",
+        "country": "Sudan",
+        "code": "sd",
+        "meansOfIdentications": [
+            "Passport",
+            "National Identity Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f9-1f1ff.svg",
+        "country": "Tanzania",
+        "code": "tz",
+        "meansOfIdentications": [
+            "Passport",
+            "Zanzibari Identification Card",
+            "Citizen Identity Card",
+            "Driving licence",
+            "Voter's Card"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f9-1f1ec.svg",
+        "country": "Togo",
+        "code": "tg",
+        "meansOfIdentications": [
+            "Passport",
+            "Carte Nationale d'Identité (CNI) National Identity Card",
+            "Driving licence",
+            "Residence permit",
+            "Passes"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1f9-1f1f3.svg",
+        "country": "Tunisia",
+        "code": "tn",
+        "meansOfIdentications": [
+            "Passport",
+            "بطاقة التعريف الوطنية (Tunisian National Identification Card)",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1fa-1f1ec.svg",
+        "country": "Uganda",
+        "code": "ug",
+        "meansOfIdentications": [
+            "Passport",
+            "National Identity Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ea-1f1ed.svg",
+        "country": "Western Sahara",
+        "code": "eh",
+        "meansOfIdentications": [
+            "Passport",
+            "National Identity Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ff-1f1f2.svg",
+        "country": "Zambia",
+        "code": "zm",
+        "meansOfIdentications": [
+            "Passport",
+            "National Registration Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    },
+    {
+        "flag": "https://twemoji.maxcdn.com/2/svg/1f1ff-1f1fc.svg",
+        "country": "Zimbabwe",
+        "code": "zw",
+        "meansOfIdentications": [
+            "Passport",
+            "National Registration Card",
+            "Driving licence",
+            "Residence permit"
+        ]
+    }
+]

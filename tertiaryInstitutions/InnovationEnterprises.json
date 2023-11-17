@@ -1,0 +1,2155 @@
+{
+    "institutions": [
+        {
+            "code": "AMHE",
+            "name": "Academy of Medical Health and Education",
+            "address": "Umoukwu, Oju LGA, Benue State",
+            "approved_programmes": [
+                "NID Security Management and Technology"
+            ],
+            "year_established": "December, 2022",
+            "ownership": "Private"
+        },
+        {
+            "code": "ACT",
+            "name": "Adeyemi College of Technology",
+            "address": "Ore Road, Ondo City, Ondo State",
+            "approved_programmes": [
+                "NID Computer Software Engineering",
+                "NID Computer Hardware Engineering"
+            ],
+            "year_established": "December, 2022",
+            "ownership": "Private"
+        },
+        {
+            "code": "ACAVTS",
+            "name": "African College of Agriculture, Vocational and Technical Studies",
+            "address": "KM 4, Oba – Ile Road, Akure, Ondo State.",
+            "approved_programmes": [
+                "NID Computer Software Engineering Technology",
+                "NID Multimedia Technology"
+            ],
+            "year_established": "September, 2021",
+            "ownership": "Private"
+        },
+        {
+            "code": "AICTI",
+            "name": "Afrihub ICT Institute",
+            "address": "AP Plaza, Ademola Adetokunbo Crescent Wuse II, Abuja, FCT.",
+            "contact_email": [
+                "ese.egerega@afrihub.com"
+            ],
+            "approved_programmes": [
+                "NID Computer Software Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "AKWAPOLY",
+            "name": "Akwa-Ibom State Polytechnic",
+            "address": "Ikot Osurua, PMB 1200, Ikot Ekpene, Akwa Ibon State",
+            "approved_programmes": [
+                "NID Business Informatics",
+                "NID Paralegal Studies"
+            ],
+            "year_established": 2022,
+            "ownership": "State"
+        },
+        {
+            "code": "AIET",
+            "name": "Al-Muhibba Institute ICT and Entrepreneurship",
+            "address": "2 Bicados Street, Off Charles Adebayo Street, Kubawa, Abuja",
+            "approved_programmes": [
+                "NID Computer Software Engineering",
+                "NID Networking and System Security",
+                "NID Business Informatics"
+            ],
+            "year_established": "January, 2022",
+            "ownership": "Private"
+        },
+        {
+            "code": "AC",
+            "name": "Ambassador College",
+            "address": "Festac, Lagos",
+            "approved_programmes": [
+                "NID Early Childcare Education and Management",
+                "NID Paralegal Studies"
+            ],
+            "year_established": 2010,
+            "ownership": "Private"
+        },
+        {
+            "code": "ACMT",
+            "name": "Ambassador College of Mgt. and Technology",
+            "address": "80c Igwuruta Road(Tank) Rumuokwurushi Port-harcourt",
+            "approved_programmes": [
+                "NID Paralegal Studies"
+            ],
+            "year_established": 2009,
+            "ownership": "Private"
+        },
+        {
+            "code": "AIFM",
+            "name": "Aquatech Institute of Fisheries Management",
+            "address": "Ibadan",
+            "approved_programmes": [
+                "NID Innovative Agriculture"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "APIE",
+            "name": "Arewa Paralegal Innovation ENT.",
+            "address": "No. 6. Sir Kashim Ibrahim Way, U/ Rimi Kaduna",
+            "approved_programmes": [
+                "NID Paralegal Studies"
+            ],
+            "year_established": 2009,
+            "ownership": "Private"
+        },
+        {
+            "code": "AREAK",
+            "name": "Asteven Renewable Energy Academy",
+            "address": "Kilometer 40, Lagos Ibadan Expressway Adjacent Greenland Estate Asese, Ogun State",
+            "approved_programmes": [
+                "NID Solar Energy Technology"
+            ],
+            "year_established": "July, 2021",
+            "ownership": "Private"
+        },
+        {
+            "code": "ACMSHT",
+            "name": "Awgu College of Medical Sciences and Health Technology",
+            "address": "Sieco Industrial Estate, Awgu, Enugu State",
+            "approved_programmes": [
+                "NID Paramedics and Emergency Medical Technology"
+            ],
+            "year_established": "December, 2022",
+            "ownership": "Private"
+        },
+        {
+            "code": "BISBAS",
+            "name": "Benson Idahosa School of Basic & Applied Studies",
+            "address": "Benin City, Edo State",
+            "approved_programmes": [
+                "NID Innovative Agriculture",
+                "NID Performing and Media Arts",
+                "NID Film and TV Production",
+                "NID Banking Operations",
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology",
+                "NID Networking and System Security",
+                "NID Paralegal Studies",
+                "NID Early Childcare Education and Management"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "BGBFS",
+            "name": "Best Global Business and Financial School",
+            "address": "Kachia Road, Kaduna",
+            "approved_programmes": [
+                "NID Banking Operations"
+            ],
+            "year_established": 2015,
+            "ownership": "Private"
+        },
+        {
+            "code": "BVC",
+            "name": "Bonny Vocational Centre",
+            "address": "Bonny Island, Rivers State",
+            "approved_programmes": [
+                "NID Building Construction"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "BAMT",
+            "name": "Buckingham Academy of Management and Technology",
+            "address": "Ogidi, Anambra State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security",
+                "NID Multimedia Technology"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "BEEC",
+            "name": "Business Education Examinations Council (BEEC)",
+            "address": "13 Randle Road, Apapa, Lagos State",
+            "contact_email": [
+                "beectraining@alpha.linkserve.com"
+            ],
+            "approved_programmes": [
+                "NID Film and TV Production"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "CFIT",
+            "name": "Calvary Foundation Institute of Technology",
+            "address": "Enugu, Enugu State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Welding & Fabrication"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "CCT",
+            "name": "Calvary College of Technology",
+            "address": "Ijoko, Ogun State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology"
+            ],
+            "year_established": 2015,
+            "ownership": "Private"
+        },
+        {
+            "code": "CIBT",
+            "name": "Central Institute of Business and Technology",
+            "address": "Kilometer 4 Benin-Abraka Road, Egba, Benin City",
+            "approved_programmes": [
+                "NID Networking and System Security",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology"
+            ],
+            "year_established": 2016,
+            "ownership": "Private"
+        },
+        {
+            "code": "CCAE",
+            "name": "Centre for Creative Arts Education",
+            "address": "Port-Harcourt, 2A Ndabras Close, Off Trans-Amadi, Port-Harcourt, Rivers State",
+            "contact_email": [
+                "bighproductions@yahoo.com"
+            ],
+            "approved_programmes": [
+                "NID Performing and Media Arts"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "CISN",
+            "name": "Certified Institute of Shipping of Nigeria (CISN)",
+            "address": "Badagary Express Way, Lagos",
+            "approved_programmes": [
+                "NID Shipping Management",
+                "NID Security Management and Technology",
+                "NID Marine Engineering"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "CEI",
+            "name": "Cherish Enterprise Institute",
+            "address": "Batsari, Katsina State",
+            "approved_programmes": [
+                "NID Computer Software Engineering",
+                "NID Computer Hardware Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "CIFMAN",
+            "name": "CIFMAN Institute of Technology",
+            "address": "Sabo, Yaba, Lagos",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2011,
+            "ownership": "Private"
+        },
+        {
+            "code": "CGIIT",
+            "name": "City Gate Institute of Innovation and Technology",
+            "address": "Ibadan, E-telligence Place, 3rd Floor, Babos Building, 1 Oluyole Way, Bodija, Ibadan, Oyo State.",
+            "contact_email": [
+                "citygateconsulting@yahoo.com"
+            ],
+            "approved_programmes": [
+                "NID Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "CIMT",
+            "name": "City Institute of Management and Technology",
+            "address": "Idogbo Educational Centre, Sani Abacha Road, Mararaba, Nasarawa State",
+            "approved_programmes": [
+                "NID Performing and Media Arts",
+                "NID Film and TV Production",
+                "NID Computer Software Engineering",
+                "NID Banking Operations",
+                "NID Security Management and Technology"
+            ],
+            "year_established": 2018,
+            "ownership": "Private"
+        },
+        {
+            "code": "CSMPA",
+            "name": "Clara School of Media & Performing Arts",
+            "address": "Yenogoa, Bayelsa State",
+            "approved_programmes": [
+                "NID Performing and Media Arts",
+                "NID Film and TV Production"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "CBI",
+            "name": "College of Banking and Finance",
+            "address": "Ibadan",
+            "approved_programmes": [
+                "NID Banking Operations"
+            ],
+            "year_established": 2014,
+            "ownership": "Private"
+        },
+        {
+            "code": "CCTI",
+            "name": "Complete Computers and Technology Institute",
+            "address": "Benin City, Edo State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2012,
+            "ownership": "Private"
+        },
+        {
+            "code": "CIMT",
+            "name": "Comprehensive Institute of Management and Technology",
+            "address": "Byazin, Kubwa, Abuja",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "CMOA",
+            "name": "Conarina Maririme Academy Oria",
+            "address": "Abraka, Delta State",
+            "approved_programmes": [
+                "NID Shipping Management",
+                "NID Security Management and Technology"
+            ],
+            "year_established": 2017,
+            "ownership": "Private"
+        },
+        {
+            "code": "DCAS",
+            "name": "Dagama College of Applied Science",
+            "address": "Chikaji Road, MTD Sabon Gari Zaria",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Banking Operation"
+            ],
+            "year_established": 2019,
+            "ownership": "Private"
+        },
+        {
+            "code": "DIT",
+            "name": "Dalewares Institute of Technology",
+            "address": "Lagos, 33 Imani Dauda St. Off Eric Moore Road, Surulere, Lagos State.",
+            "contact_email": [
+                "dalewares@yahoo.com",
+                "enquiry@dalewaresinstituteoftechnology.com"
+            ],
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology",
+                "NID Networking and System Security"
+            ],
+            "year_established": null,
+            "ownership": "Private"
+        },
+        {
+            "code": "DIMT",
+            "name": "Damson Institute of Management and Technology",
+            "address": "No 5 Damson Street, Off Etsu Jetta Street, Phase 1, Jikwoyi, Along Nyanya Karshi Road, FCT Abuja",
+            "approved_programmes": [
+                "NID Cosmetology and Beauty Therapy",
+                "NID Performing and Media Arts",
+                "NID Music Technology"
+            ],
+            "year_established": 2018,
+            "ownership": "Private"
+        },
+        {
+            "code": "DYCA",
+            "name": "Del-York Creative Academy",
+            "address": "Ikoyi, Lagos State",
+            "approved_programmes": [
+                "NID Performing and Media Arts",
+                "NID Film and TV Production"
+            ],
+            "year_established": 2015,
+            "ownership": "Private"
+        },
+        {
+            "code": "DCI-KADUNA",
+            "name": "Dialogue Computer Institute, Kaduna Study Centre",
+            "address": "1 Kudan Road, Legislative Qtrs, U/Dosa, Kaduna",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2009,
+            "ownership": "Private"
+        },
+        {
+            "code": "DCI-KATSINA",
+            "name": "Dialogue Computer Institute Katsina Study Centre",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2009,
+            "ownership": "Private"
+        },
+        {
+            "code": "DBI-KANO",
+            "name": "Digital Bridge Institute, Kano",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology",
+                "NID Networking and System Security",
+                "NID Telecommunication Technology"
+            ],
+            "year_established": 2016,
+            "ownership": "Federal"
+        },
+        {
+            "code": "DBI-LAGOS",
+            "name": "Digital Bridge Institute, Lagos",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology",
+                "NID Networking and System Security",
+                "NID Telecommunication Technology"
+            ],
+            "year_established": 2016,
+            "ownership": "Federal"
+        },
+        {
+            "code": "DIMT-OSOGBO",
+            "name": "Distinct Institute of Management and Technology, Osogbo",
+            "approved_programmes": [
+                "NID Banking Operations",
+                "NID Security Management and Technology"
+            ],
+            "year_established": 2018,
+            "ownership": "Private"
+        },
+        {
+            "code": "DOTS.ICT",
+            "name": "DOTS.ICT Institute of Technology, Agbadu Road, Abeokuta",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "ECWA-ICT",
+            "name": "ECWA Information and Computer Science Institute, Jos, Plateau State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering"
+            ],
+            "year_established": 2015,
+            "ownership": "Private"
+        },
+        {
+            "code": "EKO-COLLEGE",
+            "name": "Eko College of Management and Technology",
+            "address": "145, Ikotun Abanranje Road, Ikotun, Lagos State",
+            "approved_programmes": [
+                "NID Banking Operations",
+                "NID Multimedia Technology",
+                "NID Computer Hardware Engineering",
+                "NID Performing and Media Arts"
+            ],
+            "year_established": 2018,
+            "ownership": "Private"
+        },
+        {
+            "code": "EL-ACADEMY",
+            "name": "El- Academy Abuja",
+            "address": "340 Cadastral District Abuja, FCT",
+            "approved_programmes": [
+                "NID Computer software Engineering Tech.",
+                "NID Computer Networking and System Security."
+            ],
+            "year_established": "May, 2021",
+            "ownership": "Private"
+        },
+        {
+            "code": "ELERINMOSA",
+            "name": "Elerinmosa Institute of Techology Erin- Osun State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering Tech.",
+                "NID Computer software Engineering Tech.",
+                "NID Computer Networking and System Security."
+            ],
+            "year_established": "May, 2021",
+            "ownership": "Private"
+        },
+        {
+            "code": "EMC",
+            "name": "Emdee Shipping and Maritime College, Apapa, Lagos",
+            "approved_programmes": [
+                "NID Shipping Management"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "EVT",
+            "name": "Entrepreneurship Vocational Technology Ltd, Matan Fada, Kano State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Telecommunication Technology",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2010,
+            "ownership": "Private"
+        },
+        {
+            "code": "EIVET",
+            "name": "Enville Institute of Environmental and Safety Management",
+            "address": "Ikeja, Lagos",
+            "approved_programmes": [
+                "NID Environmental and Safety Management",
+                "NID Computer Software Engineering"
+            ],
+            "year_established": 2016,
+            "ownership": "Private"
+        },
+        {
+            "code": "ESTAC",
+            "name": "Environmental Sustainability Thinking and Action Centre (ESTAC), Institute of Construction & Engineering, Enugu.",
+            "address": "1, Mike Toney Avenue, Phase 6 Trans Ekulu, Enugu State.",
+            "approved_programmes": [
+                "NID Building Construction"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "FSM",
+            "name": "Fame School of Music",
+            "address": "17 Admiralty Way, Lekki Phase I, Lagos",
+            "approved_programmes": [
+                "NID Music Technology"
+            ],
+            "year_established": 2010,
+            "ownership": "Private"
+        },
+        {
+            "code": "FCFM-Afaka",
+            "name": "FCFM-Afaka Entrepreneurship Centre",
+            "address": "Kaduna",
+            "approved_programmes": [
+                "NID Innovative Agriculture"
+            ],
+            "year_established": 2010,
+            "ownership": "Private"
+        },
+        {
+            "code": "FMTI-KANO",
+            "name": "Filaps Media Training Institute, Kano",
+            "approved_programmes": [
+                "NID Film and TV Production"
+            ],
+            "year_established": 2015,
+            "ownership": "Private"
+        },
+        {
+            "code": "FABA",
+            "name": "Film and Broadcast Academy (FABA)",
+            "address": "Hospital Road, Ozoro-Delta State",
+            "approved_programmes": [
+                "NID Music Technology",
+                "NID Performing and Media Arts",
+                "NID Film and TV Production"
+            ],
+            "year_established": 2009,
+            "ownership": "Private"
+        },
+        {
+            "code": "FIBS",
+            "name": "First Irish Business School",
+            "address": "Egbeda – Idumu, Agege Lagos",
+            "approved_programmes": [
+                "NID Banking Operations"
+            ],
+            "year_established": 2018,
+            "ownership": "Private"
+        },
+        {
+            "code": "FMIST",
+            "name": "First Mark Innovation School of Technology, Ado-Ekiti",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2012,
+            "ownership": "Private"
+        },
+        {
+            "code": "FDIIT",
+            "name": "Flying Dove Institute of Information Technology",
+            "address": "Ground Floor, National Library Building, Adjacent reiz Continental Hotel, Central area Abuja.",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2010,
+            "ownership": "Private"
+        },
+        {
+            "code": "FCTIKOTIDEM",
+            "name": "Foundation College of Technology, Ikot Idem, Ikot Ekpene, Akwa Ibom State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "FCEHICTMS",
+            "name": "Foundation for Energy Health International College of Science and Technology Mgbowo, Awgu Local Government Area, Enugu State",
+            "approved_programmes": [
+                "NID Energy Health"
+            ],
+            "year_established": 2018,
+            "ownership": "Private"
+        },
+        {
+            "code": "GIP-ONI",
+            "name": "Gateway Industrial Petrogas Institute, Oni, Ogun State",
+            "approved_programmes": [
+                "NID Welding and Fabrication",
+                "NID Computer Hardware Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2013,
+            "ownership": "State"
+        },
+        {
+            "code": "GICT-GWARINPA",
+            "name": "Global Institute of Commerce and Technology, Gwarinpa, Abuja",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2015,
+            "ownership": "Private"
+        },
+        {
+            "code": "GMA-OGUNI",
+            "name": "Global Maritime Academy, Oguni-Ololmu, Delta State",
+            "approved_programmes": [
+                "NID Shipping Management",
+                "NID Marine Engineering",
+                "NID Welding and Fabrication",
+                "NID Security Management and Technology"
+            ],
+            "year_established": 2012,
+            "ownership": "Private"
+        },
+        {
+            "code": "GIM-KOGI",
+            "name": "Glory land Institute of Management Ankpa, Kogi State",
+            "approved_programmes": [
+                "NID Banking Operations",
+                "NID Shipping Management"
+            ],
+            "year_established": 2016,
+            "ownership": "Private"
+        },
+        {
+            "code": "GCIT",
+            "name": "Grace City Institute of Technology and Management Science Ltd",
+            "address": "Opposite Rinsayo Filling Station, Ring Road, Osogbo, Osun State",
+            "approved_programmes": [
+                "NID Computer Software Engineering"
+            ],
+            "year_established": 2018,
+            "ownership": "Private"
+        },
+        {
+            "code": "GPCOT-MD",
+            "name": "Graig- Philips College of Technology, Maryland, Lagos State",
+            "approved_programmes": [
+                "NID Film and TV Production"
+            ],
+            "year_established": 2015,
+            "ownership": "Private"
+        },
+        {
+            "code": "GCMCMT",
+            "name": "Grajos College of Mass Communication and Management Technology",
+            "address": "Sowemimo Street, Aduro Bus Stop, Ijaiye Ojokoro Lagos, Lagos State",
+            "approved_programmes": [
+                "NID Broadcast Journalism",
+                "NID Multimedia Technology"
+            ],
+            "year_established": "July, 2021",
+            "ownership": "Private"
+        },
+        {
+            "code": "HSSMT",
+            "name": "Halogen School of Security Management and Technology",
+            "address": "Ikeja, Lagos",
+            "approved_programmes": [
+                "NID Security Management and Technology",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2019,
+            "ownership": "Private"
+        },
+        {
+            "code": "HIN",
+            "name": "Hajj Institute of Nigeria",
+            "address": "Plot 992, Zakaria Maimalari Street, Central Business District, FCT - Abuja",
+            "approved_programmes": [
+                "NID Hospitality and Tourism"
+            ],
+            "year_established": 2022,
+            "ownership": "Private"
+        },
+        {
+            "code": "HCI",
+            "name": "Highland College Ibadan",
+            "address": "c/o Segun Fatoki, 98 Iwo Road, Ibadan, Oyo State.",
+            "contact_email": [
+                "segunfatoki@hotmail.com",
+                "highlandcollege@yahoo.com"
+            ],
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "HOGFES",
+            "name": "Homik Oil and Gas Facility Engineering School",
+            "address": "Homik Rehoboth Court by Jesus Evang Power Mission, NTA/ Choba Road Ozuoba, Port Harcourt, Rivers State",
+            "approved_programmes": [
+                "NID Oil and Gas Facilities Engineering Technology"
+            ],
+            "year_established": 2018,
+            "ownership": "Private"
+        },
+        {
+            "code": "HJLA",
+            "name": "Honourable Justice L. O. Aremu’s Academy for Basic Studies",
+            "address": "Ibadan, Oyo State",
+            "approved_programmes": [
+                "NID Paralegal Studies"
+            ],
+            "year_established": 2015,
+            "ownership": "Private"
+        },
+        {
+            "code": "IIMT",
+            "name": "Ibom Institute of Management and Technology",
+            "address": "Ikot Ekpene",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Telecommunication Technology",
+                "NID Networking and System Security",
+                "NID Banking Operations"
+            ],
+            "year_established": 2014,
+            "ownership": "Private"
+        },
+        {
+            "code": "IIFIMN",
+            "name": "ICCN Institute of Finance and Investment Management Nkwerre",
+            "address": "Imo State",
+            "approved_programmes": [
+                "NID Banking Operations"
+            ],
+            "year_established": 2017,
+            "ownership": "Private"
+        },
+        {
+            "code": "IBS",
+            "name": "Ife Business School",
+            "address": "Ile Ife, Osun State",
+            "approved_programmes": [
+                "NID Banking Operations",
+                "NID Shipping Management"
+            ],
+            "year_established": 2017,
+            "ownership": "Private"
+        },
+        {
+            "code": "ICMT",
+            "name": "IFO College of Management & Technology",
+            "address": "P.M.B 5030 Ifo, Km. 50, Lagos Abeokuta Expressway, Techno Bus Stop, Ogun State.",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2009,
+            "ownership": "Private"
+        },
+        {
+            "code": "ICCTI",
+            "name": "Ilesha City College of Technology",
+            "address": "Ilase –Ijesha, Ilesha, Osun State",
+            "approved_programmes": [
+                "NID Computer Software Engineering"
+            ],
+            "year_established": 2018,
+            "ownership": "Private"
+        },
+        {
+            "code": "ICBT",
+            "name": "Iman College of Business Technology",
+            "address": "Sharada Phase 2 Kano, Kano State",
+            "approved_programmes": [
+                "NID Computer Software Engineering",
+                "NID Networking and System Security",
+                "NID Professional Development and Early Child Care Management"
+            ],
+            "year_established": 2019,
+            "ownership": "Private"
+        },
+        {
+            "code": "IMFI-ICTA",
+            "name": "IMFI-ICT Academy",
+            "address": "54, Nsikak Eduok Avenue, Uyo, Akwa Ibom State.",
+            "contact_email": [
+                "imfilimited@e_mail.com",
+                "edwardudo@yahoo.com"
+            ],
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology",
+                "NID Networking and System Security",
+                "NID Telecommunication Technology"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "ICAST-KANO",
+            "name": "Imperial College of Advance Studies",
+            "address": "8B Zoo Road Kano, Kano State",
+            "approved_programmes": [
+                "NID Banking Operations",
+                "NID Computer Software Technology",
+                "NID Film and Television Prod.",
+                "NID Paralegal",
+                "NID Multimedia",
+                "NID Networking and System Security",
+                "NID Building Technology"
+            ],
+            "year_established": "July, 2021",
+            "ownership": "Private"
+        },
+        {
+            "code": "ITF-MSTC",
+            "name": "Industrial Training Fund(ITF) Models Skills Training Centre",
+            "address": "Adetokunbo Ademola Crescent, Maitama, Abuja",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security",
+                "NID Building Construction",
+                "NID Welding and Fabrication",
+                "NID Facility Management",
+                "NID Mechatronics & Automation Technology",
+                "NID Hospitality & Tourism Management",
+                "NID Electrical/Electronics"
+            ],
+            "year_established": 2016,
+            "ownership": "Federal"
+        },
+        {
+            "code": "IIIT-AKURE",
+            "name": "Innovation Institute of Information Technology",
+            "address": "Akure, Ondo State",
+            "approved_programmes": [
+                "NID Computer Software Engineering"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "IIT-KADUNA",
+            "name": "Innovation Institute of Technology",
+            "address": "No. 5. Yakubu Gowon Way, Kaduna",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security",
+                "NID Telecommunication Technology"
+            ],
+            "year_established": 2009,
+            "ownership": "Private"
+        },
+        {
+            "code": "IBFI",
+            "name": "Institute of Banking and Finance Ibadan",
+            "approved_programmes": [
+                "NID Banking Operations"
+            ],
+            "year_established": 2015,
+            "ownership": "Private"
+        },
+        {
+            "code": "ICSIS",
+            "name": "Institute of Corporate Security and Intelligence Studies",
+            "address": "Sani Abacha Youth Centre, 22/32 Madobi Road, Kano, Kano State",
+            "approved_programmes": [
+                "NID Security Management and Technology",
+                "NID Paralegal Studies"
+            ],
+            "year_established": 2017,
+            "ownership": "Private"
+        },
+        {
+            "code": "IICT-AWGU",
+            "name": "Institute of Information and Computer Technology",
+            "address": "Awgu, Enugu State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Telecommunication Technology"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "IMSTAL",
+            "name": "Institute of Maritime and Safety",
+            "address": "Alimosho, Lagos",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Marine Engineering",
+                "NID Welding and Fabrication",
+                "NID Banking Operations",
+                "NID Shipping Management",
+                "NID Security Management and Technology"
+            ],
+            "year_established": 2018,
+            "ownership": "Private"
+        },
+        {
+            "code": "ITMT",
+            "name": "Institute of Transport and Management Technology",
+            "address": "Km 43, Agbo Malu Bus Stop, MTN Badagry Express Way, Lagos",
+            "approved_programmes": [
+                "NID Shipping Management"
+            ],
+            "year_established": 2017,
+            "ownership": "Private"
+        },
+        {
+            "code": "ICCN-ISTM",
+            "name": "International Chaplaincy Corps Network (ICCN) Institute of Security Technology and Management",
+            "address": "Orlu, Imo State",
+            "approved_programmes": [
+                "NID Security Management and Technology",
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "IPCAS-T",
+            "name": "International Professional College of Administration, Science & Technology",
+            "address": "Km 20, Abuja – Keffi Express Road, Masaka Mission City, Nasarawa State.",
+            "approved_programmes": [
+                "NID Computer Software Engineering",
+                "NID Computer Hardware Engineering Technology",
+                "NID Business Informatics",
+                "NID Banking Operations"
+            ],
+            "year_established": 2022,
+            "ownership": "Private"
+        },
+        {
+            "code": "IVTECH-KWARA",
+            "name": "International Vocational Technical Entrepreneurship Centre (IVTECH)",
+            "address": "Ajase-Ipo, Kwara State",
+            "approved_programmes": [
+                "NID Computer Software Engineering",
+                "NID Computer Hardware Engineering",
+                "NID Networking and System Security",
+                "NID Multimedia Technology",
+                "NID Building Operations",
+                "NID Welding & Fabrication",
+                "NID Electrical/Electronic Technology"
+            ],
+            "year_established": 2019,
+            "ownership": "State"
+        },
+        {
+            "code": "IICT-IJCT",
+            "name": "Ipetu-Ijesha College of Technology",
+            "address": "Ipetu-Ijesha, Osun State",
+            "approved_programmes": [
+                "NID Computer Software Engineering",
+                "NID Banking Operations"
+            ],
+            "year_established": 2018,
+            "ownership": "Private"
+        },
+        {
+            "code": "IOIMST",
+            "name": "Izisco Obos Institute of Marine Studies & Technology",
+            "address": "Warri, Delta State",
+            "approved_programmes": [
+                "NID Marine Engineering",
+                "NID Welding & Fabrication",
+                "NID Banking Operations",
+                "NID Shipping Management"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "KBS",
+            "name": "Kaduna Business School",
+            "address": "17 Gobarau Road U/Rimi, Kaduna",
+            "website": "www.kadunabusineessschool.org",
+            "approved_programmes": [
+                "NID Banking Operations"
+            ],
+            "year_established": 2010,
+            "ownership": "Private"
+        },
+        {
+            "code": "KSITM",
+            "name": "Katsina State Institute of Technology and Management",
+            "address": "Katsina, Katsina State",
+            "approved_programmes": [
+                "NID Banking Operations",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security",
+                "NID Multimedia Technology"
+            ],
+            "year_established": 2015,
+            "ownership": "State"
+        },
+        {
+            "code": "KQBI",
+            "name": "Kings and Queens Beauty Institute",
+            "address": "No. 57 Abidjan Street, Wuse Zone 3 Abuja, FCT",
+            "approved_programmes": [
+                "NID Cosmetology and Beauty Therapy"
+            ],
+            "year_established": 2018,
+            "ownership": "Private"
+        },
+        {
+            "code": "KETCO",
+            "name": "Kunoch Education and Training College Owerri",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "LEI",
+            "name": "Ladela Educational Institute (Dreamsville Ltd.)",
+            "address": "Plot 32, Port-Harcourt Crescent, Garki, Abuja, FCT.",
+            "website": "www.dreamsvilleltd.com",
+            "approved_programmes": [
+                "NID Early Childcare Education and Management"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "LAMB",
+            "name": "Lagos Aviation and Maritime Business (LAMB) Academy",
+            "address": "Iyana-Paja, Lagos",
+            "approved_programmes": [
+                "NID Shipping Management",
+                "NID Security Management and Technology"
+            ],
+            "year_established": 2012,
+            "ownership": "Private"
+        },
+        {
+            "code": "LCCC",
+            "name": "Lagos City Computer College",
+            "address": "7 Bashiru Oweh Street, P.M.B. 21200, Ikeja, Lagos State.",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "LPGC",
+            "name": "Laser Petroleum Geosciences Centre",
+            "address": "Port-Harcourt, P.O. Box 123, Uniport Post Office, Choba, Port-Harcourt. Km 5 East West Road, Off IMCO Petrol Station Rumuogara, Port-Harcourt, Rivers State.",
+            "contact_email": [
+                "manpower@laser-ng.org",
+                "laser_manpower@yahoo.com"
+            ],
+            "approved_programmes": [
+                "NID Petroleum Geo-Sciences"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "LSM",
+            "name": "Laurel School of Mines",
+            "address": "Ogudu, Lagos",
+            "approved_programmes": [
+                "NID Gemology and Goldsmithing"
+            ],
+            "year_established": 2019,
+            "ownership": "Private"
+        },
+        {
+            "code": "LSMT",
+            "name": "Lens School of Management and Technology",
+            "address": "Offa, Kwara State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security",
+                "NID Telecommunication Technology"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "LCSMT",
+            "name": "Lincoln College of Science, Management and Technology",
+            "address": "FCT, Abuja",
+            "approved_programmes": [
+                "NID Computer Software Engineering",
+                "NID Banking Operations"
+            ],
+            "year_established": 2020,
+            "ownership": "Private"
+        },
+        {
+            "code": "LPII",
+            "name": "Linet Paul Innovative Institute",
+            "address": "No 1Sunmail Drive Off Isaac Boro Expressway, Etegwe-Yenagoa, Bayelsa State.",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology",
+                "NID Telecommunication Technology"
+            ],
+            "year_established": 2010,
+            "ownership": "Private"
+        },
+        {
+            "code": "LSCIT",
+            "name": "Living Spring College of Innovation Technology",
+            "address": "Oshogbo, Osun State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2012,
+            "ownership": "Private"
+        },
+        {
+            "code": "LAPA",
+            "name": "Lufodo Academy of Performing Arts",
+            "address": "Ikoyi, 22 Bourdillon Road Ikoyi-Lagos",
+            "contact_email": [
+                "lufodoproductions@yahoo.com",
+                "lufodo@yahoo.com"
+            ],
+            "approved_programmes": [
+                "NID Performing and Media Arts"
+            ],
+            "year_established": 2010,
+            "ownership": "Private"
+        },
+        {
+            "code": "MBFS",
+            "name": "Magic Brush Film School",
+            "address": "Port Harcourt, 12,  Owu Street Behind Barnax Building, Waterlines Junction, Aba Road, Port Harcourt, Rivers State",
+            "approved_programmes": [
+                "NID Film and Television Production"
+            ],
+            "year_established": 2017,
+            "ownership": "Private"
+        },
+        {
+            "code": "MIHMEE",
+            "name": "Mario Institute of Hospitality Management and Entrepreneurship Education",
+            "address": "Uhunowerre, Igbo – Eze South LGA Nsukka, Enugu State",
+            "approved_programmes": [
+                "NID Networking & System Security",
+                "NID Cosmetology and Beauty Therapy"
+            ],
+            "year_established": 2017,
+            "ownership": "Private"
+        },
+        {
+            "code": "MIMT",
+            "name": "Marvel Institute of Management & Technology",
+            "address": "Kuchikau, Nasarawa State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "MCI",
+            "name": "Mastermind Catering and Culinary Institute",
+            "address": "Gwarimpa, Abuja",
+            "approved_programmes": [
+                "NID Hospitality",
+                "NVC Hospitality"
+            ],
+            "year_established": "September, 2021",
+            "ownership": "Private"
+        },
+        {
+            "code": "MIMT",
+            "name": "Maurid Institute of Management and Technology",
+            "address": "Oron, Akwa Ibom State",
+            "approved_programmes": [
+                "NID Banking Operations",
+                "NID Computer Software Engineering"
+            ],
+            "year_established": 2016,
+            "ownership": "Private"
+        },
+        {
+            "code": "MIMT",
+            "name": "Maurid Institute of Management and Technology",
+            "address": "Mbiaso, Akwa Ibom State",
+            "approved_programmes": [
+                "NID Banking Operations",
+                "NID Computer Software Engineering",
+                "NID Telecommunication Technology",
+                "NID Performing and Media Arts",
+                "NID Paralegal"
+            ],
+            "year_established": 2017,
+            "ownership": "Private"
+        },
+        {
+            "code": "MOCTEM",
+            "name": "Mbara Ozioma College of Technology",
+            "address": "Ehime – Mbano, Imo State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Building Construction",
+                "NID Welding and Fabrication",
+                "NID Electrical and Electronics Technology"
+            ],
+            "year_established": 2016,
+            "ownership": "Private"
+        },
+        {
+            "code": "MCOTI",
+            "name": "Metrocity College of Technology",
+            "address": "No 31 Dorcas Moralahun Street, Oko-Oba, Agege, Lagos",
+            "approved_programmes": [
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology",
+                "NID Business Informatics"
+            ],
+            "year_established": "February, 2022",
+            "ownership": "Private"
+        },
+        {
+            "code": "MSAI",
+            "name": "Merchant Seaman Academy",
+            "address": "Ikot Adautor Essien, Udim L. G. A. Akwa Ibom State",
+            "approved_programmes": [
+                "NID Security Management and Technology",
+                "NID Shipping Management"
+            ],
+            "year_established": 2014,
+            "ownership": "Private"
+        },
+        {
+            "code": "MITI",
+            "name": "Minna Institute of Technology and Innovation",
+            "address": "Kpakungu Road, Minna, Niger State",
+            "approved_programmes": [
+                "NID Building Construction",
+                "NID Computer Hardware Engineering",
+                "NID Welding and Fabrication",
+                "NID Electrical and Electronics Technology"
+            ],
+            "year_established": 2016,
+            "ownership": "State"
+        },
+        {
+            "code": "MPISSS",
+            "name": "My Project Institute of Security and Strategic Studies",
+            "address": "Zuba, Abuja, FCT",
+            "approved_programmes": [
+                "NID Security Management and Technology"
+            ],
+            "year_established": 2016,
+            "ownership": "Private"
+        },
+        {
+            "code": "NIMT",
+            "name": "NAOWA Institute of Management and Technology",
+            "address": "Asokoro, Abuja",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security",
+                "NID Paralegal Studies",
+                "NID Security Management and Technology"
+            ],
+            "year_established": 2013,
+            "ownership": "Federal"
+        },
+        {
+            "code": "NBCT",
+            "name": "Nation Builders College of Technology",
+            "address": "Asaba, Delta State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering Tech.",
+                "NID Multimedia Technology",
+                "NID Hospitality and Tourism Studies"
+            ],
+            "year_established": "May, 2021",
+            "ownership": "Private"
+        },
+        {
+            "code": "NCWD",
+            "name": "National Centre for Women Development",
+            "address": "Tafawa Balewa Street, Central Business District, Abuja",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering"
+            ],
+            "year_established": 2010,
+            "ownership": "Federal"
+        },
+        {
+            "code": "NFI",
+            "name": "National Film Institute",
+            "address": "Jos, Plateau State",
+            "approved_programmes": [
+                "NID Film and TV Production"
+            ],
+            "year_established": 2011,
+            "ownership": "Private"
+        },
+        {
+            "code": "NCNSMT",
+            "name": "Nigeria College of Natural Science Medicine Technology",
+            "address": "No 9, Kofo Abayomi Street, Victoria Island, Lagos State",
+            "approved_programmes": [
+                "NID Business Informatics",
+                "NID Natural Traditional Medicine Technology"
+            ],
+            "year_established": 2022,
+            "ownership": "Private"
+        },
+        {
+            "code": "NITT",
+            "name": "Nigerian Institute of Transport Technology",
+            "address": "Basawa Road, Zaria, Kaduna State",
+            "approved_programmes": [
+                "NID Electrical Engineering",
+                "NID Automotive Mechatronics",
+                "NID Welding and Fabrication",
+                "NID Fire Engineering Technology",
+                "NID Shipping Management",
+                "NVC Refrigeration and Air conditioning"
+            ],
+            "year_established": "July, 2021",
+            "ownership": "Federal"
+        },
+        {
+            "code": "NKFI",
+            "name": "Nigeria–Korea Friendship Institute of Vocational and Advanced Technology",
+            "address": "Lokoja, Kogi State",
+            "approved_programmes": [
+                "NID Computer Software Engineering",
+                "NID Networking and System Security",
+                "NID Welding and Fabrication",
+                "NID  Electrical/Electronic Technology"
+            ],
+            "year_established": 2018,
+            "ownership": "State"
+        },
+        {
+            "code": "NTA",
+            "name": "Nigerian Television Authority (NTA), Television College",
+            "address": "Old Government House Close, Ray field, Jos, Plateau State.",
+            "approved_programmes": [
+                "NID Film and TV Production",
+                "NID Television Engineering Technology"
+            ],
+            "year_established": 2017,
+            "ownership": "Federal"
+        },
+        {
+            "code": "NIITETC",
+            "name": "NIIT Education and Training Centre",
+            "address": "Or NIIT/IDM Building, 9 Oba Akran Avenue, Ikeja Lagos.",
+            "contact_email": [
+                "rishi.malik@idmng.com"
+            ],
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "NIITAJ",
+            "name": "NIIT Ajah Centre",
+            "address": "Km 11, Lekki-Epe Express Way, First Gate - Ikota,(By Great Brands).",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security",
+                "NID Multimedia Technology"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "NIITBC",
+            "name": "NIIT Benin Centre",
+            "address": "11, Adesuwa Grammar School Road, GRA, Benin City, Edo State.",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "NIIT_Festac",
+            "name": "NIIT Festac Centre",
+            "address": "Lagos",
+            "approved_programmes": [
+                "NID Networking and System Security",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology",
+                "NID Computer Hardware Engineering"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "NIIT_Garki",
+            "name": "NIIT Garki Centre",
+            "address": "4, Dambata Close, Off Yola Street, Area 7, Garki, Abuja.",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "NIIT_Gbagada",
+            "name": "NIIT Gbagada Centre",
+            "address": "141C, Gbagada-Oshodi Express Road (Opposite Hotel New Castel), Lagos State.",
+            "contact_email": [
+                "festac@niitng.com"
+            ],
+            "approved_programmes": [
+                "NID Networking and System Security"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "NIIT_Ikorodu",
+            "name": "NIIT Ikorodu Centre",
+            "address": "14, Olorunojowon  Street, (Besides Zenith Bank), Lagos State.",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "NIIT_Offa",
+            "name": "NIIT Offa Centre",
+            "address": "2nd Floor, Olatinwo House, Olofa Way, Offa, Kwara State.",
+            "contact_email": [
+                "offa@niitng.com"
+            ],
+            "approved_programmes": [
+                "NID Computer Software Engineering"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "NIIT_Ota",
+            "name": "NIIT Ota Centre",
+            "address": "Tantolorun House, KM 1, Idi-iroko Road, Ota Round-About, Ota, Ogun State.",
+            "contact_email": [
+                "otta@niitng.com"
+            ],
+            "approved_programmes": [
+                "NID Computer Software Engineering"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "NIIT_PHC",
+            "name": "NIIT Port – Harcourt Centre",
+            "address": "NIIT Place, Kaduna Street, D-Line, Port- Harcourt, Rivers State",
+            "approved_programmes": [
+                "NID Computer Software Engineering"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "NIIT_Surulere",
+            "name": "NIIT Surulere Centre",
+            "address": "Lagos",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security",
+                "NID Multimedia Technology"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "NIIT_Uyo",
+            "name": "NIIT Uyo Centre",
+            "address": "30, Udosen Uko Street, Off Oron Road, Uyo, Akwa Ibom State.",
+            "contact_email": [
+                "uyo@niitng.com"
+            ],
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "NIIT_Warri",
+            "name": "NIIT Warri Centre",
+            "address": "43, Airport Road, Effurun, Warri, Delta State.",
+            "contact_email": [
+                "warri@niitng.com"
+            ],
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "NEMS",
+            "name": "Northbridge Entrepreneurial Management School",
+            "address": "No 13, Batayya House, Zaria Road, Kano State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering Technology",
+                "NID Networking and System Security",
+                "NID Computer Software Engineering",
+                "NID Agriculture",
+                "NID Business Informatics"
+            ],
+            "year_established": "February, 2022",
+            "ownership": "Private"
+        },
+        {
+            "code": "NSMTL",
+            "name": "Nspire School of Management and Technology Limited",
+            "address": "Oyo House, Central Business District, Abuja, FCT",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2014,
+            "ownership": "Private"
+        },
+        {
+            "code": "OI_Agriculture",
+            "name": "OfferCentre Institute of Agriculture",
+            "address": "Olupona, Iwo, Osun State",
+            "approved_programmes": [
+                "NID Agriculture"
+            ],
+            "year_established": 2015,
+            "ownership": "Private"
+        },
+        {
+            "code": "OASIS",
+            "name": "Olawoyin Awosika School of Innovation Studies (OASIS)",
+            "address": "Isheri North LGA, Lagos",
+            "approved_programmes": [
+                "NID Banking Operations"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "Oluaka_IT",
+            "name": "Oluaka Institute of Technology",
+            "address": "Obinze, Owerri",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2019,
+            "ownership": "Private"
+        },
+        {
+            "code": "ONIT",
+            "name": "ONIT Institute of Technology",
+            "address": "P.O.Box 677 Abagana, Njikoka L.G.A, Anambra State.",
+            "contact_email": [
+                "onitinstitute@yahoo.com"
+            ],
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Multimedia Technology"
+            ],
+            "year_established": 2010,
+            "ownership": "Private"
+        },
+        {
+            "code": "OEICTI",
+            "name": "Oseni Elamah ICT Institute",
+            "address": "No. 39 Polytechnic Road, Auchi.",
+            "approved_programmes": [
+                "NID Computer Software Engineering"
+            ],
+            "year_established": 2009,
+            "ownership": "Private"
+        },
+        {
+            "code": "OCMTI",
+            "name": "Owu College of Management Technology",
+            "address": "Itele-Ota, Ogun State",
+            "approved_programmes": [
+                "NID Banking Operations"
+            ],
+            "year_established": 2013,
+            "ownership": "Private"
+        },
+        {
+            "code": "PAIPS",
+            "name": "Pan-African Institute of Paralegal Studies",
+            "address": "Gwarimpa, Abuja",
+            "approved_programmes": [
+                "NID Paralegal Studies"
+            ],
+            "year_established": 2012,
+            "ownership": "Private"
+        },
+        {
+            "code": "PIMTA",
+            "name": "Peace Institute of Management Technology",
+            "address": "Abak, Akwa Ibom State",
+            "approved_programmes": [
+                "NID Multimedia Technology",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2018,
+            "ownership": "Private"
+        },
+        {
+            "code": "PANLC",
+            "name": "Peugeot Automobile Nigeria (PAN) Learning Centre",
+            "address": "PAN Drive Kakuri Kaduna, Kaduna State",
+            "approved_programmes": [
+                "NID Computer Software Engineering",
+                "NID Welding and Fabrication",
+                "NID Computer Hardware Engineering Technology",
+                "NID Automotive Mechatronics"
+            ],
+            "year_established": "July, 2021",
+            "ownership": "Private"
+        },
+        {
+            "code": "PEFTI",
+            "name": "Pencil Film and Television Institute (PEFTI)",
+            "address": "26/28 Oshodi-Apapa Expressway. Charity Bus stop. Oshodi, Lagos State.",
+            "contact_email": [
+                "pefti2004@yahoo.com"
+            ],
+            "approved_programmes": [
+                "NID Music Technology",
+                "NID Performing and Media Arts",
+                "NID Film and TV Production"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "PIIT_Ajah",
+            "name": "Prime Innovation Institute of Technology",
+            "address": "Ajah, Lagos",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security",
+                "NID Multimedia Technology",
+                "NID Telecommunication Engineering"
+            ],
+            "year_established": 2012,
+            "ownership": "Private"
+        },
+        {
+            "code": "RCMT",
+            "name": "Raindrop College of Management and Technology",
+            "address": "Amannachi, Ebenator, Orsu L.G.A, Imo State",
+            "year_established": "January 2022",
+            "ownership": "Private"
+        },
+        {
+            "code": "RCA",
+            "name": "Risk Control Academy",
+            "address": "E 394 Ikota Shopping Complex, Lekki-Epe Expressway, Lagos.",
+            "contact_email": [
+                "info@riskcontrolnigeria.com",
+                "fajayi@riskcontrolnigeria.com"
+            ],
+            "approved_programmes": [
+                "NID Security Management and Technology",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2010,
+            "ownership": "Private"
+        },
+        {
+            "code": "RIT",
+            "name": "Rocana Institute of Technology",
+            "address": "Enugu",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Networking and System Security",
+                "NID Multimedia Technology",
+                "NID Telecommunication Engineering"
+            ],
+            "year_established": 2012,
+            "ownership": "Private"
+        },
+        {
+            "code": "RCA",
+            "name": "Rolof Computer Academy",
+            "address": "Plot 110, Apala Street, Off Okumagba Avenue, Warri, Delta State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security",
+                "NID Multimedia Technology"
+            ],
+            "year_established": 2017,
+            "ownership": "Private"
+        },
+        {
+            "code": "RAA",
+            "name": "Royal Arts Academy",
+            "address": "Surulere, Lagos State",
+            "approved_programmes": [
+                "NID Film and TV Production"
+            ],
+            "year_established": 2015,
+            "ownership": "Private"
+        },
+        {
+            "code": "SBAI",
+            "name": "Sagamu Business and Arts Institute",
+            "address": "Sagamu, Ogun State",
+            "approved_programmes": [
+                "NID Film and TV Production",
+                "NID Performing and Media Arts"
+            ],
+            "year_established": 2016,
+            "ownership": "Private"
+        },
+        {
+            "code": "SBH",
+            "name": "School of Banking Honours",
+            "address": "74, Isheri Road (All Season Place), Beside Federal Road Safety Corp, Ojodu, P.O. Box 11314, Ikeja, Lagos.",
+            "website": "www.sbh.edu.ng",
+            "approved_programmes": [
+                "NID Banking Operations"
+            ],
+            "year_established": 2007,
+            "ownership": "Private"
+        },
+        {
+            "code": "SIMT",
+            "name": "Sentona Institute of Management and Technology",
+            "address": "New Nyanya, Karu L. G. A., Abuja",
+            "approved_programmes": [
+                "NID Cosmetology and Beauty Therapy",
+                "NID Film and TV Production",
+                "NID Performing and Media Arts"
+            ],
+            "year_established": 2014,
+            "ownership": "Private"
+        },
+        {
+            "code": "SIFTI",
+            "name": "Smart Image Film and Theatre Institute",
+            "address": "Ibadan, Oyo State",
+            "approved_programmes": [
+                "NID Film and TV Production"
+            ],
+            "year_established": 2015,
+            "ownership": "Private"
+        },
+        {
+            "code": "Softquest",
+            "name": "Softquest Incorporated College",
+            "address": "Ogbomoso, Oyo state",
+            "approved_programmes": [
+                "NID Computer Software Technology",
+                "NID Computer Hardware Engineering Technology"
+            ],
+            "year_established": "September, 2021",
+            "ownership": "Private"
+        },
+        {
+            "code": "Soteria_BS",
+            "name": "Soteria Business School",
+            "address": "Bola Ige Junction, Liberty Road, Oke Ado, Ibadan, Oyo State",
+            "approved_programmes": [
+                "NID Computer Software Engineering",
+                "NID Computer Hardware Engineering Technology",
+                "NID Business Informatics"
+            ],
+            "year_established": 2018,
+            "ownership": "Private"
+        },
+        {
+            "code": "SECCEIT",
+            "name": "Southern Eastern College for Computer Engineering and Information Technology",
+            "address": "Owerri, Imo State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security",
+                "NID Multimedia Technology"
+            ],
+            "year_established": 2011,
+            "ownership": "Private"
+        },
+        {
+            "code": "SNIIT",
+            "name": "Southern Nigerian Institute of Innovation Technology",
+            "address": "Ifewara, Ile Ife, Osun State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security",
+                "NID Multimedia Technology",
+                "NID Telecommunication Engineering"
+            ],
+            "year_established": 2012,
+            "ownership": "Private"
+        },
+        {
+            "code": "SMA",
+            "name": "Stars Maritime Academy",
+            "address": "Itele, Ayobo-Ota Road Lafenwa Ogun State, P.O.Box 176 ikotun Post Office, Ikotun, Lagos",
+            "contact_email": [
+                "info@starsmaritime.com"
+            ],
+            "approved_programmes": [
+                "NID Shipping Management",
+                "NID Marine Engineering Technology"
+            ],
+            "year_established": 2010,
+            "ownership": "Private"
+        },
+        {
+            "code": "SAIEI",
+            "name": "St. Augustine Innovation Enterprise Institution",
+            "address": "Allen Avenue, Ikeja, Lagos",
+            "approved_programmes": [
+                "NID Early Childcare Education and Management"
+            ],
+            "year_established": 2011,
+            "ownership": "Private"
+        },
+        {
+            "code": "SRIS",
+            "name": "St Rita Innovative Institute",
+            "address": "C8/C9 Niger Bridge Layout, Housing Estate Fegge, P.O. Box 2312, Onitsha",
+            "contact_email": [
+                "Rita.saint@yahoo.com"
+            ],
+            "approved_programmes": [
+                "NID Early Childcare Education and Management"
+            ],
+            "year_established": 2010,
+            "ownership": "Private"
+        },
+        {
+            "code": "SWII",
+            "name": "St. Winifred Innovative Institute",
+            "address": "Human Resources Development Centre, Sango Dina Village off Oloni-Olunde Ayegun Road, P.O. Box 16744, Ibadan, Oyo State.",
+            "contact_email": [
+                "st.winifred@yahoo.com"
+            ],
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "TII",
+            "name": "Tashiba Institute of Information Technology",
+            "address": "Gyallesu, Zaria, Kaduna State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering"
+            ],
+            "year_established": 2017,
+            "ownership": "Private"
+        },
+        {
+            "code": "BAI",
+            "name": "The Broadcast Arts Institute",
+            "address": "38, Odofin Street, Igbogbo, Ikorodun, Lagos State",
+            "approved_programmes": [
+                "NID Multimedia Technology",
+                "NID Broadcast Journalism"
+            ],
+            "year_established": 2022,
+            "ownership": "Private"
+        },
+        {
+            "code": "TKEVI",
+            "name": "Timeon Kairos Educational and Vocational Institute",
+            "address": "Akowanjo, Abeokuta Express Way, Agege, Lagos",
+            "approved_programmes": [
+                "NID Banking Operations"
+            ],
+            "year_established": 2016,
+            "ownership": "Private"
+        },
+        {
+            "code": "TIC",
+            "name": "Tower Innovative College",
+            "address": "136, Liberty Road, Box 13039, G.P.O. Dugbe, Ibadan. Oyo State.",
+            "approved_programmes": [
+                "NID Computer Software Engineering"
+            ],
+            "year_established": 2009,
+            "ownership": "Private"
+        },
+        {
+            "code": "TIFE",
+            "name": "Trizas Institute for Innovation Education",
+            "address": "13/15 Udoye Street Trans-Ekulu Enugu",
+            "contact_email": [
+                "trizassinstitute@yahoo.com"
+            ],
+            "approved_programmes": [
+                "NID Early Childcare Education and Management",
+                "NID Banking Operations"
+            ],
+            "year_established": 2010,
+            "ownership": "Private"
+        },
+        {
+            "code": "UCST",
+            "name": "UA College of Science and Technology",
+            "address": "Isuofia Anambra State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2014
+        },
+        {
+            "code": "UFC",
+            "name": "Umuebe Farm College",
+            "address": "Abakaliki, Ebonyi State",
+            "approved_programmes": [
+                "NID Innovative Agriculture"
+            ],
+            "year_established": 2010,
+            "ownership": "Private"
+        },
+        {
+            "code": "UCCDITI",
+            "name": "United Cement Community Development Initiative Training Institute",
+            "address": "Mfamosing, Cross River State",
+            "approved_programmes": [
+                "NID Welding and Fabrication"
+            ],
+            "year_established": 2015,
+            "ownership": "Private"
+        },
+        {
+            "code": "UIT_Benin",
+            "name": "Unival Institute of Technology",
+            "address": "Benin City",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering"
+            ],
+            "year_established": 2015,
+            "ownership": "Private"
+        },
+        {
+            "code": "UOGI",
+            "name": "Uptonville Oil and Gas Institute",
+            "address": "Port-Harcourt, 129/133 Woji Road, GRA Phase II, Port-Harcourt, Rivers State.",
+            "contact_email": [
+                "uptonedu@yahoo.co.uk",
+                "niyajayi@yahoo.com"
+            ],
+            "approved_programmes": [
+                "NID Petroleum Geo-Sciences"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "YHIAS",
+            "name": "Yahaya Hamza Institute of Advanced Studies",
+            "address": "Kaduna",
+            "contact_email": [
+                "sulehabib@gmail.com"
+            ],
+            "approved_programmes": [
+                "NID Early Childcare Education and Management",
+                "NID Paralegal Studies",
+                "NID Networking and System Security"
+            ],
+            "year_established": 2008,
+            "ownership": "Private"
+        },
+        {
+            "code": "YIST",
+            "name": "Yefmadec Institute of Science and Technology",
+            "address": "Mosogar, Delta State",
+            "approved_programmes": [
+                "NID Multimedia Technology",
+                "NID Computer Software Engineering"
+            ],
+            "year_established": 2015,
+            "ownership": "Private"
+        },
+        {
+            "code": "YES_Yenagoa",
+            "name": "Yenagoa Enterprise School",
+            "address": "Yenagoa",
+            "approved_programmes": [
+                "NID Office Secretarial Assistant",
+                "NID Banking Operations"
+            ],
+            "year_established": 2015,
+            "ownership": "Private"
+        },
+        {
+            "code": "ZIT_Jos",
+            "name": "Zibeh Institute of Technology",
+            "address": "Jos, Plateau State",
+            "approved_programmes": [
+                "NID Computer Hardware Engineering",
+                "NID Computer Software Engineering",
+                "NID Networking and System Security",
+                "NID Multimedia Technology"
+            ],
+            "year_established": 2015,
+            "ownership": "Private"
+        }
+    ]
+}

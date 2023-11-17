@@ -1,0 +1,401 @@
+{
+    "institutions": [
+        {
+            "code": "ASCHT",
+            "name": "Abia State College of Health Technology",
+            "address": "P.M.B. 7016, Aba",
+            "year_established": 1976,
+            "ownership": "State"
+        },
+        {
+            "code": "ABUTHSHRAB",
+            "name": "ABUTH School of Health Records Administration & Biostatistics, Zaria",
+            "address": "Kaduna State",
+            "year_established": 1968,
+            "ownership": "Federal"
+        },
+        {
+            "code": "ADCNSSB",
+            "name": "Aliko Dangote College of Nursing Science Bauchi",
+            "address": "Bauchi State",
+            "ownership": "N/A"
+        },
+        {
+            "code": "ASCOHT",
+            "name": "Anambra State College Of Health Technology",
+            "address": "P.M.B. 1001, Obosi",
+            "email": "ascohtascoht@yahoo.com, ascohtascoht@gmail.com",
+            "year_established": "1991/2001",
+            "ownership": "State"
+        },
+        {
+            "code": "BSCHT",
+            "name": "Bayelsa State College of Health Technology",
+            "address": "Otuogidi, Bayelsa State",
+            "ownership": "State"
+        },
+        {
+            "code": "BMGCHTNBS",
+            "name": "Bill and Melinda Gates College of Health Technology, Ningi Bauchi State",
+            "ownership": "State"
+        },
+        {
+            "code": "CHSTIIO",
+            "name": "College of Health Science and Technology, Ile-Ife",
+            "address": "Osun State",
+            "ownership": "N/A"
+        },
+        {
+            "code": "CHTZPS",
+            "name": "College of Health Technology, Zawan",
+            "address": "Plateau State",
+            "year_established": 1977,
+            "ownership": "State"
+        },
+        {
+            "code": "CNMGST",
+            "name": "College of Nursing and Midwifery, Gombe",
+            "address": "Gombe State",
+            "ownership": "State"
+        },
+        {
+            "code": "CHSTIK",
+            "name": "College of Health Science and Technology, Idah",
+            "address": "Kogi State",
+            "ownership": "State"
+        },
+        {
+            "code": "CRSCHT",
+            "name": "Cross Rivers State College of Health Technology, Calabar",
+            "year_established": 1977,
+            "ownership": "State"
+        },
+        {
+            "code": "CRSCNMSI",
+            "name": "Cross River State College of Nursing & Midwifery Sciences, Itigidi",
+            "ownership": "State"
+        },
+        {
+            "code": "DSSHTP",
+            "name": "Delta State School of Health Technology",
+            "address": "P.M.B. 22, Ofuoma, Ugheli",
+            "year_established": 1993,
+            "ownership": "State"
+        },
+        {
+            "code": "ESCHSTIE",
+            "name": "Ekiti State College of Health Sciences & Technology, Ijro-Ekiti",
+            "ownership": "State"
+        },
+        {
+            "code": "FCOTNI",
+            "name": "Federal College of Orthopaedic Technology, NOH, Igbobi, Lagos",
+            "year_established": 1996,
+            "ownership": "Federal"
+        },
+        {
+            "code": "FSDTTEN",
+            "name": "Federal School of Dental Technology & Therapy, Enugu",
+            "address": "Enugu State",
+            "year_established": 1982,
+            "ownership": "Federal"
+        },
+        {
+            "code": "FSBETL",
+            "name": "Federal School of Biomedical Engineering Technology, LUTH, Lagos",
+            "ownership": "Federal"
+        },
+        {
+            "code": "GSCHTK",
+            "name": "Gombe State College of Health Technology, Kaltungo",
+            "ownership": "State"
+        },
+        {
+            "code": "IMSCONHS",
+            "name": "Imo State College Of Nursing & Health Sciences",
+            "address": "P.M.B 2, Amaigbo, Nwangele LGA",
+            "year_established": 2013,
+            "ownership": "State"
+        },
+        {
+            "code": "IHTUB",
+            "name": "Institute of Health Technology, University Teaching Hospital, Benin",
+            "address": "P.M.B. 1111, Benin City, Edo State",
+            "year_established": 2004,
+            "ownership": "Federal"
+        },
+        {
+            "code": "KSCHSTBR",
+            "name": "Kano State College of Health Sciences and Technology, BUK Road, Kano",
+            "ownership": "State"
+        },
+        {
+            "code": "KSCHSTSMR",
+            "name": "Kano State College of Health Sciences and Technology, Sani Marshall Road, Kano",
+            "ownership": "State"
+        },
+        {
+            "code": "KSCHSTK",
+            "name": "Katsina State College of Health Sciences & Technology, Kankia",
+            "ownership": "State"
+        },
+        {
+            "code": "KSCONS",
+            "name": "Kebbi State College of Nursing Sciences, Birnin Kebbi",
+            "ownership": "State"
+        },
+        {
+            "code": "KSCHT",
+            "name": "Kwara State College of Health Technology",
+            "address": "PMB 430,Ojoku Road Offa, Kwara State",
+            "year_established": 1976,
+            "ownership": "State"
+        },
+        {
+            "code": "LSCHT",
+            "name": "Lagos State College of Health Technology, Yaba",
+            "ownership": "State"
+        },
+        {
+            "code": "LSCHTNI",
+            "name": "Lagos State College of Nursing and Midwifery, Igando",
+            "ownership": "State"
+        },
+        {
+            "code": "NSCHSTK",
+            "name": "Nasarawa State College of Health Science & Technology, Keffi",
+            "ownership": "State"
+        },
+        {
+            "code": "NACONMYB",
+            "name": "Nigerian Army College of Nursing, Myhoung Barracks, Yaba, Lagos",
+            "ownership": "Federal"
+        },
+        {
+            "code": "NAFCNSKK",
+            "name": "Nigerian Airforce College of Nursing Sciences Kaduna",
+            "address": "Kaduna State",
+            "ownership": "Federal"
+        },
+        {
+            "code": "NASOMSOJL",
+            "name": "Nigerian Army School of Medical Sciences, Ojo – Lagos State",
+            "ownership": "Federal"
+        },
+        {
+            "code": "NACHSOffa",
+            "name": "Nigerian Navy College of Health Sciences Offa",
+            "ownership": "Federal"
+        },
+        {
+            "code": "OSCHTIIO",
+            "name": "Ogun State College of Health Technology, Ijebu",
+            "address": "Ilese, P.M.B. 2081, Ijebu-Ode",
+            "year_established": 1976,
+            "ownership": "State"
+        },
+        {
+            "code": "OSCHTI",
+            "name": "Osun State College of Health Technology, Ilesa",
+            "ownership": "State"
+        },
+        {
+            "code": "OSCHSTEI",
+            "name": "Oyo State College of Health Sciences and Technology, Eleyele, Ibadan",
+            "ownership": "State"
+        },
+        {
+            "code": "OSCHNMEI",
+            "name": "Oyo State College of Nursing and Midwifery, Eleyele, Ibadan",
+            "ownership": "State"
+        },
+        {
+            "code": "RSCHTPH",
+            "name": "Rivers State College of Health Technology, Port Harcourt",
+            "year_established": 2001,
+            "ownership": "State"
+        },
+        {
+            "code": "SBETABUTH",
+            "name": "School of Biomedical Engineering Technology, ABUTH, Shika-Zaria",
+            "ownership": "Federal"
+        },
+        {
+            "code": "SBEUBTH",
+            "name": "School Of Biomedical Engineering, University of Benin Teaching Hospital, Benin",
+            "address": "P.M.B. 1111, Benin City, Edo State",
+            "year_established": 2004,
+            "ownership": "Federal"
+        },
+        {
+            "code": "SBEUMTH",
+            "name": "School Of Biomedical Engineering, University of Maiduguri Teaching Hospital",
+            "address": "P.M.B. 1414, Bama Road, Maiduguri,  Borno State",
+            "year_established": 1990,
+            "ownership": "Federal"
+        },
+        {
+            "code": "SHIMAKTH",
+            "name": "School of Health Information Management, AKTH, Kano",
+            "address": "P.M.B. 3452, Kano, Kano State",
+            "website": "www.akth.org",
+            "email": "enquiries@akth.org",
+            "year_established": 1992,
+            "ownership": "Federal"
+        },
+        {
+            "code": "SHIMATBUTH",
+            "name": "School of Health Information Management, ATBUTH, Bauchi",
+            "ownership": "Federal"
+        },
+        {
+            "code": "SHIMNAUTHN",
+            "name": "School of Health Information Management, Nnamdi Azikiwe University Teaching Hospital, NAUTH, Nnewi",
+            "ownership": "Federal"
+        },
+        {
+            "code": "SHIMOAUTHI",
+            "name": "School of Health Information Management, OAUTH, Ile-Ife",
+            "address": "P.M.B. 5538, Ile-Ife",
+            "year_established": 1982,
+            "ownership": "Federal"
+        },
+        {
+            "code": "SHIMUBTH",
+            "name": "School Of Health Information Management, University of Benin Teaching Hospital, Benin City",
+            "address": "P.M.B. 1111, Benin City, Edo State",
+            "year_established": 2004,
+            "ownership": "Federal"
+        },
+        {
+            "code": "SHIMUCTH",
+            "name": "School of Health Information Management, University of Calabar Teaching Hospital",
+            "address": "Calabar",
+            "year_established": 1993,
+            "ownership": "Federal"
+        },
+        {
+            "code": "SHIMUCH",
+            "name": "School of Health Information Management, UCH, Ibadan",
+            "address": "P.M.B. 5116, Ibadan",
+            "year_established": 1976,
+            "ownership": "Federal"
+        },
+        {
+            "code": "SHIMUDUTH",
+            "name": "School of Health Information Management, UDUTH, Sokoto",
+            "address": "P.M.B. 2370, Sokoto",
+            "year_established": 1992,
+            "ownership": "Federal"
+        },
+        {
+            "code": "SHIMUITHI",
+            "name": "School of Health Information Management, University of Ilorin Teaching Hospital, Ilorin, Kwara State",
+            "year_established": 1996,
+            "ownership": "Federal"
+        },
+        {
+            "code": "SHIMUMTH",
+            "name": "School of Health Information Management, UMTH, P.M.B. 1414, Bama Road, Maiduguri",
+            "year_established": 1990,
+            "ownership": "Federal"
+        },
+        {
+            "code": "SHIMUMTH",
+            "name": "School of Health Information Management, UPTH, Portharcourt, Rivers State",
+            "ownership": "Federal"
+        },
+        {
+            "code": "SHIMLUTH",
+            "name": "School of Health Information Management, LUTH, Idi Araba, Lagos",
+            "year_established": 2005,
+            "ownership": "Federal"
+        },
+        {
+            "code": "SHIMUUYO",
+            "name": "School of Health Information Management, University of Uyo, P.M.B. 1136, Uyo",
+            "year_established": 2005,
+            "ownership": "Federal"
+        },
+        {
+            "code": "SHTAKURE",
+            "name": "School of Health Technology, P.M.B. 791, Akure, Ondo State.",
+            "year_established": 1962,
+            "ownership": "State"
+        },
+        {
+            "code": "SLDCTAK",
+            "name": "School of Laundry and Dry Cleaning Technology, AKTH, Kano",
+            "ownership": "Federal"
+        },
+        {
+            "code": "SONLUTH",
+            "name": "School of Nursing, Lagos State University Teaching Hospital (LUTH)",
+            "ownership": "State"
+        },
+        {
+            "code": "SONAMBU",
+            "name": "School of Nursing and Midwifery, Abubakar Tafawa Balewa University Teaching Hospital, Bauchi.",
+            "ownership": "Federal"
+        },
+        {
+            "code": "SONOAU",
+            "name": "School of Nursing Obafemi Awolowo University Teaching Hospital Complex, Ile-Ife",
+            "ownership": "Federal"
+        },
+        {
+            "code": "SONUBTH",
+            "name": "School of Nursing University of Benin Teaching Hospital, Benin City",
+            "ownership": "Federal"
+        },
+        {
+            "code": "SONWESLEY",
+            "name": "School of Nursing Wesley Guild`s Hospital OAUTH, Ilesa",
+            "ownership": "Federal"
+        },
+        {
+            "code": "SOCTNOHENIG",
+            "name": "School of Orthopedic Cast Technology, National Orthopedic Hospital, PMB 01294, Enugu.",
+            "email": "noheadmin@nohenig.com",
+            "year_established": 1973,
+            "ownership": "Federal"
+        },
+        {
+            "code": "SOCTNODALA",
+            "name": "School of Orthopedic Cast Technology, National Orthopedic Hospital, Dala, Kano",
+            "ownership": "Federal"
+        },
+        {
+            "code": "SOCTNOUITH",
+            "name": "School of Orthopedic Cast Technology, UITH, Ilorin, Kwara State",
+            "ownership": "Federal"
+        },
+        {
+            "code": "SOSDUPTH",
+            "name": "School of Social Development, UPTH, Port-Harcourt",
+            "ownership": "Federal"
+        },
+        {
+            "code": "SICHSTM",
+            "name": "Shehu Idris College of Health Sciences and Technology, P.M.B. 1050 Makarfi, Kaduna State.",
+            "email": "sichstm2005@yahoo.com sichstm2005@hotmail.com",
+            "year_established": 1954,
+            "ownership": "State"
+        },
+        {
+            "code": "SSCNM",
+            "name": "Shehu Sule College of Nursing & Midwifery, Damaturu, Yobe State",
+            "ownership": "State"
+        },
+        {
+            "code": "SSCN",
+            "name": "Sokoto State College of Nursing",
+            "ownership": "State"
+        },
+        {
+            "code": "ZSCHST",
+            "name": "Zamfara State College of Health Sciences and Technology, Tsafe",
+            "ownership": "State"
+        }
+    ]
+}

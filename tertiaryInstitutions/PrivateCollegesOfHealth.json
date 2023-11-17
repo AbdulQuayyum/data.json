@@ -1,0 +1,120 @@
+{
+    "institutions": [
+      {
+        "code": "ACOHSTPY",
+        "name": "Al-Maárif College of Health Sciences & Technology Potiskum, Yobe State",
+        "year_established": 2022
+      },
+      {
+        "code": "ADCOHST",
+        "name": "Aminu Dabo College of Health Sciences & Technology No 9C Civic Center Road, Kano State.",
+        "email": "info@ad-cohst.edu.ng",
+        "phone_numbers": ["09030808334", "08121117048"],
+        "year_established": 2017
+      },
+      {
+        "code": "BACOHTEK",
+        "name": "Babalola Academy College of Health Technology, Egbejila Road behind Solid Worth Hotel Asa-Dam Area Ilorin Kwara state.",
+        "contact_info": {
+          "tel": "07031671545",
+          "email": "babalolaacademy@gmail.com",
+          "website": "www.babalolacollege.edu.ng"
+        },
+        "year_established": 2022
+      },
+      {
+        "code": "BCHTSHAO",
+        "name": "Bartholomew College of Health Technology Shao Moro Local Government Kwara State",
+        "email": "bartholomewschoolofhealth@gmail.com",
+        "phone_numbers": ["08031915500", "08089761497"],
+        "year_established": 2018
+      },
+      {
+        "code": "CCHTPOHA",
+        "name": "Centenary College of Health Technology, Emohua, Port Harcourt",
+        "year_established": 2022
+      },
+      {
+        "code": "CHTIIFE",
+        "name": "College of Health and Technology Ile-Ife Osun State",
+        "year_established": 2020
+      },
+      {
+        "code": "DCHSTZARIA",
+        "name": "Dagamas College of Health Science and Technology, Sabon Gari Zaria, Kaduna State",
+        "year_established": 2022
+      },
+      {
+        "code": "DPCHTORU",
+        "name": "De-Potter College of Health Technology Oru Ijebu-Igbo Road Ogun State",
+        "year_established": 2023
+      },
+      {
+        "code": "ECHSTKANO",
+        "name": "Emirates College of Health Science and Technology Kano, Kano State",
+        "year_established": 2017
+      },
+      {
+        "code": "ECHTEBONYI",
+        "name": "Ezzangbo College of Health Technology, Ebonyi State",
+        "year_established": 2022
+      },
+      {
+        "code": "ECNIMOST",
+        "name": "Ezeala College of Nursing Science, Umuseke Njaba LGA, Imo State",
+        "year_established": 2022
+      },
+      {
+        "code": "EHCHTNSUKKA",
+        "name": "Eucaristic Heart College of Health Technology Orba, Nsukka Enugu State",
+        "year_established": 2022
+      },
+      {
+        "code": "FCHSTADOE",
+        "name": "Fabotas College of Health Science and Technology, Ado Ekiti, Ekiti State",
+        "year_established": 2022
+      },
+      {
+        "code": "MCHTBAUCHI",
+        "name": "Malikiya College of Health and Social Sciences 9, Gombe Road Off Sokoto Road, Old GRA Bauchi Bauchi State",
+        "year_established": 2020
+      },
+      {
+        "code": "MCHTAKURE",
+        "name": "Millennium College of Health Technology, Akure, Ondo State.",
+        "year_established": 2019
+      },
+      {
+        "code": "NIHSTMKURDI",
+        "name": "Nazareth Institute of Health Science & Technology, Makurdi",
+        "year_established": 2021
+      },
+      {
+        "code": "NGCHSTMINNA",
+        "name": "New Gate College of Health Science & Technology, Minna, Niger State.",
+        "year_established": 2016
+      },
+      {
+        "code": "NKSTCHTMKAR",
+        "name": "NKST College of Health Technology, Mkar, Gboko, Benue State.",
+        "email": "collegeofhealthtechmkar@yahoo.com",
+        "year_established": 1960
+      },
+      {
+        "code": "OCHSTONDO",
+        "name": "Ondo College of Health Science and Technology, Ondo, Ondo State",
+        "year_established": 2022
+      },
+      {
+        "code": "PCHSTENUGU",
+        "name": "Peaceland College of Health Sciences and Technology, Enugu, Enugu State",
+        "year_established": 2022
+      },
+      {
+        "code": "PCHTIJEBU",
+        "name": "Pogil College Of Health Technology, Opposite Mechanic Village Gate, Ijebu-Ode/Ibadan Road, Oke-Eri, via Ijebu-Ode, Ogun State.",
+        "year_established": 2014
+      }
+    ]
+  }
+  

@@ -1,0 +1,750 @@
+{
+    "technical_colleges": [
+      {
+        "code": "OTCABIA",
+        "name": "Ohafia Technical College, Ania",
+        "ownership": "Ministry for Education",
+        "year_of_first_visit": 1988
+      },
+      {
+        "code": "GTCAADAMAWA",
+        "name": "Government Technical College, Mubi",
+        "ownership": "Ministry for Education",
+        "year_of_first_visit": 1989
+      },
+      {
+        "code": "GTYYOLA",
+        "name": "Government Technical College, Yola",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "VTTCMAYOBALWA",
+        "name": "Vocational Technical Training Centre, Mayo-Balwa",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "VTTCMUBI",
+        "name": "Vocational Technical Training Centre, Mubi",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "VTTYYOLA",
+        "name": "Vocational Technical Training Centre, Yola",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "CTCIKOTAKATA",
+        "name": "Community Technical College, Ikot-Akata",
+        "ownership": "Akwa Ibom State Science and Technical Schools Board",
+        "year_of_first_visit": 1988
+      },
+      {
+        "code": "GTABAK",
+        "name": "Government Technical College, Abak",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTEWETUYO",
+        "name": "Government Technical College, Ewet-Uyo",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTOGON",
+        "name": "Government Technical College, Oron",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTEKET",
+        "name": "Government Technical College, Eket (Union)",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTMC",
+        "name": "Government Technical College, Mboitto",
+        "ownership": "-",
+        "year_of_first_visit": 2022
+      },
+      {
+        "code": "GTEFFOI",
+        "name": "Government Technical College, Effoi",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "FSTCAWKA",
+        "name": "Federal Science Technical College, Zik Avenue, Awka, Anambra State.",
+        "ownership": "Federal Ministry of Education, Abuja",
+        "year_of_first_visit": 1988
+      },
+      {
+        "code": "GTONITSHA",
+        "name": "Government Technical College, Onitsha",
+        "ownership": "Ministry for Education",
+        "year_of_first_visit": 1988
+      },
+      {
+        "code": "NSTCNNEWI",
+        "name": "Nigeria Science and Technical College Nnewi, Anambra State",
+        "ownership": "-",
+        "year_of_first_visit": 2015
+      },
+      {
+        "code": "GTNKPOR",
+        "name": "Government Technical College Nkpor, Anambra State.",
+        "ownership": "-",
+        "year_of_first_visit": 2017
+      },
+      {
+        "code": "GTUMUCHU",
+        "name": "Government Technical College Umuchu, Anambra State.",
+        "ownership": "-",
+        "year_of_first_visit": 2017
+      },
+      {
+        "code": "GTUMUERI",
+        "name": "Government Technical College Umueri, Anambra State.",
+        "ownership": "-",
+        "year_of_first_visit": 2017
+      },
+      {
+        "code": "GTUMUNZE",
+        "name": "Government Technical College, Umunze",
+        "ownership": "-",
+        "year_of_first_visit": 2017
+      },
+      {
+        "code": "SJSTCALOR",
+        "name": "St. John’s Science and Technical College, Alor",
+        "ownership": "-",
+        "year_of_first_visit": 2017
+      },
+      {
+        "code": "FSTCTUNGBO",
+        "name": "Federal Science Technical College, Tungbo, Bayelsa State.",
+        "ownership": "Federal Ministry of Education, Abuja",
+        "year_of_first_visit": 2002
+      },
+      {
+        "code": "GSTCOKAKA",
+        "name": "Government Science and Technical College Okaka",
+        "ownership": "Bayelsa State Science and Technology Education Board",
+        "year_of_first_visit": 2021
+      },
+      {
+        "code": "GDTCBAUCHI",
+        "name": "Government Day Technical College, Bauchi",
+        "ownership": "Bauchi State Science and Technical Schools Board",
+        "year_of_first_visit": 2014
+      },
+      {
+        "code": "GDTCGAR",
+        "name": "Government Day Technical College, Gar",
+        "ownership": "-",
+        "year_of_first_visit": 2014
+      },
+      {
+        "code": "GDCAZARE",
+        "name": "Government Day Technical College, Azare",
+        "ownership": "-",
+        "year_of_first_visit": 2014
+      },
+      {
+        "code": "GDCTBALEWA",
+        "name": "Government Day Technical College, Tafawa Balewa",
+        "ownership": "-",
+        "year_of_first_visit": 2014
+      },
+      {
+        "code": "GDCTJAMAARE",
+        "name": "Government Day Technical College,Jama’are",
+        "ownership": "-",
+        "year_of_first_visit": 2014
+      },
+      {
+        "code": "GDCTGAMAWA",
+        "name": "Government Day Technical College, Gamawa",
+        "ownership": "-",
+        "year_of_first_visit": 2014
+      },
+      {
+        "code": "GDCTKAFINMADAKI",
+        "name": "Government Day Technical College, Kafin Madaki",
+        "ownership": "-",
+        "year_of_first_visit": 2014
+      },
+      {
+        "code": "BSUTCMAKURDI",
+        "name": "Benue State University Technical College, Makurdi",
+        "ownership": "Benue State Science and Technical Education Board (STEB)",
+        "year_of_first_visit": 1989
+      },
+      {
+        "code": "SJTCMAKURDI",
+        "name": "St. Joseph Technical College, Makurdi",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "SJTCMKE",
+        "name": "St. Jude’s Technical College, Tse-Mker",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "CTCCALABAR",
+        "name": "Community Technical College, Calabar",
+        "ownership": "Cross Rivers State Science and Technical Schools Board",
+        "year_of_first_visit": 1988
+      },
+      {
+        "code": "GTOGOJA",
+        "name": "Government Technical College, Ogoja",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "ATCAGBOR",
+        "name": "Agbor Technical College, Agbor",
+        "ownership": "Ministry for Education",
+        "year_of_first_visit": 1989
+      },
+      {
+        "code": "IUTCISSELEUKU",
+        "name": "Issele-Uku Technical College, Issele-Uku",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "OTCOFAGBE",
+        "name": "Ofagbe Technical College, Ofagbe",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "OTCOGOR",
+        "name": "Ogor Technical College, Otogor Ughelli",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "OTCSAPELE",
+        "name": "Sapele Technical College, Sapele",
+        "ownership": "-"
+      },
+      {
+        "code": "UTCKWALE",
+        "name": "Utagba-Ogbe Technical College, Kwale",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "FSTCUROMI",
+        "name": "Federal Science Technical College, Uromi, P.M.B. 4, Uromi",
+        "ownership": "Federal Ministry of Education, Abuja",
+        "year_of_first_visit": 1989
+      },
+      {
+        "code": "GSTCBENIN",
+        "name": "Government Science and Technical College, Benin",
+        "ownership": "Edo State Board for Technical and Vocational Education, Benin City",
+        "year_of_first_visit": 2019
+      },
+      {
+        "code": "GSTCIRRUAA",
+        "name": "Government Science and Technical College, Irrua",
+        "ownership": null,
+        "year_of_first_visit": 2019
+      },
+      {
+        "code": "GSTCIGARA",
+        "name": "Government Science and Technical College, Igara",
+        "ownership": null,
+        "year_of_first_visit": 2019
+      },
+      {
+        "code": "GSTCAFUZE",
+        "name": "Government Science and Technical College, Afuze",
+        "ownership": null,
+        "year_of_first_visit": 2019
+      },
+      {
+        "code": "GTCAADOEKITI",
+        "name": "Government Technical College, Ado Ekiti",
+        "ownership": "Ministry for Education, Ado-Ekiti, Imo State",
+        "year_of_first_visit": 2012
+      },
+      {
+        "code": "GTCIKOLEEKITI",
+        "name": "Government Technical College, Ikole-Ekiti",
+        "ownership": null,
+        "year_of_first_visit": 2001
+      },
+      {
+        "code": "GTIGBARAODO",
+        "name": "Government Technical College, Igbara – Odo",
+        "ownership": null,
+        "year_of_first_visit": 2001
+      },
+      {
+        "code": "GTENUGU",
+        "name": "Government Technical College, Enugu",
+        "ownership": "Enugu State Science and Vocational Schools Management Board, State Secretariat, P.O. Box 3598, Enugu",
+        "year_of_first_visit": 1988
+      },
+      {
+        "code": "GTNSUKKA",
+        "name": "Government Technical College, Nsukka",
+        "ownership": null,
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GSATCGOMBE",
+        "name": "Government Science and Technical College, Gombe",
+        "ownership": "Gombe State Ministry of Education, Gombe",
+        "year_of_first_visit": 2019
+      },
+      {
+        "code": "GSATCBARUNDE",
+        "name": "Government Science and Technical College, Barunde",
+        "ownership": null,
+        "year_of_first_visit": 2019
+      },
+      {
+        "code": "GSATCKUMO",
+        "name": "Government Science and Technical College, Kumo",
+        "ownership": null,
+        "year_of_first_visit": 2019
+      },
+      {
+        "code": "GSATCKWAMI",
+        "name": "Government Science and Technical College, Kwami",
+        "ownership": null,
+        "year_of_first_visit": 2019
+      },
+      {
+        "code": "ASTCAHIARA",
+        "name": "Ahiara Science & Technical College, Ahiara",
+        "ownership": "Ministry for Education, Owerri, Imo State",
+        "year_of_first_visit": 1988
+      },
+      {
+        "code": "GTCTOWERI",
+        "name": "Government Technical College, Owerri",
+        "ownership": null,
+        "year_of_first_visit": 1989
+      },
+      {
+        "code": "GTOKOHIAOSU",
+        "name": "Government Technical College, Okohia, Osu",
+        "ownership": null,
+        "year_of_first_visit": 1988
+      },
+      {
+        "code": "GTOKPOROORLU",
+        "name": "Government Technical College, Okporo, Orlu",
+        "ownership": null
+      },
+      {
+        "code": "GTCOHADEJIA",
+        "name": "Government Technical College, Hadejia",
+        "ownership": "Ministry for Higher Education, PMB 5004, Kazaure, Jigawa State",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GSTCKARKARNA",
+        "name": "Government Science Technical College Karkarna",
+        "ownership": "Ministry for Higher Education, PMB 5004, Kazaure, Jigawa State",
+        "year_of_first_visit": 2014
+      },
+      {
+        "code": "GSTCBIRNINKUDU",
+        "name": "Government Science Technical College Birnin Kudu",
+        "ownership": "Ministry for Higher Education, PMB 5004, Kazaure, Jigawa State",
+        "year_of_first_visit": 2014
+      },
+      {
+        "code": "GSTCRINGIM",
+        "name": "Government Science Technical College Ringim",
+        "ownership": "Ministry for Higher Education, PMB 5004, Kazaure, Jigawa State",
+        "year_of_first_visit": 2014
+      },
+      {
+        "code": "FSTCKAFANCHAN",
+        "name": "Federal Science Technical College, Kafanchan, P. M. B. 1017, Kafanchan",
+        "ownership": "Federal Ministry of Education, Abuja",
+        "year_of_first_visit": 1992
+      },
+      {
+        "code": "GTCKAJURU",
+        "name": "Government Technical College, Kajuru",
+        "ownership": "Kaduna State Science and Technical Schools Management Board, PMB 2344, Kaduna, Kaduna State",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTCKMALALI",
+        "name": "Government Technical College, Malali",
+        "ownership": null,
+        "year_of_first_visit": 1988
+      },
+      {
+        "code": "TBMCCSAMARUKATAF",
+        "name": "Tafawa Balewa Memorial Commercial College, Samaru Kataf",
+        "ownership": null
+      },
+      {
+        "code": "GCCEBAGAUDA",
+        "name": "Government Commercial College, Bagauda",
+        "ownership": "Kano State Science and Technical Schools Board, PMB 3142, Kano, Kano State",
+        "year_of_first_visit": 1988
+      },
+      {
+        "code": "GTKANO",
+        "name": "Government Technical College, Kano",
+        "ownership": null
+      },
+      {
+        "code": "GTUNGOGO",
+        "name": "Government Technical College, Ungogo",
+        "ownership": null
+      },
+      {
+        "code": "GTWUDIL",
+        "name": "Government Technical College, Wudil",
+        "ownership": null
+      },
+      {
+        "code": "GGCCKATSINA",
+        "name": "Government Girl’s Commercial College, Mai Adua",
+        "ownership": "Katsina State Science and Technical Schools Board, PMB 2103, Katsina, Katsina State",
+        "year_of_first_visit": 1992
+      },
+      {
+        "code": "GGTCCCHARANCHI",
+        "name": "Government Girl’s Technical Commercial College, Charanchi",
+        "ownership": null
+      },
+      {
+        "code": "GTCCFUNTUA",
+        "name": "Government Technical College, Funtua",
+        "ownership": null
+      },
+      {
+        "code": "GTCCINGAWA",
+        "name": "Government Technical College, Ingawa",
+        "ownership": null
+      },
+      {
+        "code": "GTCCMASHI",
+        "name": "Government Technical College, Mashi",
+        "ownership": null
+      },
+      {
+        "code": "FSTCZURU",
+        "name": "Federal Science Technical College, Zuru, P.M.B. 1022, Zuru",
+        "ownership": "Federal Ministry of Education, Abuja",
+        "year_of_first_visit": 1996
+      },
+      {
+        "code": "GTBUNZA",
+        "name": "Government Technical College, Bunza",
+        "ownership": "Kebbi State Science and Technical Schools Board, PMB 2103, Birnin Kebbi, Kebbi State",
+        "year_of_first_visit": 1989
+      },
+      {
+        "code": "GTZURU",
+        "name": "Government Technical College, Zuru",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTAMADUASUNGBLU",
+        "name": "Government Technical College, Amadu-Asungblu",
+        "ownership": "Ministry for Education, PMB 1391, Ilorin, Kwara State",
+        "year_of_first_visit": 1988
+      },
+      {
+        "code": "GTERINLEILLE",
+        "name": "Government Technical College, Erinle Ille",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTESIEILUDUN",
+        "name": "Government Technical College, Esie Iludun",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTPATEGI",
+        "name": "Government Technical College, Pategi",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "FSTCYABA",
+        "name": "Federal Science Technical College, Yaba",
+        "ownership": "Federal Ministry of Education, Abuja",
+        "year_of_first_visit": 1988
+      },
+      {
+        "code": "GTADOSOBA",
+        "name": "Government Technical College, Ado-Soba",
+        "ownership": "Ministry for Education, Ikeja, Lagos State",
+        "year_of_first_visit": 1988
+      },
+      {
+        "code": "GTAGIDINGBI",
+        "name": "Government Technical College, Agidingbi, Ikeja",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTIKORODU",
+        "name": "Government Technical College, Ikorodu",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTIKOTUN",
+        "name": "Government Technical College, Ikotun",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTEPE",
+        "name": "Government Technical College, Odomola, Epe",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTASAKIO",
+        "name": "Government Technical College, Asakio",
+        "ownership": "Ministry for Education, PMB 044, Lafia, Nasarawa State",
+        "year_of_first_visit": 1997
+      },
+      {
+        "code": "GSTCAGWADA",
+        "name": "Government Science and Technical College, Agwada",
+        "ownership": null,
+        "year_of_first_visit": 2017
+      },
+      {
+        "code": "GSTCMADASTATION",
+        "name": "Government Science and Technical College, Mada Station",
+        "ownership": null,
+        "year_of_first_visit": 2017
+      },
+      {
+        "code": "APJSTCMASAKA",
+        "name": "APJ Science and Technical College Masaka",
+        "ownership": "Private",
+        "year_of_first_visit": 2018
+      },
+      {
+        "code": "FSTCSHIRORO",
+        "name": "Federal Science and Technical College, Shiroro",
+        "ownership": "Federal Ministry of Education, Abuja",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTCEYAGIBIDA",
+        "name": "Government Technical College, Eyagi Bida",
+        "ownership": "Niger State Science and Technical Schools Board, PMB 190, Minna, Niger State",
+        "year_of_first_visit": 1988
+      },
+      {
+        "code": "GTCKONTAGORA",
+        "name": "Government Technical College, Kontagora",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTCMINNA",
+        "name": "Government Technical College, Minna",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTCNEWBUSSA",
+        "name": "Government Technical College, New Bussa",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTAIYETORO",
+        "name": "Government Technical College, Aiyetoro",
+        "ownership": "Ministry for Education, PMB 2060, Abeokuta, Ogun State",
+        "year_of_first_visit": 1989
+      },
+      {
+        "code": "GTCAJEGUNLE",
+        "name": "Government Technical College, Ajegunle",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTCIDIABA",
+        "name": "Government Technical College, Idi-Aba (Abeokuta)",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTIGBESA",
+        "name": "Government Technical College, Igbesa",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTIJEBUODE",
+        "name": "Government Technical College, Ijebu-Ode",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTILARAREMO",
+        "name": "Government Technical College, Ilara Remo",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "DBTCOONDO",
+        "name": "Don Bosco Training Centres, Ondo, Ondo State",
+        "ownership": "Private",
+        "year_of_first_visit": 2001
+      },
+      {
+        "code": "FSTCIKAREAKOKO",
+        "name": "Federal Science Technical College, Ikare Akoko",
+        "ownership": "Federal Ministry of Education, Abuja",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTIIDANRE",
+        "name": "Government Technical College, Idanre",
+        "ownership": "Ondo State Board for Technical and Vocational Education, Akure, Ondo State",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTOKAAKOKO",
+        "name": "Government Technical College, Oka Akoko",
+        "ownership": "-",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTOWO",
+        "name": "Government Technical College, Owo",
+        "ownership": "1988"
+      },
+      {
+        "code": "FSTCILESA",
+        "name": "Federal Science Technical College, Ilesa",
+        "ownership": "Federal Ministry of Education, Abuja",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTOSOGBO",
+        "name": "Government Technical College, Osogbo",
+        "ownership": "Ministry for Education, Osogbo, Osun State",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTBUKURU",
+        "name": "Government Technical College, Bukuru",
+        "ownership": "Ministry for Education, PMB 2001, Jos, Plateau State",
+        "year_of_first_visit": 1988
+      },
+      {
+        "code": "GTELEOGU",
+        "name": "Government Technical College, Ele-Ogu",
+        "ownership": "Ministry for Higher Education, PMB 5020, Port Harcourt, Rivers State",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTPTHARCOURT",
+        "name": "Government Technical College, Port Harcourt",
+        "ownership": null,
+        "year_of_first_visit": 1989
+      },
+      {
+        "code": "GTAAHOADA",
+        "name": "Government Technical College Ahoada",
+        "ownership": null,
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTCTOMBIA",
+        "name": "Government Technical College Tombia",
+        "ownership": null,
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GCDCPORTHARCOURT",
+        "name": "Government Craft Development Centre, Port Harcourt",
+        "ownership": null,
+        "year_of_first_visit": null
+      },
+      {
+        "code": "ABAFFARU",
+        "name": "Ahmadu Bello Academy, Farfaru",
+        "ownership": "Department for Science and Technical Education, Sokoto, Sokoto State",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GGSTSTAMBUWAL",
+        "name": "Government Girl’s Secondary School, Tambuwal",
+        "ownership": null,
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTBAFARAWA",
+        "name": "Government Technical College, Bafarawa",
+        "ownership": null,
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTBINJI",
+        "name": "Government Technical College, Binji",
+        "ownership": null,
+        "year_of_first_visit": 1989
+      },
+      {
+        "code": "GTFARFARU",
+        "name": "Government Technical College, Farfaru",
+        "ownership": null,
+        "year_of_first_visit": null
+      },
+      {
+        "code": "FSTCJALINGO",
+        "name": "Federal Science Technical College, Jalingo",
+        "ownership": "Federal Ministry of Education, Abuja",
+        "year_of_first_visit": 1992
+      },
+      {
+        "code": "GSTCGEIDAM",
+        "name": "Government Science and Technical College, Geidam",
+        "ownership": "Ministry for Education, Damaturu, Yobe State",
+        "year_of_first_visit": null
+      },
+      {
+        "code": "GTKAURANAMODA",
+        "name": "Government Technical College, Kaura Namoda",
+        "ownership": "Ministry for Science and Technology, Gusau, Zamfara State",
+        "year_of_first_visit": 1989
+      },
+      {
+        "code": "FSTCOROZO",
+        "name": "Federal Science and Technical College, Orozo, Abuja",
+        "ownership": "Federal Ministry of Education, Abuja",
+        "year_of_first_visit": null
+      }
+    ]
+  }
+  

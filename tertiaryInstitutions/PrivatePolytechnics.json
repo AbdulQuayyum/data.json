@@ -1,0 +1,581 @@
+{
+    "institutions": [
+        {
+            "code": "AHPK",
+            "name": "Al-Hikma Polytechnic Karu",
+            "address": "1st Close, Off Tafawa Balewa Street, Before Al-Hikma International Academy, P.O. Box 453 Mararaba Gurku, Karu, Nasarawa State",
+            "year_established": 2016
+        },
+        {
+            "code": "ACPSO1",
+            "name": "Allover Central Polytechnic, Sango Ota",
+            "address": "Plot 3A & B Abiodun Popoola Street, Sango Ota, Ogun State.",
+            "email": "allovercentralpoly@yahoo.com",
+            "year_established": "1998/2003"
+        },
+        {
+            "code": "AP1",
+            "name": "Ajayi Polytechnic",
+            "address": "Ikere Ekiti, Ekiti State",
+            "year_established": 2017
+        },
+        {
+            "code": "AP2",
+            "name": "Ashi Polytechnic",
+            "address": "Anyiin, Logo Local Government, P.M.B 102098, Benue State",
+            "phone": "08020532524, 07054987111",
+            "email": "ashitechnigltd2007@gmail.com",
+            "year_established": 2018
+        },
+        {
+            "code": "BSPAK1",
+            "name": "Best Solution Polytechnic, Akure",
+            "address": "KM 8 Akure - Ondo Road, P.O. Box 518, Akure, Ondo State",
+            "email": "bestsolutionn@yahoo.com",
+            "year_established": 2016
+        },
+        {
+            "code": "BP1",
+            "name": "Bellarks Polytechnic",
+            "address": "Temporary Site: KM 4, Kwale – Asaba Expressway, beside Lococoon Hotels, Kwale Delta State, P.M.B. 003 Kwale Delta State",
+            "phone": "08106703725, 08134053736",
+            "email": "bellarkspolytechnic@gmail.com, bellarkspolytechnic@yahoo.com",
+            "year_established": 2021
+        },
+        {
+            "code": "BP2",
+            "name": "Brainfill Polytechnic",
+            "address": "by Mickon Filling Station Off Aba Road, Ikot Ekpene, Akwa Ibom State",
+            "year_established": 2022
+        },
+        {
+            "code": "BTP1",
+            "name": "British Transatlantic Polytechnic",
+            "address": "KM 5, Akure-Ado Expressway, Igoba, Akure, Ondo State",
+            "year_established": 2022
+        },
+        {
+            "code": "BP3",
+            "name": "Bolmor Polytechnic",
+            "address": "GPO Box 11221 Dugbe, Ibadan, Oyo State",
+            "email": "bolmorpolytechnic@yahoo.com",
+            "year_established": 2015
+        },
+        {
+            "code": "CP1",
+            "name": "Calvary Polytechnic, Owa-Oyibu",
+            "address": "Delta State",
+            "year_established": 2016
+        },
+        {
+            "code": "CP2",
+            "name": "Citi Polytechnic",
+            "address": "Plot 182, Hillside Extension, Dutse-Dawaki Road, Dutse Alhaji, FCT Abuja",
+            "phone": "08062095916, 08065518944, 08166934660",
+            "email": "citipolytechnic2@gmail.com",
+            "year_established": 2018
+        },
+        {
+            "code": "CPAE1",
+            "name": "Coastal Polytechnic Apapa",
+            "address": "P.O.Box 4335, Apapa Lagos",
+            "year_established": 2020
+        },
+        {
+            "code": "CP1",
+            "name": "Covenant Polytechnic, Aba",
+            "address": "P.M.B. 7065, Aba/Owerri Road, Abayi, Aba, Abia State",
+            "year_established": 2010
+        },
+        {
+            "code": "CPAE2",
+            "name": "Crown Polytechnic, Ado-Ekiti",
+            "address": "P.M.B. 5424, Km 10, Ilawe Road, Odo, Ekiti State",
+            "year_established": 2008
+        },
+        {
+            "code": "DPE1",
+            "name": "Distinct Polytechnic Ekosin",
+            "address": "KM 1, Agbeye Road, Odo Otin LGA, Osun State",
+            "year_established": 2022
+        },
+        {
+            "code": "DPA1",
+            "name": "Dorben Polytechnic, Abuja",
+            "address": "P. O. Box 6322 Garki, Bwari, Abuja.",
+            "email": "abupoly@yahoo.ca",
+            "year_established": "1995/2008"
+        },
+        {
+            "code": "EP1",
+            "name": "Eastern Polytechnic",
+            "address": "80c. Igwuruta Road (Tank), Rumuokwurusi, P.O. Box 12667 Port Harcourt, Rivers State.",
+            "website": "www.acmgt.org",
+            "email": "info@acmggt.org",
+            "year_established": 2015
+        },
+        {
+            "code": "ECPUE1",
+            "name": "Ekiti City Polytechnic Umuooke-Ekiti",
+            "address": "Ekiti State",
+            "year_established": 2023
+        },
+        {
+            "code": "ECM&T1",
+            "name": "Eko College of Management and Technology",
+            "address": "100, Alhaji Onilewura Street, Off Liasu Road, Ile-Iwe Bus Stop, Ikotun",
+            "year_established": null
+        },
+        {
+            "code": "EPIL1",
+            "name": "Enville Polytechnic Ikeja",
+            "address": "Take Off Site: 4, Osho Street, Off Opebi/Oregun Link Road, P.M.B 8638, Ikeja, Lagos",
+            "permanent_site": "Owu-Iganke Off Itokin Road, Epe LGA, Lagos State",
+            "website": "www.envilleinstitute.edu.ng",
+            "email": "info@envilleinstitute.edu.ng",
+            "year_established": 2019
+        },
+        {
+            "code": "FP1",
+            "name": "Fidei Polytechnic, Gboko",
+            "address": "P.M.B. 185, Km 8 Gboko-Aliade Road, Benue State.",
+            "year_established": 2007
+        },
+        {
+            "code": "FPII1",
+            "name": "Foundation Polytechnic, Ikot Idem",
+            "address": "P.O. Box 1166, Ikot Ekpene, Akwa Ibom State",
+            "phone": "0802 742 4802, 0706 809 2448",
+            "email": "info@foundationpoly.edu.ng, foundationpoly@gmail.com",
+            "website": "www.foundationpoly.edu.ng",
+            "year_established": 2022
+        },
+        {
+            "code": "GP1",
+            "name": "Gboko Polytechnic, Gboko",
+            "address": "PMB 131, Gboko, Benue State",
+            "year_established": 2016
+        },
+        {
+            "code": "GP2",
+            "name": "Global Polytechnic, Akure",
+            "address": "Ondo State",
+            "year_established": 2016
+        },
+        {
+            "code": "GLP1",
+            "name": "Gloryland Polytechnic, Ankpa",
+            "address": "Kilometer 6 Ankpa-Anyigba Road, P.M.B 1010, Ankpa, Kogi State",
+            "year_established": 2022
+        },
+        {
+            "code": "GP1",
+            "name": "Grace Polytechnic, Surulere",
+            "address": "P.O. Box 9067, Lagos State.",
+            "email": "gracepoly@yahoo.com",
+            "year_established": "1962/1999"
+        },
+        {
+            "code": "GPP1",
+            "name": "Graceland Polytechnic, Offa",
+            "address": "Oyeleke College Road Off Irra Road, P.O.Box 4441, Offa, Kwara State",
+            "phone": "08054293939, 08038102114",
+            "year_established": 2018
+        },
+        {
+            "code": "GP2",
+            "name": "Grundtvig Polytechnic",
+            "address": "KM 11 Onitsha-Owerri Expressway, Oba Anambra State",
+            "email": "info@grundtvigpolytechnic.com",
+            "website": "www.grundtvigpolytechnic.com",
+            "phone": "+2348032726198",
+            "year_established": 2019
+        },
+        {
+            "code": "HPP1",
+            "name": "Harry Pass Polytechnic",
+            "address": "Tse Usen Mkar Gboko, Benue State",
+            "phone": "07030694480",
+            "year_established": 2020
+        },
+        {
+            "code": "HVP1",
+            "name": "Harvard Polytechnic",
+            "address": "No. 15, Onireke Road Agbabiaka, Ilorin – Kwara State",
+            "year_established": 2022
+        },
+        {
+            "code": "HP1",
+            "name": "Heritage Polytechnic, Ikot Udota, Eket",
+            "address": "Akwa Ibom State",
+            "year_established": 2010
+        },
+        {
+            "code": "HP2",
+            "name": "Hope Polytechnic",
+            "address": "Ndon Utibe, Ediene Atai, Ikono LGA, Akwa Ibom State",
+            "year_established": 2022
+        },
+        {
+            "code": "ICP1",
+            "name": "Ibadan City Polytechnic",
+            "address": "Alakia-Isebo/Iyana Church Road, PMB 10426, Ibadan, Oyo State",
+            "website": "www.icp.edu.ng",
+            "phone": "0708 459 3012",
+            "year_established": 2015
+        },
+        {
+            "code": "IMPU1",
+            "name": "Ibom Metropolitan Polytechnic, Uyo",
+            "address": "Akwa Ibom State",
+            "year_established": 2021
+        },
+        {
+            "code": "I-CONUP1",
+            "name": "I-CON Universal Polytechnic Osogbo",
+            "address": "Osun State",
+            "year_established": 2021
+        },
+        {
+            "code": "IP1",
+            "name": "Igbajo Polytechnic, Igbajo",
+            "address": "P.M.B. 303, Osun State.",
+            "year_established": 2009
+        },
+        {
+            "code": "IMIOT1",
+            "name": "Ihechukwu Madubuike Institute of Technology",
+            "address": "Isuochi, Abia State",
+            "year_established": 2021
+        },
+        {
+            "code": "IP1",
+            "name": "Inspire Polytechnic",
+            "address": "39/41, Karimulaka Street Egbeda, Lagos Lagos State",
+            "phone": "Tel. 07059899996, 07059899998",
+            "year_established": 2022
+        },
+        {
+            "code": "ICP1",
+            "name": "Iwo City Polytechnic, Iwo",
+            "address": "Osun State",
+            "year_established": 2021
+        },
+        {
+            "code": "KCP1",
+            "name": "Kalac Christal Polytechnic",
+            "address": "1A, Sikiru Adewale Street, Opposite Shoprite, Sangotedo, Lekki, Lagos State.",
+            "phone": "08033062214, 08036887077",
+            "email": "info@kcpoly.edu.ng; www.kcpoly.ng",
+            "year_established": 2014
+        },
+        {
+            "code": "KAIP1",
+            "name": "Kanmi Alo Interlink Polytechnic, Ijebu-Jesa",
+            "address": "Km 1, Ado-Ekiti Road, P.M.B. 5060, Ijebu-Jesa, Osun State",
+            "year_established": 2008
+        },
+        {
+            "code": "KPU",
+            "name": "Kings Polytechnic, Ubiaja",
+            "address": "Edo State",
+            "year_established": 2010
+        },
+        {
+            "code": "LPAIAV",
+            "name": "Landmark Polytechnic",
+            "address": "Ayetoro/Itele Via Ayobo, Ado Odo Ota LGA, Ogun State",
+            "phone": "08033732121",
+            "alt_phone": "08054475307",
+            "email": "landmarkpoly@gmail.com",
+            "website": "www.landmarkpolytechnic.com.ng",
+            "year_established": 2018
+        },
+        {
+            "code": "LCPIM",
+            "name": "Lagos City Polytechnic, Ikeja",
+            "address": "P.M.B. 21200, Ikeja, Lagos State",
+            "email": "info@lagoscitypolytechnic.net",
+            "year_established": "1990/1995"
+        },
+        {
+            "code": "LPKIR",
+            "name": "Lens Polytechnic",
+            "address": "Kilometer 2 Irra Road, Beside Naval Base, Offa, Kwara State",
+            "year_established": 2016
+        },
+        {
+            "code": "LPEVKS",
+            "name": "Lighthouse Polytechnic",
+            "address": "Sunshine Hills Evbuobanosa, Km 3, Asaba Road, P.M.B. 1724, Benin City, Edo State",
+            "year_established": 2008
+        },
+        {
+            "code": "LPILAS",
+            "name": "Loam Polytechnic",
+            "address": "Ikono LGA, Akwa Ibom State",
+            "year_established": 2023
+        },
+        {
+            "code": "MPUIE",
+            "name": "Marist Polytechnic, Umuchigbo, Iji-Nike",
+            "address": "Emene, Enugu State",
+            "year_established": 2016
+        },
+        {
+            "code": "MDPUO",
+            "name": "Mater Dei Polytechnic",
+            "address": "Ugwuoba Town, Oji River LGA, Enugu State",
+            "year_established": 2018
+        },
+        {
+            "code": "NPA",
+            "name": "Nacabs Polytechnic, Akwanga",
+            "address": "P.M.B. 001 Akwanga, Nasarawa State",
+            "year_established": 2013
+        },
+        {
+            "code": "NLPIS",
+            "name": "New Land Polytechnic, Idofian, Kwara State",
+            "year_established": 2022
+        },
+        {
+            "code": "NPI",
+            "name": "Nogak Polytechnic, Ikom",
+            "address": "Cross Rivers State",
+            "year_established": 2012
+        },
+        {
+            "code": "NPKR",
+            "name": "Novelty Polytechnic Kishi",
+            "address": "KM 3 Ilorin Road, P.M.B 03 Kishi, Oyo State",
+            "website": "www.noveltypolytechnic.edu.ng",
+            "email": "noveltypolytechnic2016@gmail.com",
+            "phone": "07066029500",
+            "alt_phone": "08140685721",
+            "year_established": 2019
+        },
+        {
+            "code": "OPIL",
+            "name": "Oduduwa Polytechnic, Idumu, Lagos",
+            "address": "Lagos State",
+            "year_established": 2021
+        },
+        {
+            "code": "OSISAT",
+            "name": "Our Saviour Institute of Science, Agriculture & Technology",
+            "address": "Enugu, P.M.B. 01161, Enugu, Enugu State",
+            "year_established": "1989/1991"
+        },
+        {
+            "code": "PPOR",
+            "name": "Paramount Polytechnic",
+            "address": "44 Ofoshin Road, Ekigbo – Lagos State",
+            "year_established": 2022
+        },
+        {
+            "code": "PPJBA",
+            "name": "Prime Polytechnic, Jida Bassa, Ajaokuta",
+            "address": "Kogi State",
+            "email": "primepolytechnic@gmail.com",
+            "alt_email": "primepolytechnic@yahoo.com",
+            "year_established": 2015
+        },
+        {
+            "code": "RECTEM",
+            "name": "Redeemers College of Technology and Management",
+            "address": "KM 46 Lagos – Ibadan Expressway, Mowe, Ogun State",
+            "phone": "+234 1  453 6229",
+            "alt_phone": "+234 808 459 0371",
+            "alt_phone_2": "+234 811 767 0767",
+            "website": "www.rectem.edu.ng",
+            "email": "admin@rectem.edu.ng",
+            "alt_email": "registrar@rectem.edu.ng",
+            "year_established": 2018
+        },
+        {
+            "code": "RPE",
+            "name": "Ronik Polytechnic, Ejigbo",
+            "address": "P.M.B. 21764, Ikeja, Lagos, Lagos State",
+            "website": "www.ronikpolytechnic.org",
+            "email": "ronikpolytechnic@yahoo.com",
+            "year_established": "2001/2003"
+        },
+        {
+            "code": "SP",
+            "name": "Saf Polytechnic",
+            "address": "P.O. Box 55, Iseyin, Oyo State",
+            "year_established": 2018
+        },
+        {
+            "code": "SIT",
+            "name": "Savanah Institute of Technology",
+            "address": "Ishieke Junction, Enugu-Abakaliki Expressway, Abakaliki, Ebonyi State",
+            "website": "www.savannah.edu.ng",
+            "year_established": 2017
+        },
+        {
+            "code": "SP",
+            "name": "Shaka Polytechnic",
+            "address": "No1 Prince Shaka Momodu Street, Ogiso, Off M.M. Way, P.M.B. 1240, Benin City, Edo State",
+            "year_established": 2013
+        },
+        {
+            "code": "SP",
+            "name": "Speedway Polytechnic",
+            "address": "7/20 Igbehinadun Street, Off Odozi Street, Osoba Ojudu, Ogun State",
+            "year_established": 2019
+        },
+        {
+            "code": "SMP",
+            "name": "St. Mary Polytechnic, Kwamba",
+            "address": "P.M.B 418, Suleja, Niger State",
+            "year_established": 2015
+        },
+        {
+            "code": "SP",
+            "name": "Stars Polytechnic",
+            "address": "Ota LGA, Ogun State",
+            "email": "info@starspoly.edu.ng",
+            "website": "www.starspoly.edu.ng",
+            "year_established": 2020
+        },
+        {
+            "code": "SAP",
+            "name": "Southern Atlantic Polytechnic",
+            "address": "KM 50, Airport Road, Uyo – Akwa Ibom State",
+            "year_established": 2020
+        },
+        {
+            "code": "SFP",
+            "name": "Sure Foundation Polytechnic, Ikot Akai",
+            "address": "Ukanafun LGA, Akwa Ibom State",
+            "website": "www.sfp.edu.ng",
+            "year_established": 2016
+        },
+        {
+            "code": "TP",
+            "name": "Teedek Polytechnic, Ilogbo-Ekiti, Ekiti State",
+            "year_established": 2022
+        },
+        {
+            "code": "TGP",
+            "name": "Temple Gate Polytechnic, Abayi, Osisioma",
+            "address": "P. O. Box 3448, Aba, Abia State",
+            "year_established": 2009
+        },
+        {
+            "code": "TPAO",
+            "name": "The Polytechnic Aran-Orin",
+            "address": "Off Landmark University, Otun-Ekili Road, Aran-Orin, Kwara State",
+            "year_established": 2022
+        },
+        {
+            "code": "TPIOKS",
+            "name": "The Polytechnic, Igbo-Owu",
+            "address": "Kwara State",
+            "year_established": 2015
+        },
+        {
+            "code": "TPIIF",
+            "name": "The Polytechnic, Ile Ife",
+            "address": "P.M.B. 009, O.A.U. Ile-Ife, Osun State",
+            "year_established": "1994/1999"
+        },
+        {
+            "code": "TPI",
+            "name": "The Polytechnic Iresi",
+            "address": "(Formerly College of Technology, Iresi), Osun State",
+            "year_established": 2014
+        },
+        {
+            "code": "TPO",
+            "name": "The Polytechnic Ojoku",
+            "address": "Kwara State",
+            "year_established": 2022
+        },
+        {
+            "code": "TPOE",
+            "name": "The Polytechnic, Omuo-Ekiti",
+            "address": "Ekiti State",
+            "year_established": 2022
+        },
+        {
+            "code": "TPOA",
+            "name": "The Polytechnic Otada Adoka",
+            "address": "P.O.Box 280 Otukpo, Benue State",
+            "website": "www.thepolytechnicadoka.edu.ng",
+            "year_established": 2016
+        },
+        {
+            "code": "TKPL",
+            "name": "Timeon Kairos Polytechnic Lagos",
+            "address": "326 Abeokuta Expressway, Super Cola Bus Stop, Oko Oba via Abule Egba Lagos",
+            "phone": "08125259754",
+            "alt_phone": "08081283332",
+            "year_established": 2019
+        },
+        {
+            "code": "TP",
+            "name": "Tower Polytechnic, Ibadan",
+            "address": "136, Liberty Road, P.O. Box 13039 G.P.O, Dugbe, Ibadan",
+            "email": "towerpol@yahoo.com",
+            "year_established": 2010
+        },
+        {
+            "code": "TPU",
+            "name": "Trinity Polytechnic Uyo",
+            "address": "Akwa Ibom State",
+            "year_established": 2016
+        },
+        {
+            "code": "UECTU",
+            "name": "Ultra Excellence College of Tech Uyo",
+            "address": "Akwa Ibom State",
+            "year_established": 2022
+        },
+        {
+            "code": "UPG",
+            "name": "United Polytechnic Gamajigo",
+            "address": "Off KM 7, Zaria Road, Jos – Plateau State",
+            "year_established": 2022
+        },
+        {
+            "code": "UUP",
+            "name": "Uma Ukpai Polytechnic",
+            "address": "Asaga Ohafia, Abia State",
+            "year_established": 2017
+        },
+        {
+            "code": "UCP",
+            "name": "Uyo City Polytechnic",
+            "address": "P.M.B. 1067, Uyo, Akwa Ibom State",
+            "year_established": 2014
+        },
+        {
+            "code": "VVP",
+            "name": "Valley View Polytechnic, Ohafia",
+            "address": "Abia State",
+            "year_established": 2016
+        },
+        {
+            "code": "VP",
+            "name": "Villanova Polytechnic, Imesi-Ile",
+            "address": "(Formerly The Polytechnic, Imesi-Ile), Km 2, Imesi-Ile/Igbajo Road, Osun State",
+            "year_established": 2013
+        },
+        {
+            "code": "WLP",
+            "name": "West Land Polytechnic",
+            "address": "No 31 Opapa Road, Ilobu, Osun State",
+            "year_established": 2022
+        },
+        {
+            "code": "WP",
+            "name": "Wolex Polytechnic, Iwo",
+            "address": "1Km. 2, Iwo-Ejigbo Road, P.O. Box 255, Osun State",
+            "email": "wolexpoju@yahoo.com",
+            "year_established": "1996/1999"
+        }
+    ]
+}

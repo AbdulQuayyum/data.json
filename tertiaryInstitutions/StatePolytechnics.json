@@ -1,0 +1,217 @@
+{
+    "schools": [
+      {
+        "name": "Abdu Gusau Polytechnic, Talata Mafara P.M.B. 1021, Talata Mafara, Zamfara State.",
+        "code": "AGPTM"
+      },
+      {
+        "name": "Abia State Polytechnic, Aba, P.M.B. 7166, Aba, Abia State.",
+        "code": "ASPA"
+      },
+      {
+        "name": "Abraham Adesanya Polytechnic, Dogbolu/Akanran Ibadan Road, Atikori, Ijebu Igbo, P.M.B. 1020, Ijebu-Igbo, Ogun State.",
+        "code": "AAPDAIRAIPI"
+      },
+      {
+        "name": "Abubakar Tatari Ali Polytechnic, Bauchi, Jos Rd, Bauchi, Bauchi State.",
+        "code": "ATAPBJRBB"
+      },
+      {
+        "name": "Adamawa State Polytechnic, Yola, P.M.B. 2146, Yola, Adamawa State.",
+        "code": "ASPYPMAYAS"
+      },
+      {
+        "name": "Adeseun Ogundoyin Polytechnic, Eruwa (Formerly Ibarapa Polytechnic Eruwa) PMB 1015 Eruwa, Oyo State",
+        "code": "AOPFEIPEP1E"
+      },
+      {
+        "name": "Akperan Orshi Polytechnic, Yandev",
+        "code": "AOPY"
+      },
+      {
+        "name": "Akwa Ibom State College of Art & Science, Nung Ukim, P.M.B. 1044, Akwa Ibom State.",
+        "code": "AISCASNUPIAIS"
+      },
+      {
+        "name": "Akwa Ibom State Polytechnic, Ikot Osurua, Ikot -Ekpene, Akwa Ibom State.",
+        "code": "AISPIOIKIAIS"
+      },
+      {
+        "name": "Anambra State Polytechnic, PMB 002, Mgbakwu, Anambra State",
+        "code": "ASPMAMAAS"
+      },
+      {
+        "name": "Bayelsa State Polytechnic, Aleibiri, P.M.B 168 Ekeremor",
+        "code": "BSPAPE"
+      },
+      {
+        "name": "Benue State Polytechnic, Ugbokolo, P.M.B. 01 Ugbokolo, Benue State.",
+        "code": "BSPUPB"
+      },
+      {
+        "name": "Binyaminu Usman Polytechnic, Hadejia, Jigawa State",
+        "code": "BUPHJS"
+      },
+      {
+        "name": "Capt Elechi Amadi Polytechnic Rumoula, Port Harcourt (Formerly Port-Harcourt Polytechnic) P.M.B. 5936, Port-Harcourt, Rivers State.",
+        "code": "CEAPRPHFPP5936P"
+      },
+      {
+        "name": "College of Administration, Management and Technology, Potiskum, Yobe State",
+        "code": "CAMATPY"
+      },
+      {
+        "name": "Cross River State Institute of Technology And Management (CRITM), Ugep, Cross River State, Nigeria.",
+        "code": "CRSITAMCUCRSN"
+      },
+      {
+        "name": "D.S. Adegbenro ICT Polytechnic, Itori-Ewekoro, P.M.B. 5026, Ifo, Ogun State.",
+        "code": "DSAPITIEPMB5026IOS"
+      },
+      {
+        "name": "Delta State Polytechnic, Ogwashi-Uku, P.M.B. 1030, Ogwashi-Uku, Delta State.",
+        "code": "DSPOMOUKPMB1030OUDS"
+      },
+      {
+        "name": "Delta State Polytechnic, Otefe-Oghara, P.M.B. 03, Otefe-Oghara, Delta State",
+        "code": "DSPOODPMB03ODDS"
+      },
+      {
+        "name": "Delta State School of Marine Technology, Burutu, P.M.B. 1060, Warri, Delta State.",
+        "code": "DSSOMTBPMB1060WDS"
+      },
+      {
+        "name": "Edo State Polytechnic, Usen. P.M.B. 1104, Benin City, Edo State.",
+        "code": "ESPUPIEDS"
+      },
+      {
+        "name": "Ekiti State College of Agriculture and Technology, Isan Ekiti, Ekiti State",
+        "code": "ESCATAE"
+      },
+      {
+        "name": "Enugu State Polytechnic, Iwollo",
+        "code": "ESPI"
+      },
+      {
+        "name": "Gateway Polytechnic, Saapade Prof. Wole Soyinka Way, Saapade Estate, P.M.B. 2003, Isara Ode-Remo, Ogun State.",
+        "code": "GPSPWSEPMWB2003IOROS"
+      },
+      {
+        "name": "Gombe State Polytechnic, Bajoga",
+        "code": "GSPB"
+      },
+      {
+        "name": "Hassan Usman Katsina Polytechnic (HUK), P.M.B. 2052, Katsina, Nigeria.",
+        "code": "HUKPMB2052KN"
+      },
+      {
+        "name": "Imo State Polytechnic, Umuma, Imo State",
+        "code": "ISPUIS"
+      },
+      {
+        "name": "Institute of Management and Technology, Enugu, P.M.B 01079, Enugu, Enugu State.",
+        "code": "IMTPEE"
+      },
+      {
+        "name": "Isa Mustapha Agwai Polytechnic Lafia, (Formerly, Nasarawa State Polytechnic, Lafia) P. M. B. 109, Lafia, Nasarawa State.",
+        "code": "IMAPLNSPLM109LNS"
+      },
+      {
+        "name": "Jigawa State Polytechnic, Dutse, Block 40-42, Old Secretariat, P.M.B. 7040, Dutse, Jigawa State.",
+        "code": "JSPDB4OSPM7040DJS"
+      },
+      {
+        "name": "Kano State Polytechnic, Kano, P.M.B. 3401, Kano, Kano State.",
+        "code": "KSPKPMB3401KK"
+      },
+      {
+        "name": "Katsina State Institute of Technology and Management (KSITM",
+        "code": "KSITM"
+      },
+      {
+        "name": "Ken Sarowiwa Polytechnic, Bori, P.M.B. 20, Bori, Rivers State.",
+        "code": "KSPBPMB20BRS"
+      },
+      {
+        "name": "Kogi State Polytechnic, Lokoja, P.M.B. 1101, Lokoja Kogi State.",
+        "code": "KSPPL1101LK"
+      },
+      {
+        "name": "Kwara State Polytechnic, Ilorin, P.M.B. 1375, Ilorin, Kwara State.",
+        "code": "KSPIPM1375IKS"
+      },
+      {
+        "name": "Mai-Idris Alooma Polytechnic, Geidam,m P.M.B. 1020 Geidam, Yobe State.",
+        "code": "MAPGYPMB1020GYS"
+      },
+      {
+        "name": "Moshood Abiola Polytechnic, Abeokuta, P.M.B. 2210, Abeokuta, Ogun State.",
+        "code": "MAPAPMB2210AOS"
+      },
+      {
+        "name": "Nasarawa State College of Agriculture and Technology, Lafia, PMB 033, Lafia, Nasarawa State",
+        "code": "NSCOAATLPMB033LNS"
+      },
+      {
+        "name": "Niger State Polytechnic, Zungeru, P.M.B. 1 Zungeru, Niger State.",
+        "code": "NSPZPMB1ZNS"
+      },
+      {
+        "name": "Nuhu Bamalli Polytechnic, Zaria, P.M.B. 1061 Zaria Kaduna State.",
+        "code": "NBPZPMB1061ZKS"
+      },
+      {
+        "name": "Ogun State Institute of Technology, Igbesa, Oba Adesola Market Road, P.M.B. 2005, Igbesa, Ogun State.",
+        "code": "OSITIORPAFPM2005IOS"
+      },
+      {
+        "name": "Oke-Ogun Polytechnic, Shaki, Oyo State",
+        "code": "OPSOYS"
+      },
+      {
+        "name": "Osun State College of Technology, P.M.B. 1011, Esa – Oke, Osun State.",
+        "code": "OSCOTPMB1011EOS"
+      },
+      {
+        "name": "Osun State Polytechnic, Iree, P.M.B. 301, Iree, Osun State.",
+        "code": "OSPIPM301IOS"
+      },
+      {
+        "name": "Oyo State College of Agriculture and Technology, Igbo Ora",
+        "code": "OSCATIO"
+      },
+      {
+        "name": "Plateau State Polytechnic, Barkin-Ladi, P.M.B. 02023, Jos, Plateau State.",
+        "code": "PSPBLPMB02023JPS"
+      },
+      {
+        "name": "Ramat Polytechnic, Maiduguri, Borno State.",
+        "code": "RPMBS"
+      },
+      {
+        "name": "Rufus Giwa Polytechnic, Owo, P.M.B. 1019 Owo Ondo State.",
+        "code": "RGPPO1019OOS"
+      },
+      {
+        "name": "Taraba State Polytechnic, Suntai",
+        "code": "TSPS"
+      },
+      {
+        "name": "The Polytechnic Ibadan, P.M.B. 22, Ibadan, Oyo State.",
+        "code": "TPIPM22IOS"
+      },
+      {
+        "name": "Umaru Ali Shinkafi Polytechnic, Sokoto, P.M.B. 2356 Sokoto, Sokoto State.",
+        "code": "UASPMS2356SS"
+      },
+      {
+        "name": "Yobe State College of Agriculture Science and Technology Gujba",
+        "code": "YSCASTG"
+      },
+      {
+        "name": "Zamfara State College of Arts and Science, Gusau",
+        "code": "ZSCASG"
+      }
+    ]
+  }
+  

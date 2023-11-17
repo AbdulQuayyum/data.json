@@ -1,0 +1,357 @@
+{
+    "state_universities": [
+        {
+            "name": "Abia State University, Uturu",
+            "vice_chancellor": "Prof. Onyemachi M. Ogbulu",
+            "website": "https://www.abiastateuniversity.edu.ng",
+            "year_established": 1981
+        },
+        {
+            "name": "Adamawa State University Mubi",
+            "vice_chancellor": "Prof (Mrs) Kaletapwa Farauta",
+            "website": "https://www.adsu.edu.ng",
+            "year_established": 2002
+        },
+        {
+            "name": "Adekunle Ajasin University, Akungba",
+            "vice_chancellor": "Prof. Olugbenga E. Ige",
+            "website": "https://www.aaua.edu.ng",
+            "year_established": 1999
+        },
+        {
+            "name": "Akwa Ibom State University, Ikot Akpaden",
+            "vice_chancellor": "Prof. Nse U. Essien",
+            "website": "https://www.aksu.edu.ng",
+            "year_established": 2010
+        },
+        {
+            "name": "Ambrose Alli University, Ekpoma",
+            "vice_chancellor": "Professor Sunny Adagbonyi",
+            "website": "https://www.aauekpoma.edu.ng",
+            "year_established": 1980
+        },
+        {
+            "name": "Chukwuemeka Odumegwu Ojukwu University, Uli",
+            "vice_chancellor": "Prof. Greg C. Nwakoby",
+            "website": "https://coou.edu.ng/",
+            "year_established": 2000
+        },
+        {
+            "name": "Bauchi State University, Gadau",
+            "vice_chancellor": "Prof. Auwalu Uba Adamu",
+            "website": "https://www.basug.edu.ng",
+            "year_established": 2011
+        },
+        {
+            "name": "Benue State University, Makurdi",
+            "vice_chancellor": "Prof. Joe Tor Iorapuu",
+            "website": "https://www.bsum.edu.ng",
+            "year_established": 1992
+        },
+        {
+            "name": "Yobe State University, Damaturu",
+            "vice_chancellor": "Prof. Mala M. Daura",
+            "website": "https://www.ysu.edu.ng",
+            "year_established": 2006
+        },
+        {
+            "name": "Cross River State University of Technology, Calabar",
+            "vice_chancellor": "Prof. Augustine Oko Angba",
+            "website": "https://www.crutech.edu.ng",
+            "year_established": 2004
+        },
+        {
+            "name": "Delta State University Abraka",
+            "vice_chancellor": "Professor Andy Egwunyenga",
+            "website": "https://www.delsu.edu.ng",
+            "year_established": 1992
+        },
+        {
+            "name": "Ebonyi State University, Abakaliki",
+            "vice_chancellor": "Professor Chigozie N Ogbu",
+            "website": "https://www.ebsu.edu.ng",
+            "year_established": 2000
+        },
+        {
+            "name": "Ekiti State University",
+            "vice_chancellor": "Prof. Edward O. Olanipekun",
+            "website": "https://www.eksu.edu.ng",
+            "year_established": 1982
+        },
+        {
+            "name": "Enugu State University of Science and Technology, Enugu",
+            "vice_chancellor": "Prof.Aloysius Michael Okolie",
+            "website": "https://www.esut.edu.ng",
+            "year_established": 1982
+        },
+        {
+            "name": "Gombe State University, Gombe",
+            "vice_chancellor": "Prof. Aliyu Usman El-Nafaty",
+            "website": "https://www.gsu.edu.ng",
+            "year_established": 2004
+        },
+        {
+            "name": "Ibrahim Badamasi Babangida University, Lapai",
+            "vice_chancellor": "Prof. Kasim Adamu",
+            "website": "https://www.ibbu.edu.ng",
+            "year_established": 2005
+        },
+        {
+            "name": "Ignatius Ajuru University of Education, Rumuolumeni",
+            "vice_chancellor": "Prof. Okechukwu Onochukwu",
+            "website": "https://www.iaue.edu.ng",
+            "year_established": 2010
+        },
+        {
+            "name": "Imo State University, Owerri",
+            "vice_chancellor": "Prof. U Chukwumaeze",
+            "website": "https://www.imsu.edu.ng",
+            "year_established": 1992
+        },
+        {
+            "name": "Sule Lamido University, Kafin Hausa, Jigawa",
+            "vice_chancellor": "Prof. Lawan Sani Taura",
+            "website": "https://www.slu.edu.ng",
+            "year_established": 2013
+        },
+        {
+            "name": "Kaduna State University, Kaduna",
+            "vice_chancellor": "Professor Muhammad Tanko",
+            "website": "https://www.kasu.edu.ng",
+            "year_established": 2004
+        },
+        {
+            "name": "Kano University of Science & Technology, Wudil",
+            "vice_chancellor": "Professor IShehu A Musa",
+            "website": "https://www.kust.edu.ng",
+            "year_established": 2000
+        },
+        {
+            "name": "Kebbi State University of Science and Technology, Aliero",
+            "vice_chancellor": "Prof. Bashar Ladan Aliero",
+            "website": "https://www.ksusta.edu.ng",
+            "year_established": 2006
+        },
+        {
+            "name": "Prince Abubakar Audu University Anyigba",
+            "vice_chancellor": "Professor Marietu Ohunene Tenuche",
+            "website": "https://www.ksu.edu.ng",
+            "year_established": 1999
+        },
+        {
+            "name": "Kwara State University, Ilorin",
+            "vice_chancellor": "Professor Mohammed M Akanbi",
+            "website": "https://www.kwasu.edu.ng",
+            "year_established": 2009
+        },
+        {
+            "name": "Ladoke Akintola University of Technology, Ogbomoso",
+            "vice_chancellor": "Prof. Mojeed Olaide Liasu",
+            "website": "https://www.lautech.edu.ng",
+            "year_established": 1990
+        },
+        {
+            "name": "Ondo State University of Science and Technology Okitipupa",
+            "vice_chancellor": "Prof. Temi Emmanuel Ologunorisa",
+            "website": "https://www.osustech.edu.ng",
+            "year_established": 2008
+        },
+        {
+            "name": "Rivers State University",
+            "vice_chancellor": "Prof. Nlerum S. Okogbule",
+            "website": "https://www.rsu.edu.ng",
+            "year_established": 1979
+        },
+        {
+            "name": "Olabisi Onabanjo University, Ago Iwoye",
+            "vice_chancellor": "Prof Ayodeji Johnson Agboola",
+            "website": "https://www.oouagoiwoye.edu.ng",
+            "year_established": 1982
+        },
+        {
+            "name": "Lagos State University, Ojo",
+            "vice_chancellor": "Prof. Ibiyemi Olatunji-Bello",
+            "website": "https://www.lasu.edu.ng",
+            "year_established": 1983
+        },
+        {
+            "name": "Niger Delta University Yenagoa",
+            "vice_chancellor": "Prof. Samuel Gowon Edoumiekumo",
+            "website": "https://www.ndu.edu.ng",
+            "year_established": 2000
+        },
+        {
+            "name": "Nasarawa State University Keffi",
+            "vice_chancellor": "Prof. Suleiman Bala Mohammed",
+            "website": "https://www.nsuk.edu.ng",
+            "year_established": 2002
+        },
+        {
+            "name": "Plateau State University Bokkos",
+            "vice_chancellor": "Prof. Yohana D. Izam",
+            "website": "https://www.plasu.edu.ng",
+            "year_established": 2005
+        },
+        {
+            "name": "Tai Solarin University of Education Ijebu Ode",
+            "vice_chancellor": "Prof. Oluwole Sikiru Banjo",
+            "website": "https://www.tasued.edu.ng",
+            "year_established": 2005
+        },
+        {
+            "name": "Umar Musa Yar' Adua University Katsina",
+            "vice_chancellor": "Prof. Sanusi Mamman",
+            "website": "https://www.umyu.edu.ng",
+            "year_established": 2006
+        },
+        {
+            "name": "Osun State University Osogbo",
+            "vice_chancellor": "Prof Odunayo Clement Adeboye",
+            "website": "https://www.uniosun.edu.ng",
+            "year_established": 2006
+        },
+        {
+            "name": "Taraba State University, Jalingo",
+            "vice_chancellor": "Prof. Sunday Paul Bako",
+            "website": "https://www.tsuniversity.edu.ng",
+            "year_established": 2008
+        },
+        {
+            "name": "Sokoto State University",
+            "vice_chancellor": "Prof. Bashiru Garba",
+            "website": "https://www.ssu.edu.ng",
+            "year_established": 2009
+        },
+        {
+            "name": "Yusuf Maitama Sule University Kano",
+            "vice_chancellor": "Prof. Muktar Atiku Kurawa",
+            "website": "https://www.nwu.edu.ng",
+            "year_established": 2012
+        },
+        {
+            "name": "First Technical University Ibadan",
+            "vice_chancellor": "Prof. Adesola Ajayi",
+            "website": "https://tech-u.edu.ng/",
+            "year_established": 2012
+        },
+        {
+            "name": "Ondo State University of Medical Sciences",
+            "vice_chancellor": "Prof. Adesegun Fatusi",
+            "website": "https://www.unimed.edu.ng",
+            "year_established": 2015
+        },
+        {
+            "name": "Edo State University Uzairue",
+            "vice_chancellor": "Prof. Emmanuel Aluyor (Ag)",
+            "website": "https://www.edouniversity.edu.ng/",
+            "year_established": 2016
+        },
+        {
+            "name": "Kingsley Ozumba Mbadiwe University Ogboko, Imo State",
+            "vice_chancellor": "Prof. Ikechukwu N. S. Dozie",
+            "website": "https://www.komu.edu.ng/",
+            "year_established": 2016
+        },
+        {
+            "name": "University of Africa Toru Orua, Bayelsa State",
+            "vice_chancellor": "Prof. Kingston Nyamapfene",
+            "website": "https://www.uat.edu.ng/public/",
+            "year_established": 2016
+        },
+        {
+            "name": "Bornu State University, Maiduguri",
+            "vice_chancellor": "Prof. Umar Kyari Sandabe",
+            "year_established": 2016
+        },
+        {
+            "name": "Moshood Abiola University of Science and Technology Abeokuta",
+            "vice_chancellor": "Prof Akinwale Coker",
+            "year_established": 2017
+        },
+        {
+            "name": "Gombe State University of Science and Technology",
+            "year_established": 2017
+        },
+        {
+            "name": "Zamfara State University",
+            "vice_chancellor": "Prof Yahaya Zakari Abdullahi",
+            "year_established": 2018
+        },
+        {
+            "name": "Bayelsa Medical University",
+            "vice_chancellor": "Prof. Ebitimitula Nicholas Etebu",
+            "website": "https://bmu.edu.ng/",
+            "year_established": 2019
+        },
+        {
+            "name": "University of Agriculture and Environmental Sciences Umuagwo, Imo State",
+            "vice_chancellor": "Prof. Patrick E. Egbule",
+            "website": "https://www.uaes.edu.ng/",
+            "year_established": 2019
+        },
+        {
+            "name": "Confluence University of Science and Technology Osara, Kogi",
+            "vice_chancellor": "Prof. Salawu Sadiku",
+            "website": "https://custech.edu.ng/",
+            "year_established": 2020
+        },
+        {
+            "name": "University of Delta, Agbor",
+            "vice_chancellor": "Prof. Stells C. Chiemeke",
+            "website": "https://unidel.edu.ng/",
+            "year_established": 2021
+        },
+        {
+            "name": "Delta University of Science and Technology, Ozoro",
+            "website": "https://dsust.edu.ng/",
+            "year_established": 2021
+        },
+        {
+            "name": "Dennis Osadebe University, Asaba",
+            "website": "https://www.dou.edu.ng/",
+            "year_established": 2021
+        },
+        {
+            "name": "Bamidele Olumilua University of Science and Technology Ikere, Ekiti State",
+            "vice_chancellor": "Prof. Olufemi V Adeoluwa",
+            "website": "https://bouesti.edu.ng/",
+            "year_established": 2020
+        },
+        {
+            "name": "Lagos State University of Education, Ijanikin",
+            "year_established": null
+        },
+        {
+            "name": "Lagos State University of Science and Technology Ikorodu",
+            "year_established": null
+        },
+        {
+            "name": "Shehu Shagari University of Education, Sokoto",
+            "year_established": 2022
+        },
+        {
+            "name": "Enugu State University of Medical and Applied Sciences, Igbo-Eno",
+            "year_established": 2022
+        },
+        {
+            "name": "University of Ilesa, Osun State",
+            "year_established": 2022
+        },
+        {
+            "name": "Emanuel Alayande University of Education Oyo",
+            "year_established": 2022
+        },
+        {
+            "name": "Sa’adatu Rimi University of Education",
+            "year_established": 2023
+        },
+        {
+            "name": "Kogi State University, Kabba",
+            "year_established": 2023
+        },
+        {
+            "name": "Niger State University of Education, Minna",
+            "year_established": 2023
+        }
+    ]
+}

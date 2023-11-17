@@ -1,0 +1,250 @@
+{
+    "institutions": [
+      {
+        "code": "AOCA",
+        "name": "Akperan Orshi College of Agriculture, Yandev",
+        "address": "P. M. B. 181,Yandev, Gboko, Benue State",
+        "year_established": 1926,
+        "ownership": "State"
+      },
+      {
+        "code": "ABCA",
+        "name": "Audu Bako College of Agriculture, Danbatta",
+        "address": "P. M. B. 3159, Dambatta, Kano State",
+        "year_established": 2002,
+        "ownership": "State"
+      },
+      {
+        "code": "BSCA",
+        "name": "Bauchi State College of Agriculture",
+        "address": "P.M.B. 088, Bauchi",
+        "year_established": 2013,
+        "ownership": "State"
+      },
+      {
+        "code": "CAAHB",
+        "name": "College of Agriculture and Animal Health, Bakura",
+        "address": "P.M.B. 1022, Talata Mafara, Zamfara State",
+        "year_established": 1999,
+        "ownership": "State"
+      },
+      {
+        "code": "CAAASM",
+        "name": "College of Agriculture and Animal Science, DAC-ABU, Mando",
+        "address": "P.M.B. 2134, Kaduna, Kaduna State",
+        "email": "dac.abu@skannet.com, dac.abu@inet-global.com",
+        "year_established": 1959,
+        "ownership": "Federal"
+      },
+      {
+        "code": "CAJ",
+        "name": "College of Agriculture, Jalingo",
+        "address": "P.M.B. 1025 Jalingo, Taraba State",
+        "year_established": 1979,
+        "ownership": "State"
+      },
+      {
+        "code": "CAK",
+        "name": "College of Agriculture, DAC – ABU, Kabba",
+        "address": "P. M. B. 205, Kabba, Kogi State",
+        "year_established": 1964,
+        "ownership": "Federal"
+      },
+      {
+        "code": "CAZ",
+        "name": "College of Agriculture, Zuru",
+        "address": "P.M.B. 1018, Zuru, Kebbi State",
+        "year_established": 1976,
+        "ownership": "State"
+      },
+      {
+        "code": "ESCAI",
+        "name": "Edo State College of Agriculture, Iguoriakhi",
+        "address": "P.M.B. 1471, Iguoriakhi, Edo State",
+        "ownership": "State"
+      },
+      {
+        "code": "FCAA",
+        "name": "Federal College of Agriculture, Akure",
+        "address": "P.M.B. 623, Akure, Ondo State",
+        "year_established": 1957,
+        "ownership": "Federal"
+      },
+      {
+        "code": "FCAMPI",
+        "name": "Federal College of Agriculture, Moor Plantation",
+        "address": "P.M.B. 5029, Moor Plantation, Ibadan, Oyo State",
+        "email": "drart@infoweb.abs.net",
+        "year_established": 1921,
+        "ownership": "Federal"
+      },
+      {
+        "code": "FCAI",
+        "name": "Federal College of Agriculture, Ishiagu",
+        "address": "P.M.B. 7008, Ishiagu, Ebonyi State",
+        "year_established": 1955,
+        "ownership": "Federal"
+      },
+      {
+        "code": "FCAPTK",
+        "name": "Federal College of Agricultural Produce Technology, Kano",
+        "year_established": 1992,
+        "ownership": "State"
+      },
+      {
+        "code": "FCAHP",
+        "name": "Federal College of Animal Health & Production Technology, Ibadan",
+        "address": "P.M.B. 5029, Ibadan Oyo State",
+        "email": "drart@infoweb.abs.net",
+        "year_established": 1964,
+        "ownership": "Federal"
+      },
+      {
+        "code": "FCAHPV",
+        "name": "Federal College of Animal Health & Production Technology, Vom",
+        "address": "P.M.B 1. Vom, Plateau State",
+        "year_established": 1941,
+        "ownership": "Federal"
+      },
+      {
+        "code": "FCFMVT",
+        "name": "Federal College of Fisheries & Marine Technology, Victoria Island",
+        "address": "P.M.B. 80063 Victoria Island, Lagos State",
+        "email": "fcfmt@yahoo.com",
+        "year_established": 1969,
+        "ownership": "Federal"
+      },
+      {
+        "code": "FCFJHI",
+        "name": "Federal College of Forestry, Jericho Hill",
+        "address": "P.M.B. 5054 Jericho Hill, Ibadan, Oyo State",
+        "year_established": 1939,
+        "ownership": "Federal"
+      },
+      {
+        "code": "FCFJ",
+        "name": "Federal College of Forestry, Jos",
+        "address": "P.M.B 2019 Jos, Plateau State",
+        "email": "fcfjos@infoweb.abs.net",
+        "year_established": 1958,
+        "ownership": "Federal"
+      },
+      {
+        "code": "FCFMA",
+        "name": "Federal College of Forestry Mechanisation Afaka",
+        "address": "P.M.B. 2273, Afaka, Kaduna State",
+        "email": "fedcollforestrykaduna@yahoo.com",
+        "year_established": 1976,
+        "ownership": "Federal"
+      },
+      {
+        "code": "FCFRME",
+        "name": "Federal College of Forestry Resources Management, Fugar",
+        "address": "Edo State",
+        "ownership": "Federal"
+      },
+      {
+        "code": "FCFEMI",
+        "name": "Federal College of Forestry Resources Management, Ishiagu",
+        "address": "Ebonyi State",
+        "ownership": "Federal"
+      },
+      {
+        "code": "FCFEMM",
+        "name": "Federal College of Forestry Resources Management, Maiduguri",
+        "address": "Borno State",
+        "ownership": "Federal"
+      },
+      {
+        "code": "FCFFTB",
+        "name": "Federal College of Freshwater Fisheries Technology, Baga",
+        "address": "P.M.B. 1060, Maiduguri, Borno State",
+        "year_established": 1978,
+        "ownership": "Federal"
+      },
+      {
+        "code": "FCFFTNB",
+        "name": "Federal College of Freshwater Fisheries Technology, New Bussa",
+        "address": "P.M.B. 1500, New Bussa, Niger State",
+        "year_established": 1978,
+        "ownership": "Federal"
+      },
+      {
+        "code": "FCOHT",
+        "name": "Federal College of Horticultural Technology, Dadin Kowa",
+        "address": "Gombe State",
+        "year_established": 2002,
+        "ownership": "Federal"
+      },
+      {
+        "code": "FCLRTK",
+        "name": "Federal College of Land Resources Technology, Kuru",
+        "address": "P.M.B. 2035, Jos, Plateau State",
+        "year_established": 1987,
+        "ownership": "Federal"
+      },
+      {
+        "code": "FCLRT",
+        "name": "Federal College of Land Resources Technology",
+        "address": "P.M.B. 1518, Owerri, Imo State",
+        "email": "fedcolart2007@yahoo.com, dfrin@skannet.com",
+        "year_established": 1981,
+        "ownership": "Federal"
+      },
+      {
+        "code": "FCWMNB",
+        "name": "Federal College of Wildlife Management, New Bussa",
+        "address": "P.M.B. 268, New Bussa, Niger State",
+        "year_established": 1978,
+        "ownership": "Federal"
+      },
+      {
+        "code": "FCVMLT",
+        "name": "Federal College of Veterinary and Medical Laboratory Technology, Vom",
+        "year_established": "N/A",
+        "ownership": "Federal"
+      },
+      {
+        "code": "MLCA",
+        "name": "Mohammed Lawan College of Agriculture, Maiduguri",
+        "address": "P. M .B. 1427, Maiduguri, Borno State",
+        "year_established": 1977,
+        "ownership": "State"
+      },
+      {
+        "code": "NSCA",
+        "name": "Niger State College of Agriculture, Mokwa",
+        "address": "P.M.B. 109, Mokwa, Niger State",
+        "year_established": 1979,
+        "ownership": "State"
+      },
+      {
+        "code": "PSCAG",
+        "name": "Plateau State College of Agriculture, Garkawa",
+        "address": "P.M.B. 001, Garkawa",
+        "year_established": 1998,
+        "ownership": "State"
+      },
+      {
+        "code": "SCAADAZ",
+        "name": "Samaru College of Agriculture, DAC ABU, Zaria",
+        "address": "Kaduna State",
+        "year_established": 1921,
+        "ownership": "Federal"
+      },
+      {
+        "code": "UCA",
+        "name": "Usteem College of Agriculture",
+        "address": "12 Usteem Road, Off Ilobu Road, PMB 5008, Agunbelewo, Osogbo",
+        "year_established": 2023,
+        "ownership": "Private"
+      },
+      {
+        "code": "YSCA",
+        "name": "Yobe State College of Agriculture, Gujba",
+        "year_established": 1996,
+        "ownership": "State"
+      }
+    ]
+  }
+  

@@ -1,0 +1,807 @@
+{
+    "institutions": [
+        {
+            "code": "AIE",
+            "name": "Adhama Innovation Enterprise Institute",
+            "address": "171 Mission Road, Bompai, Kano",
+            "approved_courses": [
+                "NVC Fashion Design"
+            ],
+            "ownership": "Private",
+            "year_established": 2018
+        },
+        {
+            "code": "AME_TC",
+            "name": "Agency for Mass Education(AME) Training Centres",
+            "address": "OAU Quarters, Asokoro District, P.M.B. 197, Garki Abuja. 09 3147067",
+            "approved_courses": [
+                "NVC Agriculture"
+            ],
+            "ownership": "Federal",
+            "year_established": 2010
+        },
+        {
+            "code": "AMF_TC",
+            "name": "Agency for Mass Education (AMF) Technology Centre",
+            "address": "Asokoro, Garki, FCT. VTC Kwali, Abuja, Campus",
+            "approved_courses": [
+                "NVC Agriculture"
+            ],
+            "ownership": "Federal",
+            "year_established": 2010
+        },
+        {
+            "code": "Al_Muhibba_ICT",
+            "name": "Al-Muhibba Institute ICT and Entrepreneurship",
+            "address": "2 Bicados Street, Off Charles Adebayo Street, Kubawa, Abuja",
+            "approved_courses": [
+                "NVC Computer Studies",
+                "NVC Fashion Design"
+            ],
+            "ownership": "Private",
+            "year_established": 2022
+        },
+        {
+            "code": "Ambassador_College",
+            "name": "Ambassador College of Management and Technology",
+            "address": "80c Igwuruta Road(Tank) Rumuokwurushi, Port-Harcourt",
+            "approved_courses": [
+                "NVC Office Secretarial Assistant"
+            ],
+            "ownership": "Private",
+            "year_established": 2009
+        },
+        {
+            "code": "AFEME_Mechatronics",
+            "name": "Armed Forces Electrical and Mechanical Engineering Mechatronics School",
+            "address": "Mogadishu Barracks Asokoro, Abuja",
+            "approved_courses": [
+                "NVC Automotive Mechatronics"
+            ],
+            "ownership": "Federal",
+            "year_established": 2016
+        },
+        {
+            "code": "BGBFS_Kachia",
+            "name": "Best Global Business and Financial School",
+            "address": "Kachia Road, Kaduna",
+            "approved_courses": [
+                "NVC Office Secretarial Assistant"
+            ],
+            "ownership": "Private",
+            "year_established": 2015
+        },
+        {
+            "code": "Bonny_Vocational_Centre",
+            "name": "Bonny Vocational Centre",
+            "address": "Bonny Island, Rivers State",
+            "approved_courses": [
+                "NVC Carpentry and Joinery",
+                "NVC Computer Studies",
+                "NVC Electrical Installation and Repair Works",
+                "NVC Hospitality and Tourism Studies",
+                "NVC Office Secretarial Assistant",
+                "NVC Plumbing & Pipefitting",
+                "NVC Refrigeration and Air-conditioning"
+            ],
+            "ownership": "Private",
+            "year_established": 2013
+        },
+        {
+            "code": "Buckingham_Academy",
+            "name": "Buckingham Academy of Management and Technology",
+            "address": "Buckingham Estate old Awka Road near Iyienu Mission Hospital Ogidi Anambra State",
+            "approved_courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2009
+        },
+        {
+            "code": "Calvary_Foundation_Institute",
+            "name": "Calvary Foundation Institute of Technology",
+            "address": "Enugu, Enugu State",
+            "approved_courses": [
+                "NVC Carpentry and Joinery",
+                "NVC Electrical Installation and Repair Works"
+            ],
+            "ownership": "Private",
+            "year_established": 2013
+        },
+        {
+            "code": "CIBT_Benin",
+            "name": "Central Institute of Business and Technology",
+            "address": "Kilometer 4 Benin-Abraka Road, Egba, Benin City",
+            "approved_courses": [
+                "NVC Electrical Installation",
+                "NVC Fashion Design"
+            ],
+            "ownership": "Private",
+            "year_established": 2016
+        },
+        {
+            "code": "Cherish_Enterprise_Institute",
+            "name": "Cherish Enterprise Institute",
+            "address": "Batsari, Katsina State",
+            "approved_courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2013
+        },
+        {
+            "code": "CCI_Benin",
+            "name": "Complete Computers and Technology Institute",
+            "address": "Benin City, Edo State",
+            "approved_courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2012
+        },
+        {
+            "code": "Dalewares_IT",
+            "name": "Dalewares Institute of Technology",
+            "address": "Lagos 33 Imani Dauda St. Off Eric Moore Road, Surulere, Lagos State.",
+            "contact_email": [
+                "dalewares@yahoo.com",
+                "enquiry@dalewaresinstituteoftechnology.com"
+            ],
+            "approved_courses": [
+                "NVC Computer Studies",
+                "NVC Printing Technology"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "code": "Dalewares_Institute",
+            "name": "Damson Institute of Management and Technology",
+            "address": "No 5 Damson Street, Off Etsu Jetta Street, Phase 1, Jikwoyi, Along Nyanya Karshi Road, FCT Abuja",
+            "approved_courses": [
+                "NVC Hospitality and Tourism Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2018
+        },
+        {
+            "code": "DOF_Catering_Hospitality",
+            "name": "DOF Institute of Catering and Hospitality",
+            "address": "Dalian Plaza 43, Oritshe Street off Obafemi Awolowo Way Box 800, Ikeja.",
+            "approved_courses": [
+                "NVC Hospitality and Tourism Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2009
+        },
+        {
+            "code": "ESTAC_Construction_Engineering",
+            "name": "Environmental Sustainability Thinking and Action Centre (ESTAC)",
+            "address": "Institute of Construction & Engineering, Enugu. 1, Mike Toney Avenue, Phase 6 Trans Ekulu, Enugu State.",
+            "contact_email": [
+                "info@estacnigeria.org",
+                "channel2010@yahoo.com"
+            ],
+            "approved_courses": [
+                "NVC Block Laying and Concreting"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "code": "EVT_Matan_Fada",
+            "name": "Entrepreneurship Vocational Technology ltd",
+            "address": "Matan Fada, Kano State",
+            "contact_phone": "08033379371",
+            "approved_courses": [
+                "NVC Carpentry and Joinery",
+                "NVC Computer Studies",
+                "NVC Fashion Design",
+                "NVC Fabrication and Welding"
+            ],
+            "ownership": "State",
+            "year_established": 2010
+        },
+        {
+            "code": "Exhale_Salon_Beauty",
+            "name": "Exhale Salon and Beauty Institute",
+            "address": "No. 2A Kwato Road/Ibrahim Zaki Road, Unguwan Rimi, Kaduna.",
+            "contact_phone": "08033145531",
+            "approved_courses": [
+                "NVC Cosmetology and Beauty Therapy"
+            ],
+            "ownership": "Private",
+            "year_established": 2010
+        },
+        {
+            "code": "FCFM_Afaka_Entrepreneurship",
+            "name": "FCFM-Afaka Entrepreneurship Centre",
+            "address": "Kaduna, Kaduna State",
+            "approved_courses": [
+                "NVC Agriculture"
+            ],
+            "ownership": "Federal",
+            "year_established": 2010
+        },
+        {
+            "code": "First_Mark_Innovation",
+            "name": "First Mark Innovation School of Technology",
+            "address": "Ado-Ekiti",
+            "approved_courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2012
+        },
+        {
+            "code": "Flyingdove_IT",
+            "name": "Flyingdove Institute of Information Technology",
+            "address": "Abuja, FCT",
+            "approved_courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2010
+        },
+        {
+            "code": "GIPIT_Oni",
+            "name": "Gateway Industrial Petrogas Institute",
+            "address": "Oni, Ogun State",
+            "approved_courses": [
+                "NVC Fabrication and Welding",
+                "NVC Plumbing & Pipefitting"
+            ],
+            "ownership": "State",
+            "year_established": 2013
+        },
+        {
+            "code": "Global_Maritime_Academy",
+            "name": "Global Maritime Academy",
+            "address": "Ogoni-Olomu, Delta State",
+            "approved_courses": [
+                "NVC Computer Studies",
+                "NVC Electrical Installation and Repair Works",
+                "NVC Office Secretariat Assistant"
+            ],
+            "ownership": "Private",
+            "year_established": 2012
+        },
+        {
+            "code": "Hajj_Institute_Nigeria",
+            "name": "Hajj Institute of Nigeria",
+            "address": "Plot 992, Zakaria Maimalari Street Central Business District FCT - Abuja",
+            "approved_courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2022
+        },
+        {
+            "code": "Hajia_Saadatu_Foundation",
+            "name": "Hajia Sa’adatu and Umul-khairi Foundation",
+            "address": "Kano",
+            "approved_courses": [
+                "NVC Cosmetology and Beauty Therapy",
+                "NVC Fashion Design"
+            ],
+            "ownership": "Private",
+            "year_established": 2015
+        },
+        {
+            "code": "Hanzy_Beauty",
+            "name": "Hanzy Beauty International Institute Ltd",
+            "address": "Kaduna",
+            "approved_courses": [
+                "NVC Cosmetology and Beauty Therapy"
+            ],
+            "ownership": "Private",
+            "year_established": 2010
+        },
+        {
+            "code": "Highland_College",
+            "name": "Highland College of Technology & Further Studies",
+            "address": "Ibadan, C/o Segun Fatoki, 98 Iwo Road, Ibadan, Oyo State.",
+            "contact_email": [
+                "segunfatoki@hotmail.com",
+                "highlandcollege@yahoo.com"
+            ],
+            "approved_courses": [
+                "NVC Hospitality and Tourism Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "code": "Homik_Oil_Gas",
+            "name": "Homik Oil and Gas Facility Engineering School",
+            "address": "Homik Rehoboth Court by Jesus Evang Power Mission, NTA/ Choba Road Ozuoba, Port Harcourt, Rivers State",
+            "approved_courses": [
+                "NVC Oil and Gas Facilities Engineering Technology"
+            ],
+            "ownership": "Private",
+            "year_established": 2018
+        },
+        {
+            "code": "Hotel_Tourism_Business",
+            "name": "Hotel & Tourism Business School",
+            "address": "Ikeja, Lagos State",
+            "approved_courses": [
+                "NVC Hospitality & Tourism Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2012
+        },
+        {
+            "code": "IMFI_ICT_Academy",
+            "name": "IMFI-ICT Academy",
+            "address": "54, Nsikak Eduok Avenue, P.O.Box 1723, Uyo, Akwa Ibom State.",
+            "contact_website": "www.imfiacademy.com",
+            "contact_email": "info@imfiacademy.com",
+            "approved_courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "code": "ITF_MSTC_Abuja",
+            "name": "Industrial Training Fund(ITF) Models Skills Training Centre",
+            "address": "Adetokunbo Ademola Crescent, Maitama, Abuja",
+            "approved_courses": [
+                "NVC Hospitality & Tourism Studies",
+                "NVC Automotive Mechatronics",
+                "NVC Electrical Installation and Repair Works"
+            ],
+            "ownership": "Private",
+            "year_established": 2016
+        },
+        {
+            "code": "Innovation_Institute",
+            "name": "Innovation Institute of Technology",
+            "address": "No. 5. Yakubu Gowon Way, Kaduna",
+            "approved_courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2009
+        },
+        {
+            "code": "IACE_Awgu",
+            "name": "Institute of Administration and Construction Engineering",
+            "address": "Awgu, Enugu State",
+            "approved_courses": [
+                "NVC Electrical Installation and Repair Works",
+                "NVC Fabrication and Welding"
+            ],
+            "ownership": "Private",
+            "year_established": 2013
+        },
+        {
+            "name": "Institute of Information and Computer Technology",
+            "address": "Awgu, Enugu State",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2013
+        },
+        {
+            "name": "International Chaplaincy Corps Network (ICCN) Institute of Security Technology and Management",
+            "address": "Orlu, Imo State",
+            "courses": [
+                "NVC Computer Studies",
+                "NVC Office Secretarial Assistant"
+            ],
+            "ownership": "Private",
+            "year_established": 2013
+        },
+        {
+            "name": "International Vocational Technical Enteprenuership Centre (IVTECH)",
+            "address": "Ajase-Ipo, Kwara State",
+            "courses": [
+                "NVC Refrigeration and Air condition"
+            ],
+            "ownership": "State",
+            "year_established": 2019
+        },
+        {
+            "name": "Izisco Obos Institute of Marine Studies & Technology",
+            "address": "Warri, Delta State",
+            "courses": [
+                "NVC Electrical Installation and Repair Works",
+                "NVC Fabrication and Welding"
+            ],
+            "ownership": "Private",
+            "year_established": 2013
+        },
+        {
+            "name": "JKN Training Centre",
+            "address": "Oshodi, Lagos",
+            "courses": [
+                "NVC Electrical Installation and Repair Works",
+                "NVC Refrigeration and Air-conditioning"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "name": "Kazaure Innovation Institute",
+            "address": "c/o Hussaini Adamu Federal Polytechnic Kazaure, Jigawa State",
+            "courses": [
+                "NVC Fashion Design"
+            ],
+            "ownership": "Federal",
+            "year_established": 2010
+        },
+        {
+            "name": "Lagos City Computer College",
+            "address": "7 Bashiru Oweh Street, P.M.B. 21200, Ikeja, Lagos State.",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "name": "Landmark Academy of Hospitality Management",
+            "address": "Port Harcourt",
+            "courses": [
+                "NVC Hospitality & Tourism Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2013
+        },
+        {
+            "name": "Linet Paul Innovative Institute",
+            "address": "No. 1 Sunmail Drive, off Isaac Boro Expressway, Etegwe- Yenagoa, Bayelsa State.",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2010
+        },
+        {
+            "name": "Lobi School of Management and Technology",
+            "address": "Makurdi",
+            "courses": [
+                "NVC Carpentry and Joinery",
+                "NVC Computer Studies",
+                "NVC Electrical Installation and Repair Works"
+            ],
+            "ownership": "Private",
+            "year_established": 2013
+        },
+        {
+            "name": "Mario Institute of Hospitality Management and Entrepreneurship Education",
+            "address": "Uhunowerre, Igbo – Eze South LGA, Nsukka, Enugu State",
+            "courses": [
+                "NVC Hospitality and Tourism Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2017
+        },
+        {
+            "name": "Minna Institute of Technology and Innovation",
+            "address": "Kpakungu Road, Minna, Niger State",
+            "courses": [
+                "NVC Electrical Installation and Repair Works"
+            ],
+            "ownership": "State",
+            "year_established": 2016
+        },
+        {
+            "name": "NAOWA Institute of Management and Technology",
+            "address": "Asokoro, Abuja",
+            "courses": [
+                "NVC Cosmetology and Beauty Therapy"
+            ],
+            "ownership": "Federal",
+            "year_established": 2013
+        },
+        {
+            "name": "National Centre for Women Development (NCWD)",
+            "address": "Tafawa Balewa Street, Central Business District, Abuja",
+            "courses": [
+                "NVC Computer Studies",
+                "NVC Cosmetology and Beauty Therapy",
+                "NVC Hospitality and Tourism Studies"
+            ],
+            "ownership": "Federal",
+            "year_established": 2010
+        },
+        {
+            "name": "Nigeria–Korea Friendship Institute of Vocational and Advanced Technology",
+            "address": "Lokoja, Kogi State",
+            "courses": [
+                "NVC Automotive Mechatronic"
+            ],
+            "ownership": "State",
+            "year_established": 2018
+        },
+        {
+            "name": "NIIT Education and Training Centre",
+            "address": "Or NIIT/IDM Building, 9 Oba Akran Avenue, Ikeja Lagos",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "name": "NIIT Surulere Centre",
+            "address": "Lagos",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "name": "NIIT Festac Centre",
+            "address": "Lagos",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "name": "NIIT Ajah Centre",
+            "address": "Km 11, Lekki-Epe Express Way, First Gate - Ikota, (By Great Brands).",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "name": "NIIT Benin Centre",
+            "address": "11, Adesuwa Grammar School Road, GRA, Benin City, Edo State.",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "name": "NIIT Garki Centre",
+            "address": "4, Dambata Close, Off Yola Street, Area 7, Garki, Abuja.",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "name": "NIIT Gbagada Centre",
+            "address": "141C, Gbagada-Oshodi Express Road (Opposite Hotel New Castel), Lagos State.",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "name": "NIIT Ikorodu Centre",
+            "address": "14, Olorunojowon Street, (Besides Zenith Bank), Lagos State.",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "name": "NIIT Offa Centre",
+            "address": "2nd Floor, Olatinwo House, Olofa Way, Offa, Kwara State.",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "name": "NIIT Ota Centre",
+            "address": "Tantolorun House, KM 1, Idi-iroko Road, Otta Round-About, Otta, Ogun State.",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "name": "NIIT Owerri Centre",
+            "address": "Beside Diamond Bank, Item Street, Ikenegbui, Owerri, Imo State.",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "name": "NIIT Uyo Centre",
+            "address": "30, Udosen Uko Street, Off Oron Road, Uyo, Akwa Ibom State.",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "name": "NIIT Warri Centre",
+            "address": "43, Airport Road, Effurun, Warri, Delta State.",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "name": "Nspire Educational Services",
+            "address": "Oyo House, Central Business District, Abuja FCT",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2014
+        },
+        {
+            "name": "OfferCentre Institute of Agriculture",
+            "address": "Olupona, Iwo, Osun State",
+            "courses": [
+                "NVC Agriculture"
+            ],
+            "ownership": "Private",
+            "year_established": 2015
+        },
+        {
+            "name": "Oseni Elamah ICT Institute",
+            "address": "No. 39 Polytechnic Road Auchi.",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2009
+        },
+        {
+            "name": "Peter Akinola Youth Centre for Industrial Training",
+            "address": "Abeokuta, Ogun State",
+            "courses": [
+                "NVC Block laying and Concreting",
+                "NVC Computer Studies",
+                "NVC Fashion Design"
+            ],
+            "ownership": "Private",
+            "year_established": 2015
+        },
+        {
+            "name": "Peugeot Automobile Nigeria (PAN) Ltd.",
+            "address": "PAN Training Centre, Plot 1144, Mallam Kulbi Road, Kakuri Industrial Estate, PMB 2266 Kaduna.",
+            "courses": [
+                "NVC Automotive Mechatronics",
+                "NVC Motor Vehicle Mechanics"
+            ],
+            "ownership": "Private",
+            "year_established": 2010
+        },
+        {
+            "name": "Prime Innovation Institute of Technology",
+            "address": "Ajah, Lagos",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2012
+        },
+        {
+            "name": "Rocana Institute of Technology",
+            "address": "Enugu",
+            "courses": [
+                "NVC Computer Studies",
+                "NVC Printing Technology"
+            ],
+            "ownership": "Private",
+            "year_established": 2012
+        },
+        {
+            "name": "Rolof Computer Academy",
+            "address": "Plot 110, Apala Street, Off Okumagba Avenue, Warri, Delta State",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2017
+        },
+        {
+            "name": "Southern Nigerian Institute of Innovation Technology",
+            "address": "Ifewara, Ile Ife, Osun State",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2012
+        },
+        {
+            "name": "St. Winifred Innovative Institute",
+            "address": "Human Resources Development Centre, Sango Dina Village off Oloni-Olunde Ayegun Road, P.O. Box 16744, Ibadan, Oyo State.",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2008
+        },
+        {
+            "name": "Tashiba Institute of Information Technology",
+            "address": "Gyallesu, Zaria, Kaduna State",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2017
+        },
+        {
+            "name": "Topearl Catering Institute",
+            "address": "Port Harcourt, Rivers State",
+            "courses": [
+                "NVC Hospitality & Tourism Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2013
+        },
+        {
+            "name": "UA College of Science and Technology",
+            "address": "Osuofia, Anambra State",
+            "courses": [
+                "NVC Block laying and Concreting"
+            ],
+            "ownership": "Private",
+            "year_established": 2015
+        },
+        {
+            "name": "Umuebe Farm College",
+            "address": "Abakaliki, Ebonyi State",
+            "courses": [
+                "NVC Agriculture"
+            ],
+            "ownership": "Private",
+            "year_established": 2010
+        },
+        {
+            "name": "Unival Institute of Technology",
+            "address": "Benin City",
+            "courses": [
+                "NVC Computer Studies"
+            ],
+            "ownership": "Private",
+            "year_established": 2015
+        },
+        {
+            "name": "UTAGBA-UNO Vocational Enterprise Institute",
+            "address": "Isumpe Road, Utagba-Uno, Via Kwale, Ndokwa West LGA, Delta State",
+            "courses": [
+                "NVC Carpentry and Joinery",
+                "NVC Computer Studies",
+                "NVC Fabrication and Welding"
+            ],
+            "ownership": "Private",
+            "year_established": 2009
+        },
+        {
+            "name": "Yenagoa Enterprise School",
+            "address": "Yenagoa",
+            "courses": [
+                "NVC Office Secretarial Assistant"
+            ],
+            "ownership": "Private",
+            "year_established": 2015
+        },
+        {
+            "name": "Young Men Christian Association (YMCA) Vocational Training Centre",
+            "address": "Kaduna, Kaduna State",
+            "courses": [
+                "NVC Fabrication and Welding"
+            ],
+            "ownership": "Private",
+            "year_established": 2012
+        }
+    ]
+}

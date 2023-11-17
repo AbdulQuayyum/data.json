@@ -1,0 +1,294 @@
+{
+    "institutions": [
+      {
+        "serial": "01",
+        "name": "Akanu Ibiam Federal Polytechnic Unwana, P.M.B 1007, Afikpo, Ebonyi State.",
+        "year_established": 1981,
+        "website": {
+          "main": "www.akanuibiampoly.edu.ng",
+          "portal": "www.portal.akanuibiampoly.edu.ng"
+        },
+        "supervising_ministry": "Federal Ministry of Education"
+      },
+      {
+        "serial": "02",
+        "name": "Auchi Polytechnic, Auchi, Edo State.",
+        "year_established": 1973,
+        "website": "www.auchipoly.edu.ng",
+        "supervising_ministry": "Federal Ministry of Education"
+      },
+      {
+        "serial": "03",
+        "name": "Federal Polytechnic Ado Ekiti, Ekiti State.",
+        "year_established": 1977,
+        "website": "www.fedpolyado.edu.ng",
+        "supervising_ministry": "Federal Ministry of Education"
+      },
+      {
+        "serial": "04",
+        "name": "Federal Polytechnic Bali, Taraba State.",
+        "year_established": 2007,
+        "website": "www.fedpobali.edu.ng",
+        "supervising_ministry": "Federal Ministry of Education"
+      },
+      {
+        "serial": "05",
+        "name": "Federal Polytechnic Bauchi, P.M. B 231, Bauchi State.",
+        "year_established": 1979,
+        "website": "www.fptb.edu.ng",
+        "supervising_ministry": "Federal Ministry of Education"
+      },
+      {
+        "serial": "06",
+        "name": "Federal Polytechnic Bida, P.M.B 55, Niger State.",
+        "year_established": 1977,
+        "website": "www.fedpolybida.edu.ng",
+        "supervising_ministry": "Federal Ministry of Education"
+      },
+      {
+        "serial": "07",
+        "name": "Federal Polytechnic Damaturu, P.M.B 1006, Yobe State.",
+        "year_established": 1993,
+        "website": "www.fedpodam.edu.ng",
+        "supervising_ministry": "Federal Ministry of Education"
+      },
+      {
+        "serial": "08",
+        "name": "Federal Polytechnic, Daura, Katsina State",
+        "year_established": 2019,
+        "website": "www.fedpolydaura.edu.ng",
+        "supervising_ministry": "Federal Ministry of Education"
+      },
+      {
+        "serial": "09",
+        "name": "Federal Polytechnic Ede, Osun State.",
+        "year_established": 1992,
+        "website": "www.federalpolyede.edu.ng",
+        "supervising_ministry": "Federal Ministry of Education"
+      },
+      {
+        "serial": "10",
+        "name": "Federal Polytechnic Ekowe, Bayelsa State",
+        "year_established": 2007,
+        "website": "www.federalpolyekowe.edu.ng",
+        "supervising_ministry": "Federal Ministry of Education"
+      },
+      {
+        "serial": "11",
+        "name": "Federal Polytechnic Idah P.M.B 1035, Kogi State.",
+        "year_established": 1977,
+        "website": "www.fepoda.edu.ng",
+        "supervising_ministry": "Federal Ministry of Education"
+      },
+      {
+        "serial": "12",
+        "name": "Federal Polytechnic Ilaro, P.M.B 50, Ogun State.",
+        "year_established": 1979,
+        "website": "www.federalpolyilaro.edu.ng",
+        "supervising_ministry": "Federal Ministry of Education"
+      },
+      {
+        "serial": "13",
+        "name": "Federal Polytechnic Ile-Oluji, Ondo State",
+        "year_established": 2016,
+        "website": "www.fedpolel.edu.ng",
+        "supervising_ministry": "Federal Ministry of Education"
+      },
+      {
+        "serial": "14",
+        "name": "Federal Polytechnic Kaura Namoda, P.M.B, 1012, Zamfara State.",
+        "year_established": 1983,
+        "website": "www.fedpolykaura.edu.ng",
+        "supervising_ministry": "Federal Ministry of Education"
+      },
+      {
+        "serial": "15",
+        "name": "Federal Polytechnic Kaltungo, Gombe State",
+        "year_established": 2019,
+        "website": "https://fedpolyklt.edu.ng",
+        "supervising_ministry": "Federal Ministry of Education"
+      },
+      {
+        "serial": "16",
+        "name": "Federal Polytechnic Mubi, PMB 35 Mubi, Adamawa State.",
+        "year_established": 1979,
+        "website": "www.federalpolytechnicmubi.edu.ng",
+        "supervising_ministry": "Federal Ministry of Education"
+      },
+      {
+        "serial": "17",
+        "name": "Federal Polytechnic Nasarawa, P.M.B. 01 Nasarawa State.",
+        "year_established": 1983,
+        "website": "www.fedpolynasarawa.edu.ng",
+        "supervising_ministry": "Federal Ministry of Education"
+      },
+      {
+        "serial": "18",
+        "name": "Federal Polytechnic Nekede, P.M.B 1036, Owerri, Imo State.",
+        "year_established": 1977,
+        "website": "www.fpno.edu.ng",
+        "supervising_ministry": "Federal Ministry of Education"
+      },
+      {
+        "serial": "19",
+        "name": "Federal Polytechnic Offa, P.M.B 420, Kwara State",
+        "year_established": 1992,
+        "website": "www.fpno.edu.ng",
+        "supervising_ministry": "Federal Ministry of Education"
+    },
+    {
+      "serial": "20",
+      "name": "Federal Polytechnic Oko, Anambra State.",
+      "year_established": 1982,
+      "website": "www.federalpolyoko.edu.ng",
+      "supervising_ministry": "Federal Ministry of Education"
+    },
+    {
+      "serial": "21",
+      "name": "Federal Polytechnic of Oil and Gas Bonny, Rivers State",
+      "year_established": 2014,
+      "website": "www.fedpolybonny.edu.ng",
+      "supervising_ministry": "Federal Ministry of Education"
+    },
+    {
+      "serial": "22",
+      "name": "Federal Polytechnic Ukana, P.M.B 2014, Akwa Ibom State",
+      "year_established": 2014,
+      "website": "https://fedpolyukana.edu.ng",
+      "supervising_ministry": "Federal Ministry of Education"
+    },
+    {
+      "serial": "23",
+      "name": "Hussaini Adamu Federal Polytechnic, P.M.B 5004, Kazaure Jigawa State.",
+      "year_established": 1991,
+      "website": "www.hafedpoly.edu.ng",
+      "supervising_ministry": "Federal Ministry of Education"
+    },
+    {
+      "serial": "24",
+      "name": "Kaduna Polytechnic, Kaduna.",
+      "year_established": 1956,
+      "website": "www.kadunapoly.edu.ng",
+      "supervising_ministry": "Federal Ministry of Education"
+    },
+    {
+      "serial": "25",
+      "name": "National Institute of Construction Technology Uromi",
+      "year_established": 2014,
+      "website": "www.nict.edu.ng",
+      "supervising_ministry": "Federal Ministry of Education"
+    },
+    {
+      "serial": "26",
+      "name": "Waziri Umaru Federal Polytechnic, P.M.B. 1034, Birnin Kebbi.",
+      "year_established": 1976,
+      "website": "www.wufpbk.edu.ng",
+      "supervising_ministry": "Federal Ministry of Education"
+    },
+    {
+      "serial": "27",
+      "name": "Yaba College of Technology, P.M.B. 2011, Yaba, Lagos State.",
+      "year_established": 1947,
+      "website": "www.yabatech.edu.ng",
+      "supervising_ministry": "Federal Ministry of Education"
+    },
+    {
+      "serial": "28",
+      "name": "Federal Polytechnic Ayede, Oyo State",
+      "year_established": 2021,
+      "website": "https://federalpolyayede.edu.ng",
+      "supervising_ministry": "Federal Ministry of Education"
+    },
+    {
+      "serial": "29",
+      "name": "Federal Polytechnic Munguno, Borno State",
+      "year_established": 2021,
+      "supervising_ministry": "Federal Ministry of Education"
+    },
+    {
+      "serial": "30",
+      "name": "Federal Polytechnic N’yak, Shendam, Plateau State",
+      "year_established": 2021,
+      "supervising_ministry": "Federal Ministry of Education"
+    },
+    {
+      "serial": "31",
+      "name": "Federal Polytechnic Ohodo, Enugu State",
+      "year_established": 2021,
+      "supervising_ministry": "Federal Ministry of Education"
+    },
+    {
+      "serial": "32",
+      "name": "Federal Polytechnic Ugep, Cross Rivers State",
+      "year_established": 2021,
+      "website": "https://fedpolyugep.edu.ng",
+      "supervising_ministry": "Federal Ministry of Education"
+    },
+    {
+      "serial": "33",
+      "name": "Federal Polytechnic Wannune, Benue State",
+      "year_established": 2021,
+      "supervising_ministry": "Federal Ministry of Education"
+    },
+    {
+      "serial": "34",
+      "name": "Federal Polytechnic Orogun, Delta State",
+      "year_established": 2022,
+      "status": "Yet to take off",
+      "supervising_ministry": "Federal Ministry of Education"
+    },
+    {
+      "serial": "35",
+      "name": "Federal Polytechnic Kabo, Kano State",
+      "year_established": 2022,
+      "status": "Yet to take off",
+      "supervising_ministry": "Federal Ministry of Education"
+    },
+    {
+      "serial": "36",
+      "name": "Federal Polytechnic Umunnoechi, Abia State",
+      "year_established": 2022,
+      "status": "Yet to take off",
+      "supervising_ministry": "Federal Ministry of Education"
+    },
+    {
+      "serial": "37",
+      "name": "Airforce Institute of Technology (AFIT),NAF Base Kaduna",
+      "year_established": 1977,
+      "website": "www.afit.edu.ng",
+      "supervising_ministry": "Nigerian Airforce/Ministry of Defence"
+    },
+    {
+      "serial": "38",
+      "name": "Petroleum Training Institute Effurun",
+      "year_established": 1972,
+      "website": "www.pti.edu.ng",
+      "supervising_ministry": "Ministry of Petroleum Resources"
+    },
+    {
+      "serial": "39",
+      "name": "Nigerian Army Institute of Technology and Environmental Science (NAITES) Makurdi",
+      "year_established": 1960,
+      "website": "www.naitesmkd.edu.ng",
+      "supervising_ministry": "Nigerian Army/Ministry of Defence"
+    },
+    {
+      "serial": "40",
+      "name": "Nigerian College of Aviation Technology (NCAT), Sokoto Road, Zaria, Kaduna State",
+      "year_established": 1964,
+      "website": "www.ncat.gov.ng",
+      "supervising_ministry": "Federal Ministry of Aviation",
+      "contact_details": {
+        "email": [
+          "info@ncat.gov.ng",
+          "academics@ncat.gov.ng"
+        ],
+        "telephone": [
+          "+2347018741431",
+          "+2347015099833 (Academic Affairs)",
+          "+2347015099843 (Information Unit)"
+        ]
+      }
+    }
+  ]
+}

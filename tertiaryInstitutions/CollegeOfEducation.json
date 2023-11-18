@@ -1,0 +1,1858 @@
+{
+    "schools": [
+        {
+            "code": "FCEAT",
+            "name": "Federal College of Education (Technical), Asaba",
+            "type": "Federal College of Education",
+            "provost": "Dr. Mrs. Anene Akeakwa",
+            "location": "Asaba, Delta State.",
+            "web_page": null
+        },
+        {
+            "code": "FCEK",
+            "name": "Federal College of Education, Kano",
+            "type": "Federal College of Education",
+            "provost": "Mrs. Rabi J. Muhammad Ph.D",
+            "location": "Kano City, Kano State.",
+            "web_page": "www.fcekanoonline.com"
+        },
+        {
+            "code": "FCESO",
+            "name": "Federal College of Education (Special), Oyo",
+            "type": "Federal College of Education",
+            "provost": "Dr. Ademola Rauf Salami",
+            "location": "Oyo, Oyo State.",
+            "web_page": "www.fceoyo.edu.ng"
+        },
+        {
+            "code": "COEG",
+            "name": "College of Education, Gindiri",
+            "type": "State College of Education",
+            "provost": "Mr. Cornelius Nenkop Ka'ankuk'a",
+            "location": "Gindiri, Plateau State.",
+            "web_page": null
+        },
+        {
+            "code": "COEH",
+            "name": "College of Education, Hong",
+            "type": "State College of Education",
+            "provost": "Prof. Johnson H. Pongri",
+            "location": "Yola, Adamawa State.",
+            "web_page": null
+        },
+        {
+            "code": "TSCE",
+            "name": "Tai Solarin College of Education, Ijebu-Ode",
+            "type": "State College of Education",
+            "provost": "Dr. Adeola-Kiadese Lukman",
+            "location": "Ijebu-Ode, Ogun State.",
+            "web_page": "www.tasce.edu.ng"
+        },
+        {
+            "code": "COEI",
+            "name": "College of Education, Ikere-Ekiti",
+            "type": "State College of Education",
+            "provost": "Dr. (Mrs.) Mojisola Adenike Oyarekua",
+            "location": "Ikere-Ekiti, Ekiti State.",
+            "web_page": "www.coeikere.edu.ng"
+        },
+        {
+            "code": "ESCETI",
+            "name": "Ebonyi State College of Education, (T) Ikwo",
+            "type": "State College of Education",
+            "provost": "Prof. S.O. Omebe",
+            "location": "Ikwo, Ebonyi State.",
+            "web_page": null
+        },
+        {
+            "code": "COEW",
+            "name": "College of Education, Warri",
+            "type": "State College of Education",
+            "provost": "Prof. (Mrs.) Mary Olire Edema",
+            "location": "Edjeba Road, Warri",
+            "web_page": "www.coewarri.edu.ng"
+        },
+        {
+            "code": "FCTCEZ",
+            "name": "FCT College of Education, Zuba",
+            "type": "State College of Education",
+            "provost": "Dr. Muhammad Gambo Hamza",
+            "location": "Zuba",
+            "web_page": null
+        },
+        {
+            "code": "ACOEI",
+            "name": "Ajetumobi COE, Ira",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Ira",
+            "web_page": null
+        },
+        {
+            "code": "DCOE",
+            "name": "Delar College of Education",
+            "type": "Private College of Education",
+            "provost": "Professor M.A.P. Fakoride",
+            "location": "Ibadan, Oyo State",
+            "web_page": null
+        },
+        {
+            "code": "FCEA",
+            "name": "Federal College of Education, Abeokuta",
+            "type": "Federal College of Education",
+            "provost": "Dr. Ayodele A. Ajayi",
+            "location": "Abeokuta, Ogun State",
+            "web_page": "www.fce.abeokuta.edu.ng"
+        },
+        {
+            "code": "FCEEA",
+            "name": "Federal College of Education, Eha-Amufu",
+            "type": "Federal College of Education",
+            "provost": "Dr. Pauline N. Ikuegbu",
+            "location": "Eha Amufu, Enugu State.",
+            "web_page": null
+        },
+        {
+            "code": "FCETG",
+            "name": "Federal College of Education (Technical), Gombe",
+            "type": "Federal College of Education",
+            "provost": "Dr. Ali Adamu",
+            "location": "Gombe, Gombe State",
+            "web_page": null
+        },
+        {
+            "code": "FCEKON",
+            "name": "Federal College of Education, Kontagora",
+            "type": "Federal College of Education",
+            "provost": "Dr. Haruna Rasheed",
+            "location": "Kontagora, Niger State",
+            "web_page": null
+        },
+        {
+            "code": "FCEOK",
+            "name": "Federal College of Education, Okene",
+            "type": "Federal College of Education",
+            "provost": "Dr. Umar Hassan",
+            "location": "Okene, Kogi State",
+            "web_page": "www.fceokene.edu.ng"
+        },
+        {
+            "code": "FCETOM",
+            "name": "Federal College of Education (Technical), Omoku",
+            "type": "Federal College of Education",
+            "provost": "Emmanuel Ikenyiri",
+            "location": "OMoku, Rivers State.",
+            "web_page": "www.infor@fcetomoku.edu.com"
+        },
+        {
+            "code": "FCETP",
+            "name": "Federal College of Education (Tech), Potiskum",
+            "type": "Federal College of Education",
+            "provost": "Mal. Madu Mohammad",
+            "location": "Potiskum, Yobe State",
+            "web_page": null
+        },
+        {
+            "code": "NSCOEA",
+            "name": "Nasarrawa State College of Education, Akwanga",
+            "type": "State College of Education",
+            "provost": "Mrs. Esther Abua Ammu-nnadi",
+            "location": "Akwanga, Nassarawa State.",
+            "web_page": null
+        },
+        {
+            "code": "IKCOE",
+            "name": "Isa Kaita College of Education, Dutsin-Ma",
+            "type": "State College of Education",
+            "provost": "Dr. M Abdu",
+            "location": "Dutsin-Ma, Katsina State.",
+            "web_page": null
+        },
+        {
+            "code": "COEE",
+            "name": "College of Education, Ekiadolor-Benin",
+            "type": "State College of Education",
+            "provost": "Dr. C.I Aghimien",
+            "location": "Ekiadolor-Benin, Edo State",
+            "web_page": null
+        },
+        {
+            "code": "COEGD",
+            "name": "College of Education, Gashua, Damaturu",
+            "type": "State College of Education",
+            "provost": "Muhammad Gishiwa",
+            "location": "Gashua, Yobe state.",
+            "web_page": null
+        },
+        {
+            "code": "KSCOEGW",
+            "name": "Kaduna State College of Education, Gidan-Waya, Kafanchan",
+            "type": "State College of Education",
+            "provost": "Prof. Alexander Kure",
+            "location": "Kafanchan, Kaduna State.",
+            "web_page": null
+        },
+        {
+            "code": "SCOEI",
+            "name": "State College of Education",
+            "type": "State College of Education",
+            "provost": "Prof. Labayo Kazeem",
+            "location": "Ilesa, Osun State.",
+            "web_page": null
+        },
+        {
+            "code": "SFACOEZ",
+            "name": "St. Frances Asissi COE, Zaria",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Wusasa-Zaria",
+            "web_page": null
+        },
+        {
+            "code": "COEO",
+            "name": "College of Education Oro",
+            "type": "State College of Education",
+            "provost": "Dr. O. A. Olowonirejuaro",
+            "location": "Oro, Kwara State.",
+            "web_page": null
+        },
+        {
+            "code": "COEK",
+            "name": "College of Education, katsina-Ala",
+            "type": "State College of Education",
+            "provost": "J.O Kor",
+            "location": "Katsina-Ala, Benue State.",
+            "web_page": null
+        },
+        {
+            "code": "SRCOEK",
+            "name": "Sa'adatu Rimi College of Education, Kumbotso, Kano",
+            "type": "State College of Education",
+            "provost": "Dr. Yahaya Isa Bunkure",
+            "location": "Kumbotso, Kano State.",
+            "web_page": null
+        },
+        {
+            "code": "COETL",
+            "name": "College of Education (Technical), Lafiagi",
+            "type": "State College of Education",
+            "provost": "Dr. Barakat Bose Ibrahim",
+            "location": "Lafiagi, Kwara State.",
+            "web_page": "www.kwacoet.edu.ng"
+        },
+        {
+            "code": "NOCOEN",
+            "name": "Nwafor Orizu College of Education, Nsugbe",
+            "type": "State College of Education",
+            "provost": "Dr. I. E. Osegbo",
+            "location": "Nsugbe, Anambra State.",
+            "web_page": null
+        },
+        {
+            "code": "AOCOEOI",
+            "name": "Adeniran Ogunsanya College of Education, Otto/Ijanikin",
+            "type": "State College of Education",
+            "provost": "Dr. (Mrs.) Ladele, A.O",
+            "location": "Otto/Ijanikin, Lagos State.",
+            "web_page": "www.aocoed.edu.ng"
+        },
+        {
+            "code": "AICEO",
+            "name": "Alvan Ikoku College of Education, Owerri",
+            "type": "Federal College of Education",
+            "provost": "Dr. Dan C. Anyawu",
+            "location": "Owerri, Imo State.",
+            "web_page": "www.alvanikoku.net"
+        },
+        {
+            "code": "EACOEDO",
+            "name": "Emmanuel Alayande College of Education (EACOED), Oyo",
+            "type": "State College of Education",
+            "provost": "Dr.Oyewo, Nelson Aderemi",
+            "location": "Oyo, Oyo State.",
+            "web_page": "www.eacoed.com,www.eacoed.edu.ng"
+        },
+        {
+            "code": "COEWBIU",
+            "name": "College of Education, Waka BIU",
+            "type": "State College of Education",
+            "provost": "Usman Mustapha Biu",
+            "location": "Waka BIU, Borno State.",
+            "web_page": null
+        },
+        {
+            "code": "TCEB",
+            "name": "TCNN COE, Bukuru",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Bukuru",
+            "web_page": null
+        },
+        {
+            "code": "CCEM",
+            "name": "City College of Education, Mararaba",
+            "type": "Private College of Education",
+            "provost": "Dr Ogiera A.E",
+            "location": "P.O. BOX 3094,Garki - Abuja",
+            "web_page": null
+        },
+        {
+            "code": "FCETAK",
+            "name": "Federal College of Education (Technical), Akoka",
+            "type": "Federal College of Education",
+            "provost": "Dr. Sijibomi O. Olusanya",
+            "location": "Akoka, Lagos State.",
+            "web_page": null
+        },
+        {
+            "code": "FCETB",
+            "name": "Federal College of Education (Technical), Bichi",
+            "type": "Federal College of Education",
+            "provost": "Prof. Muhammad Bashir Fagge",
+            "location": "Bichi, Kano State",
+            "web_page": null
+        },
+        {
+            "code": "FCETG",
+            "name": "Federal College of Education (Technical), Gusau",
+            "type": "Federal College of Education",
+            "provost": "Ag. Provost",
+            "location": "Gusau, Zamfara State.",
+            "web_page": null
+        },
+        {
+            "code": "FCEK",
+            "name": "Federal College of Education, Katsina",
+            "type": "Federal College of Education",
+            "provost": "Dr. Aliyu Idris Futua",
+            "location": "Katsina, Katsina State.",
+            "web_page": null
+        },
+        {
+            "code": "FCEO",
+            "name": "Federal College of Education, Obudu",
+            "type": "Federal College of Education",
+            "provost": "Dr. James Bassey Ejue",
+            "location": "Obudu, Cross River State.",
+            "web_page": "www.fceobudu.edu.ng"
+        },
+        {
+            "code": "ACEO",
+            "name": "Adeyemi College of Education, Ondo",
+            "type": "Federal College of Education",
+            "provost": "Dr. Samuel Akinrinola akintunde",
+            "location": "Ondo, Ondo State.",
+            "web_page": null
+        },
+        {
+            "code": "FCETP",
+            "name": "Federal College of Education, Pankshin",
+            "type": "Federal College of Education",
+            "provost": "Dr. (Mrs) Christiana Fwenji Zumyil",
+            "location": "Pankshin, Plateau State.",
+            "web_page": null
+        },
+        {
+            "code": "FCEY",
+            "name": "Federal College of Education, Yola",
+            "type": "Federal College of Education",
+            "provost": "Professor A.M. SA'AD",
+            "location": "Yola, Adamawa State.",
+            "web_page": "www.fceyolanigeria.org"
+        },
+        {
+            "code": "DSCEA",
+            "name": "Delta State College of Education, Agbor",
+            "type": "State College of Education",
+            "provost": "Dr. Joseph Ukadike",
+            "location": "Agbor, Delta State",
+            "web_page": null
+        },
+        {
+            "code": "FCETZ",
+            "name": "Federal College of Education, Zaria",
+            "type": "Federal College of Education",
+            "provost": "Dr. Ango Abdullahi Ladan",
+            "location": "Zaria, Kaduna State.",
+            "web_page": null
+        },
+        {
+            "code": "AISCOEA",
+            "name": "Akwa Ibom State College of Education, Afahansit",
+            "type": "State College of Education",
+            "provost": "Prof. Mathew A. Ekpo",
+            "location": "Afahansit, Akwa Ibom State.",
+            "web_page": null
+        },
+        {
+            "code": "KSCOEA",
+            "name": "Kogi State College of Education, Ankpa",
+            "type": "State College of Education",
+            "provost": "Dr. Mohammed Kebiru Ibrahim",
+            "location": "Ankpa, Kogi state.",
+            "web_page": "www.kscoeankpa.edu.ng"
+        },
+        {
+            "code": "AACEO",
+            "name": "Adamu Augie College of Education, Argungu",
+            "type": "State College of Education",
+            "provost": "Aliyu Mohammed B/Kebbi",
+            "location": "Argungu, Kebbi State.",
+            "web_page": null
+        },
+        {
+            "code": "ASCOEA",
+            "name": "Aminu Sale College of Education, Azare",
+            "type": "State College of Education",
+            "provost": "Dr. Abdullahi Mohammed Isyaku",
+            "location": "Azare, Bauchi State",
+            "web_page": null
+        },
+        {
+            "code": "UIBEKCEST",
+            "name": "Umar Ibn Ibrahim El-Kanemi College of Education, Science and Technology, Bama",
+            "type": "State College of Education",
+            "provost": "Usman Aja Makinta",
+            "location": "Bama, Borno State.",
+            "web_page": null
+        },
+        {
+            "code": "NACOEI",
+            "name": "Nigerian Army College of Education (NACOE), Ilorin",
+            "type": "Other NCE-Awarding Institutions",
+            "provost": "Brig. Gen. Nuhu F Umaru",
+            "location": "Ilorin, Kwara State.",
+            "web_page": null
+        },
+        {
+            "code": "ZSCOE",
+            "name": "Zamfara State College of Education, Maru",
+            "type": "State College of Education",
+            "provost": "Nasiru S Pawa",
+            "location": "Maru, Zamfara State.",
+            "web_page": null
+        },
+        {
+            "code": "JSCOE",
+            "name": "Jigawa State College of Education, Gumel",
+            "type": "State College of Education",
+            "provost": "Dr. Saidu Barau Ahmad",
+            "location": "Gumel, Jigawa State.",
+            "web_page": null
+        },
+        {
+            "code": "NSCOEM",
+            "name": "Niger State College of Education, Minna",
+            "type": "State College of Education",
+            "provost": "Professor. Mohammad Yakubu Auna",
+            "location": "Minna, Niger State.",
+            "web_page": null
+        },
+        {
+            "code": "SSCOES",
+            "name": "Shehu Shagari College of Education, Sokoto",
+            "type": "State College of Education",
+            "provost": "Dr. Umar Tambari",
+            "location": "Sokoto, Sokoto State.",
+            "web_page": "www.sscoe.edu.edu.ng"
+        },
+        {
+            "code": "TICOE",
+            "name": "Tijjani Ibrahim College of Education",
+            "type": "Private College of Education",
+            "provost": "Ahmad AminuHausawa",
+            "location": "No. C9 Kawaji Yankaba along By",
+            "web_page": null
+        },
+        {
+            "code": "AUCOEI",
+            "name": "Ansar-Ud-Deen College of Education, Isolo",
+            "type": "Private College of Education",
+            "provost": "Alh. M.S. Idris (Diploma, B.A., M.A., PGDE)",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "YCCEA",
+            "name": "Yewa Central College of Education, Ayetoro, Abeokuta",
+            "type": "Private College of Education",
+            "provost": "Mrs. M.O Bamgbose",
+            "location": "Ayetoro, Ogun State.",
+            "web_page": null
+        },
+        {
+            "code": "FCETU",
+            "name": "Federal College of Education (T), Umunze",
+            "type": "Federal College of Education",
+            "provost": "Dr. (Mrs.) Theresa O. Okoli",
+            "location": "Umunze",
+            "web_page": "www.fcetumunze.edu.ng"
+        },
+        {
+            "code": "COEAA",
+            "name": "College of Education, Arochukwu, Abia",
+            "type": "State College of Education",
+            "provost": "Dr. Philips O. Nto",
+            "location": "Arochukwu Abia State",
+            "web_page": null
+        },
+        {
+            "code": "COEIO",
+            "name": "College of Education, Ila-Orangun, Osun State",
+            "type": "State College of Education",
+            "provost": "Prof. Isaac Olayinka Oyewole",
+            "location": "Ila-Orangun, Osun State",
+            "web_page": null
+        },
+        {
+            "code": "MOCPTEL",
+            "name": "Michael Otedola Coll. of Prim. Education, Lagos",
+            "type": "State College of Education",
+            "provost": "Dr. Onibon Nosiru olajide",
+            "location": "Noforija-Epe Lagos",
+            "web_page": null
+        },
+        {
+            "code": "KICEST",
+            "name": "Kashim Ibrahim College of Education",
+            "type": "State College of Education",
+            "provost": "Alh. Abba Mala",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "DSCPEM",
+            "name": "Delta State Coll. of Physical Education, Mosogar",
+            "type": "State College of Education",
+            "provost": "Prof Emmanuel Ojeme",
+            "location": "Mosogar, Sapele, Delta State",
+            "web_page": null
+        },
+        {
+            "code": "ESCETE",
+            "name": "Enugu State Coll. of Education (T), Enugu",
+            "type": "State College of Education",
+            "provost": "Dr. Mrs. Stella C. Ekwueme",
+            "location": "Abakaliki Road, Enugu State",
+            "web_page": null
+        },
+        {
+            "code": "CRCOEE",
+            "name": "Cross River State Coll. of Education, Akampa",
+            "type": "State College of Education",
+            "provost": "Dr. James Etimn Archibong",
+            "location": "Akampa, Calabar, Cross River S",
+            "web_page": null
+        },
+        {
+            "code": "ESCOEI",
+            "name": "Edo State Coll. of Education, Igueben",
+            "type": "State College of Education",
+            "provost": "Professor (Mrs) Roseline O. Osagie",
+            "location": "Igueben, Edo State",
+            "web_page": null
+        },
+        {
+            "code": "IJBCOES",
+            "name": "Isaac Jasper Boro COE, Sagbama",
+            "type": "State College of Education",
+            "provost": "Prof. Saviour Nathan A. Agoro",
+            "location": "Sagbama, Yenogoa, Bayelsa Stat",
+            "web_page": null
+        },
+        {
+            "code": "KSCOEK",
+            "name": "Kogi State College of Education, Kabba",
+            "type": "State College of Education",
+            "provost": "--Mrs Jagboro Victoria Olusola",
+            "location": "Kabba, Kogi State",
+            "web_page": null
+        },
+        {
+            "code": "OTCOEE",
+            "name": "Osisa Tech. College of Education, Enugu",
+            "type": "Private College of Education",
+            "provost": "Dr. Mike Ike Okwudili",
+            "location": "Enugu, Enugu State",
+            "web_page": null
+        },
+        {
+            "code": "SACOEAL",
+            "name": "St. Augustine College of Education Akoka, Lagos",
+            "type": "Private College of Education",
+            "provost": "Professor (Mrs.) J O. Omokhodion",
+            "location": "Akoka, Lagos",
+            "web_page": null
+        },
+        {
+            "code": "ATCOEIE",
+            "name": "African Thinkers Community of Inquiry COE, Enugu",
+            "type": "Private College of Education",
+            "provost": "Obozuhuike Ofoelue",
+            "location": "Enugu, Enugu State",
+            "web_page": "www.atcoicoe.edu.ng"
+        },
+        {
+            "code": "MOCEI",
+            "name": "Muftau Olanihun College of Education, Ibadan",
+            "type": "Private College of Education",
+            "provost": "Iyanda A.I",
+            "location": "Ibadan, Oyo State",
+            "web_page": null
+        },
+        {
+            "code": "HCOE",
+            "name": "Havard Wilson College of Education, Aba",
+            "type": "Private College of Education",
+            "provost": "Uko Adaugo Akwaugu Q.",
+            "location": "Aba, Abia State State",
+            "web_page": null
+        },
+        {
+            "code": "MCOEI",
+            "name": "Muhyideen College of Education, Ilorin",
+            "type": "Private College of Education",
+            "provost": "Alh. Nurudeen Amzat Balio",
+            "location": "Ilorin",
+            "web_page": null
+        },
+        {
+            "code": "CCOE",
+            "name": "Christian COE, Gombe",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Akko",
+            "web_page": null
+        },
+        {
+            "code": "JCOE",
+            "name": "Jibwis COE, Zuru, Kebbi State",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Zuru",
+            "web_page": null
+        },
+        {
+            "code": "CSCEI",
+            "name": "Corner Stone College of Education, Ikeja",
+            "type": "Private College of Education",
+            "provost": "--",
+            "location": "Ikeja, Lagos",
+            "web_page": null
+        },
+        {
+            "code": "PCE",
+            "name": "Peaceland College of Education, Enugu",
+            "type": "Private College of Education",
+            "provost": "Rev. Fr. Dr. Leo IIechukwu",
+            "location": "Enugu",
+            "web_page": "www.peaceland.edu.ng"
+        },
+        {
+            "code": "TCE",
+            "name": "The College of Education, Nsukka",
+            "type": "Private College of Education",
+            "provost": "Dr. Nwosu O.O",
+            "location": "Enugu",
+            "web_page": null
+        },
+        {
+            "code": "UCEA",
+            "name": "Unity College of Education, Aukpa Adoka, Benue",
+            "type": "Private College of Education",
+            "provost": "Ajene Otache",
+            "location": "Otukpo",
+            "web_page": "-"
+        },
+        {
+            "code": "JCE",
+            "name": "Jornato College of Education",
+            "type": "Private College of Education",
+            "provost": "Patric Elem",
+            "location": "Wannune, Tarka L.G. A",
+            "web_page": null
+        },
+        {
+            "code": "DCEA",
+            "name": "DIAMOND COLLEGE OF EDUCATION, ABA",
+            "type": "Private College of Education",
+            "provost": "Sir Peter Osuagwu, PHD",
+            "location": "Aba",
+            "web_page": "www.dce.edu.ng"
+        },
+        {
+            "code": "NTI",
+            "name": "National Teachers Institute(NTI)",
+            "type": "Other NCE-Awarding Institutions",
+            "provost": null,
+            "location": "Kaduna",
+            "web_page": null
+        },
+        {
+            "code": "KCEI",
+            "name": "Kingsey College of Education, Ilorin, Kwara State",
+            "type": "Private College of Education",
+            "provost": "Arc. Prof. I.A Okin",
+            "location": "Ilorin",
+            "web_page": "www.kinseycollege.edu.ng"
+        },
+        {
+            "code": "ECOEJ",
+            "name": "ECWA College of Education, Jos (ECOEJ)",
+            "type": "Private College of Education",
+            "provost": "Prof. Randee O. Ijatuyi-Morphe",
+            "location": "Jos",
+            "web_page": "www.jets.edu.ng"
+        },
+        {
+            "code": "FCEO",
+            "name": "FESTMED COLLEGE OF EDUCATION, ONDO STATE",
+            "type": "Private College of Education",
+            "provost": "Shogbesan Yusuf Olayinka (Mr.)",
+            "location": "Ajowa Akoko North West, Ondo S",
+            "web_page": "www.coea-edu.com"
+        },
+        {
+            "code": "SAFCEZ",
+            "name": "St. Frances Asissi College of Education, Zaria",
+            "type": "Private College of Education",
+            "provost": "Rev. Fr. Ven Isaac Akut",
+            "location": "Wusasa Zaria, Kaduna State.",
+            "web_page": null
+        },
+        {
+            "code": "BCOI",
+            "name": "BETHEL COE IJARE, ONDO",
+            "type": "Private College of Education",
+            "provost": "professor",
+            "location": "Ijare, Ondo State",
+            "web_page": null
+        },
+        {
+            "code": "OACOEAO",
+            "name": "Omaga aejigbo College of education Ajiolo-Ojiaji",
+            "type": "Private College of Education",
+            "provost": "Kakubu Shuaibu",
+            "location": "Ajiyolo Ojaji, Dekina LGA Kogi",
+            "web_page": null
+        },
+        {
+            "code": "SFCK",
+            "name": "STEADY FLOW COE, IKOM",
+            "type": "Private College of Education",
+            "provost": "Dr.",
+            "location": "Ikom Cross River State",
+            "web_page": null
+        },
+        {
+            "code": "HGCEI",
+            "name": "His Grace College of Education, Ilorin",
+            "type": "Private College of Education",
+            "provost": "Dr. Ayeni J. K.",
+            "location": "Mobo, Ilorin, KwaraState.",
+            "web_page": null
+        },
+        {
+            "code": "RCOE",
+            "name": "Royal College of Education, Ogun State",
+            "type": "Private College of Education",
+            "provost": "Adesanya Mercy Olubisi",
+            "location": "Railway crossing Lagos/Abeokut",
+            "web_page": null
+        },
+        {
+            "code": "HCA",
+            "name": "AL HIKMA COLLEGE OF EDUCATION, ANKPA",
+            "type": "Private College of Education",
+            "provost": "Dr. Mohammed Abdulkarim",
+            "location": "Ankpa, Kogi State",
+            "web_page": null
+        },
+        {
+            "code": "GCOEB",
+            "name": "Global COE, Bukuru",
+            "type": "Private College of Education",
+            "provost": "Prof",
+            "location": "Plateau",
+            "web_page": null
+        },
+        {
+            "code": "KCOEO",
+            "name": "Kwararafa COE, Otukpo",
+            "type": "Private College of Education",
+            "provost": "Micheal Ogbeche",
+            "location": "Otukpo, Benue State",
+            "web_page": null
+        },
+        {
+            "code": "ZIIT",
+            "name": "Zaria Institute of Information Technology",
+            "type": "Private College of Education",
+            "provost": "Ibrahim Ahmad Ango",
+            "location": "Zaria Kaduna State.",
+            "web_page": null
+        },
+        {
+            "code": "CEB",
+            "name": "College of Education, Billiri",
+            "type": "State College of Education",
+            "provost": "Dr Esrom Toro Jokthan",
+            "location": "Billiri",
+            "web_page": null
+        },
+        {
+            "code": "LCOEG",
+            "name": "Lessel COE Gboko",
+            "type": "Private College of Education",
+            "provost": "Dr.",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "BTCL",
+            "name": "Bayo Tijani COE, Lagos",
+            "type": "Private College of Education",
+            "provost": "Mrs Amaechi Matilda",
+            "location": "Lagos State",
+            "web_page": null
+        },
+        {
+            "code": "UCOEZ",
+            "name": "Upland COE Badagry",
+            "type": "Private College of Education",
+            "provost": "Dr.",
+            "location": "Lagos",
+            "web_page": null
+        },
+        {
+            "code": "COEZ",
+            "name": "College of Education, Zing",
+            "type": "State College of Education",
+            "provost": "Dr. Mike Dio Jen",
+            "location": "Jalingo, Taraba",
+            "web_page": null
+        },
+        {
+            "code": "ECWA",
+            "name": "ECWA COE Igbaja",
+            "type": "Private College of Education",
+            "provost": "Ass. Prof S.O.T Baba",
+            "location": "Kwara State",
+            "web_page": null
+        },
+        {
+            "code": "PAN",
+            "name": "PAN African COE Offa",
+            "type": "Private College of Education",
+            "provost": "professor",
+            "location": "Kwara State",
+            "web_page": null
+        },
+        {
+            "code": "CCED",
+            "name": "Corona COllege of Education (CCED) Ilupeju",
+            "type": "Private College of Education",
+            "provost": "Dr. Olajumoke Mekiliuwa",
+            "location": "Lagos State",
+            "web_page": "coronacollegeofeducation.edu.ng"
+        },
+        {
+            "code": "CEO",
+            "name": "College of Education Oju",
+            "type": "State College of Education",
+            "provost": "Chief (Amb) Godwin Egene Oga",
+            "location": "Ojuotukpo",
+            "web_page": null
+        },
+        {
+            "code": "EEICOE",
+            "name": "EEICOE Otukpo",
+            "type": "Private College of Education",
+            "provost": "Amedu Idoko",
+            "location": "Benue State",
+            "web_page": null
+        },
+        {
+            "code": "SCOEESG",
+            "name": "Sinai COE & Ent. Studies Gboko, Benue",
+            "type": "Private College of Education",
+            "provost": "Akange I.S",
+            "location": "Benue State",
+            "web_page": null
+        },
+        {
+            "code": "SPCOEN",
+            "name": "St. Paul's College of Education NNewi",
+            "type": "Private College of Education",
+            "provost": "Rev. Fr. Jude O. Umeh",
+            "location": "Umudim-Nnewi, Anambra State",
+            "web_page": null
+        },
+        {
+            "code": "JSP",
+            "name": "Jigawa State Polytechnic",
+            "type": "Polytechnics offering NCE Programmes",
+            "provost": null,
+            "location": "Dutse",
+            "web_page": null
+        },
+        {
+            "code": "MBUCOE",
+            "name": "Mus'ab Bn Umair College of Education Bajoga",
+            "type": "Private College of Education",
+            "provost": "Engr. Tukur M. Lawal",
+            "location": "Bajoga, Gombe State.",
+            "web_page": null
+        },
+        {
+            "code": "MCFCAOD",
+            "name": "MCF COE Agbarha-Otor, Delta",
+            "type": "Private College of Education",
+            "provost": "Dr. Daniel D.Whawo",
+            "location": "Ughelli, Delta State",
+            "web_page": null
+        },
+        {
+            "code": "ACOE",
+            "name": "Assanusiya COE, Odeomu, Osun",
+            "type": "Private College of Education",
+            "provost": "Mr. Akinloye I. K.",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "COEEA",
+            "name": "COE, Ero, Akure",
+            "type": "Private College of Education",
+            "provost": "Dr. J. O. Adamolekun",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "CFCOE",
+            "name": "Calvin Foundation COE",
+            "type": "Private College of Education",
+            "provost": "Mr. Ekani Otikwu Elias",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "BLCOE",
+            "name": "Best Legacy COE Ogbomoso",
+            "type": "Private College of Education",
+            "provost": "Dr.",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "ACCOE",
+            "name": "Angel Crown COE",
+            "type": "Private College of Education",
+            "provost": "Barr. Samuel Osahon",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "EOMCOE",
+            "name": "Elder Oyama Memorial COE, Ofat",
+            "type": "Private College of Education",
+            "provost": "Dr.",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "COMIN",
+            "name": "COE, Moro, Ife-North",
+            "type": "Private College of Education",
+            "provost": "Prof. A. Adediji",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "RCCOEI",
+            "name": "Royal City COE, Iyesi-Ota",
+            "type": "Private College of Education",
+            "provost": "Mrs. Da-Silva Augustina",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "ONITCOE",
+            "name": "ONIT COE, Abagana",
+            "type": "Private College of Education",
+            "provost": "Mrs. Nwose Adaobi",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "NAMCOE",
+            "name": "Nana Aishat Memorial COE",
+            "type": "Private College of Education",
+            "provost": "Dr. Abdurrafu",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "TMCIE",
+            "name": "Top-Most COE, Ipaja-Agbado",
+            "type": "Private College of Education",
+            "provost": "Dr.",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "ACOEAI",
+            "name": "Apa COE, Aido",
+            "type": "Private College of Education",
+            "provost": "Dr.",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "ADCOE",
+            "name": "Awori District COE",
+            "type": "Private College of Education",
+            "provost": "Pst. Idowu Isaac Aboiye",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "HCOEGA",
+            "name": "Hill COE, Gwanje, Akwanga",
+            "type": "Private College of Education",
+            "provost": "Chief G. F Oyeleye",
+            "location": "Nasarawa",
+            "web_page": "Not Available"
+        },
+        {
+            "code": "AKCOE",
+            "name": "Aminu Kano College of Education",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Kano",
+            "web_page": null
+        },
+        {
+            "code": "MCOEO",
+            "name": "Murtadha COE, Olodo",
+            "type": "Private College of Education",
+            "provost": "Not Available",
+            "location": "Ibadan",
+            "web_page": "Not Available"
+        },
+        {
+            "code": "ICOEP",
+            "name": "Islamic COE, Potiskum",
+            "type": "Private College of Education",
+            "provost": "Not Available",
+            "location": "Potiskum",
+            "web_page": "Not Available"
+        },
+        {
+            "code": "RCOEI",
+            "name": "Royal COE, Ikeja, Lagos State",
+            "type": "Private College of Education",
+            "provost": "Dr",
+            "location": "Ikeja, Lagos State",
+            "web_page": null
+        },
+        {
+            "code": "HUKP",
+            "name": "Hassan Usman Katsina Polytechnic",
+            "type": "Polytechnics offering NCE Programmes",
+            "provost": "Dr. Ibrahim Mudi Kurfi",
+            "location": "Katsina",
+            "web_page": null
+        },
+        {
+            "code": "PSP",
+            "name": "Plateau State Polytechnic",
+            "type": "Polytechnics offering NCE Programmes",
+            "provost": "Jmaes Mashor Julson",
+            "location": "Barkin Ladi",
+            "web_page": null
+        },
+        {
+            "code": "KSP",
+            "name": "Kano State Polytechnic",
+            "type": "Polytechnics offering NCE Programmes",
+            "provost": "Prof. Muktar Atiku Kurawa",
+            "location": "Kano",
+            "web_page": null
+        },
+        {
+            "code": "WUFP",
+            "name": "Waziri Umaru Federal Polytechnic",
+            "type": "Polytechnics offering NCE Programmes",
+            "provost": "Arc. Muhammad Sani Aliyu",
+            "location": "Birnin Kebbi",
+            "web_page": null
+        },
+        {
+            "code": "RP",
+            "name": "Ramat Polytechnic",
+            "type": "Polytechnics offering NCE Programmes",
+            "provost": "B.G. Ibrahim",
+            "location": "Maiduguri",
+            "web_page": null
+        },
+        {
+            "code": "KP",
+            "name": "Kaduna Polytechnics",
+            "type": "Polytechnics offering NCE Programmes",
+            "provost": "Prof. Idris M. Bugaje",
+            "location": "Kaduna",
+            "web_page": null
+        },
+        {
+            "code": "ATP",
+            "name": "Abubakar Tatari Polytechnic",
+            "type": "Polytechnics offering NCE Programmes",
+            "provost": "Dr. Suleiman Mohammed Lame",
+            "location": "Bauchi",
+            "web_page": "rector@atapolybauci.com"
+        },
+        {
+            "code": "NBP",
+            "name": "Nuhu Bamalli Polytechnic",
+            "type": "Polytechnics offering NCE Programmes",
+            "provost": "Provost",
+            "location": "Zaria",
+            "web_page": "nubapoly.edu.ng"
+        },
+        {
+            "code": "ICOEAA",
+            "name": "Ipere COE, Agyaragu",
+            "type": "Private College of Education",
+            "provost": "Dr. Oguche M. Damian",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "ACOEI",
+            "name": "Ahlus-Suffah COE, Ira",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Rigasa",
+            "web_page": null
+        },
+        {
+            "code": "UMCOED",
+            "name": "Al-Ummah COE (UMCOED)",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Iwo",
+            "web_page": null
+        },
+        {
+            "code": "GPICE",
+            "name": "God`s Power International College of Education",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Olamaboro",
+            "web_page": "Not Available"
+        },
+        {
+            "code": "BCOE",
+            "name": "Biga College of Education",
+            "type": "Private College of Education",
+            "provost": "Dr.",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "AICE",
+            "name": "Al-Ibadan COE",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "CEK",
+            "name": "College of Education Kura",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "AFCEK",
+            "name": "Al-fajr College of Education, Kano",
+            "type": "Private College of Education",
+            "provost": "Muhammad Miftau Umar",
+            "location": "kabuga, Plot No. 1147",
+            "web_page": null
+        },
+        {
+            "code": "SCOE",
+            "name": "Sunnah College of Education",
+            "type": "Private College of Education",
+            "provost": "Dr.",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "OWCOES",
+            "name": "Oswald Waller COE Shendam",
+            "type": "Private College of Education",
+            "provost": "Prof. Mathew N. Sule",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "ISCOEF",
+            "name": "Imam Saidu COE, Funtua",
+            "type": "Private College of Education",
+            "provost": "Dr.",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "BOCOE",
+            "name": "Bilyaminu Othman COE Dass",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "PIOSC",
+            "name": "The Polytechnic Iree, Osun State",
+            "type": "Polytechnics offering NCE Programmes",
+            "provost": "Dr",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "JCOEG",
+            "name": "Jibwis College of Education, Gumau",
+            "type": "Private College of Education",
+            "provost": "lame District",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "BCOE",
+            "name": "Bogoro College of Education",
+            "type": "Private College of Education",
+            "provost": "Bogoro",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "ICOEO",
+            "name": "Ife College of Education Omala",
+            "type": "Private College of Education",
+            "provost": "Jibrin Joseph",
+            "location": "Abejukolo Omala L. G. A.",
+            "web_page": null
+        },
+        {
+            "code": "ECOE",
+            "name": "Elibest College of Education",
+            "type": "Private College of Education",
+            "provost": "Dr. Oloruntuyi Ayodeji",
+            "location": "Ilu-Abo-Akure",
+            "web_page": null
+        },
+        {
+            "code": "ACOES",
+            "name": "Adesina College of Education, Share, Kwara State",
+            "type": "Private College of Education",
+            "provost": "Aremu Mufutau Olawale",
+            "location": "Share, Kwara state",
+            "web_page": "www.adesinacollege.edu.ng"
+        },
+        {
+            "code": "CCOE",
+            "name": "Covenant College of Education (CCOE)",
+            "type": "Private College of Education",
+            "provost": "Not Available",
+            "location": "Aba",
+            "web_page": null
+        },
+        {
+            "code": "JSCILS",
+            "name": "JIGAWA STATE COLLEGE OF EDUCATION AND LEGAL STUDIES, RINGIM",
+            "type": "State College of Education",
+            "provost": "Not Available",
+            "location": "Ringim",
+            "web_page": "www.jscilsringim.edu.ng"
+        },
+        {
+            "code": "CCOE",
+            "name": "CRESTFIELD COLLEGE OF EDUCATION",
+            "type": "Private College of Education",
+            "provost": "Not Available",
+            "location": "Osun",
+            "web_page": null
+        },
+        {
+            "code": "GCOE",
+            "name": "GRACE COLLEGE OF EDUCATION",
+            "type": "Private College of Education",
+            "provost": "Not Available",
+            "location": "Oshogbo",
+            "web_page": null
+        },
+        {
+            "code": "ACCET",
+            "name": "AFRICAN CHURCH COLLEGE OF EDUCATION",
+            "type": "Private College of Education",
+            "provost": "Not Available",
+            "location": "Agege",
+            "web_page": "www.taecoed.edu.ng"
+        },
+        {
+            "code": "KSCERS",
+            "name": "Kano State College of Education and Remedial Studies, Kano",
+            "type": "State College of Education",
+            "provost": "Dr. Sanusi Yakubu Ahmad",
+            "location": "Kano",
+            "web_page": null
+        },
+        {
+            "code": "COELLOYS",
+            "name": "College of Education, Lanlate, Oyo State",
+            "type": "State College of Education",
+            "provost": "Provost",
+            "location": "Oyo State",
+            "web_page": null
+        },
+        {
+            "code": "ATBCK",
+            "name": "Adamu Tafawa Balewa COE, Kangere",
+            "type": "State College of Education",
+            "provost": null,
+            "location": "Bauchi",
+            "web_page": null
+        },
+        {
+            "code": "CCEB",
+            "name": "Climax College of Education, Bauchi",
+            "type": "Private College of Education",
+            "provost": "Dr. Yunusa Abubakarr",
+            "location": "Bauchi State",
+            "web_page": null
+        },
+        {
+            "code": "TCNCEB",
+            "name": "TCNN College of Education, Bukuru",
+            "type": "Private College of Education",
+            "provost": "Prof. Samuel P. Ango",
+            "location": "Bukuru, Plateau State",
+            "web_page": null
+        },
+        {
+            "code": "JCOEJ",
+            "name": "JIBWIS College of Education Jos",
+            "type": "Private College of Education",
+            "provost": "Ahmad Garba",
+            "location": "Jos, Plateau State",
+            "web_page": null
+        },
+        {
+            "code": "COELS",
+            "name": "College of Education and Legal Studies",
+            "type": "State College of Education",
+            "provost": "Dr. Abba Idris Adam",
+            "location": "Nguru",
+            "web_page": "www.coels.edu.ng"
+        },
+        {
+            "code": "FCES",
+            "name": "Federal College of Education Sokoto",
+            "type": "Federal College of Education",
+            "provost": "Prof. Faruk Umar Zaki",
+            "location": "Federal College of Education s",
+            "web_page": null
+        },
+        {
+            "code": "FCEB",
+            "name": "Federal College of Education Bauchi",
+            "type": "Federal College of Education",
+            "provost": "Prof. A.I Mohammed",
+            "location": "Jama'are LGA, Bauchi State",
+            "web_page": null
+        },
+        {
+            "code": "FCETEBS",
+            "name": "Federal College of Education (T), ISU Ebonyi State",
+            "type": "Federal College of Education",
+            "provost": "Dr. Okey Reuben Okechukwu",
+            "location": "Isu, Onitsha LGA, Ebonyi State",
+            "web_page": null
+        },
+        {
+            "code": "FCEOBB",
+            "name": "Federal College of Education, Odugbo, Benue State",
+            "type": "Federal College of Education",
+            "provost": "Prof. Joel Obo Eriba",
+            "location": "Odugbo, Benue State",
+            "web_page": null
+        },
+        {
+            "code": "FCEOS",
+            "name": "Federal College of Education Osun",
+            "type": "Federal College of Education",
+            "provost": "Prof. R.I. Adebayo",
+            "location": "Iwo LGA, Iwo, Osun State",
+            "web_page": null
+        },
+        {
+            "code": "FCEEdo",
+            "name": "Federal College of Education Edo",
+            "type": "Federal College of Education",
+            "provost": "Dr. Emmanuel Asagha",
+            "location": "Ekiadolo, Ovia North East LGA",
+            "web_page": null
+        },
+        {
+            "code": "KICE",
+            "name": "Kashim Ibrahim College of Education",
+            "type": "State College of Education",
+            "provost": null,
+            "location": "PMB 1469, Maiduguri, Borno Sta",
+            "web_page": null
+        },
+        {
+            "code": "COEO",
+            "name": "College of Education Oro",
+            "type": "State College of Education",
+            "provost": null,
+            "location": "Oro, Kwara State",
+            "web_page": null
+        },
+        {
+            "code": "ISCOE",
+            "name": "Imo State College of Education, Ihitte/Uboma",
+            "type": "State College of Education",
+            "provost": null,
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "ACOEK",
+            "name": "Annur College of Education Kano",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Kano State",
+            "web_page": null
+        },
+        {
+            "code": "COEI",
+            "name": "College of Education Ilemona",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Offa, Kwara State",
+            "web_page": null
+        },
+        {
+            "code": "ECEA",
+            "name": "Ebenezer College of Education Amangwu",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Edd, Affikpo South LGA",
+            "web_page": null
+        },
+        {
+            "code": "JCOEG",
+            "name": "JIBWIS College of Education Gombe",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Gombe State",
+            "web_page": null
+        },
+        {
+            "code": "KECOE",
+            "name": "Kogi East College of Education",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Kogi State",
+            "web_page": null
+        },
+        {
+            "code": "GCESB",
+            "name": "Gboko College of Education Benue State",
+            "type": "Private College of Education",
+            "provost": "Mr. Benedict Terka Iornyagh",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "HACE",
+            "name": "Hope and Anchor College of Education",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Bakin-Iku, Kaduna Road",
+            "web_page": null
+        },
+        {
+            "code": "EMCOEN",
+            "name": "Elizabeth Memorial College of Education Nsukka",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "No 94 Ofolonu Road Odenigbo",
+            "web_page": null
+        },
+        {
+            "code": "ICEE",
+            "name": "Ilori College of Education , Ede",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "SYCCE",
+            "name": "Sarkin Yama Community College of Education",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Tilden Fulani",
+            "web_page": null
+        },
+        {
+            "code": "UBKCOE",
+            "name": "Umar Bun Khatab College of Education, Tudun Nupawa, Kaduna",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Kaduna State",
+            "web_page": null
+        },
+        {
+            "code": "PCOEJ",
+            "name": "Peacock College of Education Jalingo",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Along Medical Centre",
+            "web_page": null
+        },
+        {
+            "code": "PCOEANK",
+            "name": "Peace College Of Education Ankpa",
+            "type": "Private College of Education",
+            "provost": "Mohd Ibrahim",
+            "location": "Enokpoli, Ankpa",
+            "web_page": null
+        },
+        {
+            "code": "MCOEEI",
+            "name": "Moje College of Education, Erin-Ile",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": "Oyun LGA, Kwara State",
+            "web_page": null
+        },
+        {
+            "code": "UCOE",
+            "name": "Uli College of Education, Uli",
+            "type": "Private College of Education",
+            "provost": null,
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "LCOEASA",
+            "name": "Lifegate College of Education, Asa",
+            "type": "Private College of Education",
+            "location": "Asa LGA of Kwara State",
+            "web_page": null
+        },
+        {
+            "code": "JCOEJAMA",
+            "name": "JIBWIS COE, Jama’are",
+            "type": "Private College of Education",
+            "location": "Jama'are",
+            "web_page": null
+        },
+        {
+            "code": "DCOEKAN",
+            "name": "Dala College of Education, Kano",
+            "type": "Private College of Education",
+            "location": "Kano",
+            "web_page": null
+        },
+        {
+            "code": "HCOEOSH",
+            "name": "Hamzainab College of Education, Oshogbo",
+            "type": "Private College of Education",
+            "location": "Oshogbo",
+            "web_page": null
+        },
+        {
+            "code": "COEDAR",
+            "name": "College of Education, Darazo",
+            "type": "Private College of Education",
+            "location": "Darazo",
+            "web_page": null
+        },
+        {
+            "code": "AGZCOEB",
+            "name": "Abubakar Garba Zagada- Zagada College of Education, Bajoga",
+            "type": "Private College of Education",
+            "location": "Gombe",
+            "web_page": null
+        },
+        {
+            "code": "IHCOEIL",
+            "name": "Imam Hamzat COE, Ilorin",
+            "type": "Private College of Education",
+            "location": "Ilorin",
+            "web_page": null
+        },
+        {
+            "code": "MCOEAL",
+            "name": "Metro COE, Adogi-Lafia",
+            "type": "Private College of Education",
+            "location": "Lafia",
+            "web_page": null
+        },
+        {
+            "code": "CSASCOE",
+            "name": "College of Sharia and Arabic Studies",
+            "type": "Private College of Education",
+            "location": "Bauchi",
+            "web_page": null
+        },
+        {
+            "code": "AMCOEWAS",
+            "name": "Abdullahi Maikano College of Education, Wase",
+            "type": "Private College of Education",
+            "location": "Wase",
+            "web_page": null
+        },
+        {
+            "code": "NCOEBEN",
+            "name": "Nosakhare COE, Benin City",
+            "type": "Private College of Education",
+            "location": "Benin City",
+            "web_page": null
+        },
+        {
+            "code": "GSCOE",
+            "name": "Good Shepperd COE",
+            "type": "Private College of Education",
+            "location": "Ogun",
+            "web_page": null
+        },
+        {
+            "code": "TCOEKAN",
+            "name": "Turath COE, Kano",
+            "type": "Private College of Education",
+            "location": "Kano",
+            "web_page": null
+        },
+        {
+            "code": "MHCOE",
+            "name": "Meadow Hall COE",
+            "type": "Private College of Education",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "RCOE",
+            "name": "Raphat COE",
+            "type": "Private College of Education",
+            "location": "Obaagun",
+            "web_page": null
+        },
+        {
+            "code": "KCOEKAZ",
+            "name": "Kazaure College of Education",
+            "type": "Private College of Education",
+            "location": "Kazaure",
+            "web_page": null
+        },
+        {
+            "code": "JCOEKEF",
+            "name": "JIBWIS College of Education",
+            "type": "Private College of Education",
+            "location": "Keffi",
+            "web_page": null
+        },
+        {
+            "code": "AGCOETORO",
+            "name": "Adamu Garkuwa COE, Toro",
+            "type": "Private College of Education",
+            "location": "Toro",
+            "web_page": null
+        },
+        {
+            "code": "FFCOEON",
+            "name": "Folrac Fortified COE, Ondo",
+            "type": "Private College of Education",
+            "location": "Ondo",
+            "web_page": null
+        },
+        {
+            "code": "AICOE",
+            "name": "Al-Iman College of Education",
+            "type": "Private College of Education",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "DCOENIN",
+            "name": "Danyaya College of Education, Ningi",
+            "type": "Private College of Education",
+            "location": "Ningi",
+            "web_page": null
+        },
+        {
+            "code": "ICEKARU",
+            "name": "Innovative College of Education, Karu",
+            "type": "Private College of Education",
+            "provost": "Dr. Maro, Joshua Embugu",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "SACOE",
+            "name": "Sam Ale College of Education",
+            "type": "Private College of Education",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "GSCOENAF",
+            "name": "Gombe State COE, NAFADA",
+            "type": "State College of Education",
+            "location": "Nafada, Gombe",
+            "web_page": null
+        },
+        {
+            "code": "GPCOE",
+            "name": "Gand-Plus College of Education",
+            "type": "Private College of Education",
+            "location": "Ilorin",
+            "web_page": null
+        },
+        {
+            "code": "OCOE",
+            "name": "Olekamba College of Education",
+            "type": "Private College of Education",
+            "location": null,
+            "web_page": null
+        },
+        {
+            "code": "ECOE",
+            "name": "Emamo College of Education",
+            "type": "Private College of Education",
+            "location": "Emamo",
+            "web_page": null
+        },
+        {
+            "code": "AKCOEILS",
+            "name": "Aminu Kano College of Islamic and Legal Studies",
+            "type": "Other NCE-Awarding Institutions",
+            "location": "Kano",
+            "web_page": null
+        },
+        {
+            "code": "MGCOLIS",
+            "name": "Muhammad Goni College of Legal and Islamic Studies (MOGOLIS)",
+            "type": "Other NCE-Awarding Institutions",
+            "location": "Maiduguri",
+            "web_page": null
+        },
+        {
+            "code": "ADRCLI",
+            "name": "A.D. Rufa’i College for Islamic and Legal Studies",
+            "type": "Other NCE-Awarding Institutions",
+            "location": "Misau",
+            "web_page": null
+        },
+        {
+            "code": "YBUCOLGS",
+            "name": "Yusuf Bala Usman College of Legal and General Studies, Daura",
+            "type": "Other NCE-Awarding Institutions",
+            "location": "Daura",
+            "web_page": null
+        },
+        {
+            "code": "BIAIS",
+            "name": "Bauchi Institute for Arabic and Islamic Studies",
+            "type": "Other NCE-Awarding Institutions",
+            "location": "Bauchi",
+            "web_page": null
+        },
+        {
+            "code": "IEE",
+            "name": "Institute of Ecumenical Education (Thinkers Corner)",
+            "type": "Other NCE-Awarding Institutions",
+            "location": "Enugu",
+            "web_page": null
+        },
+        {
+            "code": "ASICASZ",
+            "name": "Ameer Shehu Idris College of Advanced Studies, Zaria",
+            "type": "Other NCE-Awarding Institutions",
+            "location": "Zaria",
+            "web_page": null
+        },
+        {
+            "code": "ECWACOEB",
+            "name": "ECWA COE, Bayara",
+            "type": "Private College of Education",
+            "location": "Bauchi",
+            "web_page": null
+        },
+        {
+            "code": "PCOEOSUN",
+            "name": "Premier COE, Osun",
+            "type": "Private College of Education",
+            "location": "Egbedore",
+            "web_page": null
+        },
+        {
+            "code": "ACOO",
+            "name": "Al-Madinah COE Oshogbo",
+            "type": "Private College of Education",
+            "location": "Osogbo",
+            "web_page": null
+        },
+        {
+            "code": "DCOEGBO",
+            "name": "Doviana COE, Gboko",
+            "type": "Private College of Education",
+            "location": "Gboko",
+            "web_page": null
+        },
+        {
+            "code": "CCO",
+            "name": "Christian Chukwuma Onoh COE",
+            "type": "Private College of Education",
+            "location": "Enugu",
+            "web_page": null
+        },
+        {
+            "code": "ACOEBYE",
+            "name": "Adigrace COE, Byepyi",
+            "type": "Private College of Education",
+            "location": "Wukari",
+            "web_page": null
+        },
+        {
+            "code": "OCE",
+            "name": "Owu College of Education",
+            "type": "Private College of Education",
+            "location": "Ewekoro",
+            "web_page": null
+        },
+        {
+            "code": "PCOE",
+            "name": "Piaget College of Education",
+            "type": "Private College of Education",
+            "location": "Abeokuta",
+            "web_page": "Not Available"
+        },
+        {
+            "code": "TECOE",
+            "name": "Tony Erewa College of Education",
+            "type": "Private College of Education",
+            "location": "OTON-Sapele",
+            "web_page": "https://tonygerewacoe.com.ng"
+        }
+    ]
+}
